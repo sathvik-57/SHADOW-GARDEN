@@ -1,0 +1,51 @@
+                                             precision    recall  f1-score   support
+
+                           Apple_Apple_Scab       1.00      1.00      1.00       203
+                            Apple_Black_Rot       1.00      1.00      1.00       200
+                     Apple_Cedar_Apple_Rust       1.00      1.00      1.00       176
+                              Apple_Healthy       1.00      1.00      1.00       200
+   Corn_Cercospora_Leaf_Spot_Gray_Leaf_Spot       0.92      0.79      0.85       165
+                           Corn_Common_Rust       1.00      1.00      1.00       215
+                        Corn_Gray_Leaf_Spot       0.52      0.75      0.61        52
+                               Corn_Healthy       1.00      1.00      1.00       209
+                  Corn_Northern_Leaf_Blight       0.99      0.99      0.99       213
+                            Grape_Black_Rot       1.00      1.00      1.00       190
+                 Grape_Esca_(Black_Measles)       1.00      1.00      1.00       192
+                              Grape_Healthy       1.00      1.00      1.00       170
+   Grape_Leaf_Blight_(Isariopsis_Leaf_Spot)       1.00      1.00      1.00       173
+     Orange_Haunglongbing_(Citrus_Greening)       1.00      1.00      1.00       201
+                     Pepper,_Bacterial_Spot       0.87      0.60      0.71       192
+                            Pepper,_Healthy       0.95      0.37      0.53       200
+                      Pepper_Bacterial_Spot       0.53      0.83      0.64       101
+                             Pepper_Healthy       0.54      0.97      0.69       149
+                        Potato_Early_Blight       1.00      1.00      1.00       216
+                             Potato_Healthy       1.00      1.00      1.00       186
+                         Potato_Late_Blight       1.00      1.00      1.00       214
+                          Raspberry_Healthy       1.00      1.00      1.00       179
+                            Rice_Brown_Spot       0.91      0.82      0.86        62
+                               Rice_Healthy       0.91      0.97      0.94       150
+                            Rice_Leaf_Blast       0.92      0.88      0.90        99
+                            Rice_Neck_Blast       1.00      1.00      1.00       100
+                            Soybean_Healthy       1.00      1.00      1.00       203
+                      Squash_Powdery_Mildew       1.00      1.00      1.00       175
+                     Strawberry_Leaf_Scorch       0.99      1.00      1.00       178
+                 Sugarcane_Bacterial_Blight       0.91      1.00      0.95        10
+                          Sugarcane_Healthy       1.00      1.00      1.00        10
+                          Sugarcane_Red_Rot       1.00      0.90      0.95        10
+                      Tomato_Bacterial_Spot       1.00      1.00      1.00       214
+                        Tomato_Early_Blight       1.00      0.99      0.99       100
+                             Tomato_Healthy       1.00      1.00      1.00       159
+                         Tomato_Late_Blight       0.99      1.00      1.00       191
+                           Tomato_Leaf_Mold       1.00      1.00      1.00        96
+                  Tomato_Septoria_Leaf_Spot       0.99      1.00      1.00       178
+Tomato_Spider_Mites_Two_Spotted_Spider_Mite       1.00      1.00      1.00       169
+                         Tomato_Target_Spot       1.00      0.99      1.00       141
+                 Tomato_Tomato_Mosaic_Virus       1.00      1.00      1.00        38
+       Tomato_Tomato_Yellow_Leaf_Curl_Virus       1.00      1.00      1.00       322
+                           Wheat_Brown_Rust       1.00      1.00      1.00        91
+                              Wheat_Healthy       1.00      1.00      1.00       113
+                          Wheat_Yellow_Rust       1.00      1.00      1.00        93
+
+                                   accuracy                           0.96      6898
+                                  macro avg       0.95      0.95      0.95      6898
+                               weighted avg       0.97      0.96      0.95      6898

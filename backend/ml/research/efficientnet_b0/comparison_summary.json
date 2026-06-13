@@ -1,0 +1,20 @@
+{
+    "ResNet50": {
+        "Accuracy": 0.96,
+        "Precision": 0.95,
+        "Recall": 0.95,
+        "F1": 0.95,
+        "Parameters": 23508000,
+        "Model_Size_MB": 90.0,
+        "Training_Time_Seconds": 0
+    },
+    "EfficientNet-B0": {
+        "Accuracy": 0.9528848941722239,
+        "Precision": 0.9452255707365541,
+        "Recall": 0.9401840631428462,
+        "F1": 0.9370947770081373,
+        "Parameters": 4065193,
+        "Model_Size_MB": 15.796232223510742,
+        "Training_Time_Seconds": 6237.030584573746
+    }
+}

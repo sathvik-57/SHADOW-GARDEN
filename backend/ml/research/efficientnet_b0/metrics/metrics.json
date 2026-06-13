@@ -1,0 +1,17 @@
+{
+    "Accuracy": 0.9528848941722239,
+    "Top_5_Accuracy": 0.9998550304436068,
+    "Precision": 0.9452255707365541,
+    "Recall": 0.9401840631428462,
+    "F1": 0.9370947770081373,
+    "Cohen_Kappa": 0.9516231602030064,
+    "MCC": 0.9519676108965053,
+    "ROC_AUC_Macro": 0.9991743341964682,
+    "ROC_AUC_Weighted": 0.9992481149826775,
+    "Training_Time_Seconds": 6237.030584573746,
+    "Epochs_Trained": 10,
+    "Inference_Time_Per_Image_Seconds": 0.01039057287419143,
+    "Model_Size_MB": 15.796232223510742,
+    "Parameters": 4065193,
+    "Number_Of_Classes": 45
+}

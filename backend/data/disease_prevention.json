@@ -1,0 +1,2162 @@
+{
+    "Apple_Apple_Scab": {
+        "name": "Apple Scab",
+        "disease_name_kn": "ಸೇಬು ಸ್ಕ್ಯಾಬ್ (ಕಜ್ಜಿ ರೋಗ)",
+        "description": "A fungal disease causing dark, scabby lesions on leaves and fruit.",
+        "description_kn": "ಎಲೆಗಳು ಮತ್ತು ಹಣ್ಣುಗಳ ಮೇಲೆ ಕಪ್ಪು ಬಣ್ಣದ ಕಜ್ಜಿ ರೀತಿಯ ಕಲೆಗಳನ್ನು ಉಂಟುಮಾಡುವ ಶಿಲೀಂಧ್ರ ರೋಗ.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "20-50%",
+        "yield_loss_kn": "20-50%",
+        "pathogen": "Venturia inaequalis",
+        "pathogen_kn": "ವೆಂಚುರಿಯಾ ಇನಾಕ್ವಾಲಿಸ್",
+        "countermeasures": [
+            "Apply fungicides like Captan or Mancozeb at green tip stage.",
+            "Prune trees to improve air circulation.",
+            "Rake and destroy fallen leaves."
+        ],
+        "preventive_measures": [
+            "Plant scab-resistant apple varieties.",
+            "Ensure wide tree spacing.",
+            "Apply urea to fallen leaves to speed up decomposition."
+        ],
+        "recommended_actions": [
+            "Monitor weather; infection requires rain and specific temperatures.",
+            "Start spray program before first rain.",
+            "Burn heavily infected plant parts."
+        ],
+        "countermeasures_kn": [
+            "ಹಸಿರು ಚಿಗುರಿನ ಹಂತದಲ್ಲಿ ಕ್ಯಾಪ್ಟನ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಗಾಳಿಯ ಸಂಚಾರವನ್ನು ಸುಧಾರಿಸಲು ಮರಗಳ ಕೊಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ.",
+            "ಉದುರಿದ ಎಲೆಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಸುಟ್ಟುಹಾಕಿ."
+        ],
+        "preventive_measures_kn": [
+            "ರೋಗ ನಿರೋಧಕ ಸೇಬು ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಮರಗಳ ನಡುವೆ ಸಾಕಷ್ಟು ಅಂತರವಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ಉದುರಿದ ಎಲೆಗಳು ಬೇಗ ಕೊಳೆಯಲು ಯೂರಿಯಾ ಸಿಂಪಡಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಹವಾಮಾನದ ಮೇಲೆ ನಿಗಾ ಇರಿಸಿ; ಮಳೆಯಾದಾಗ ರೋಗ ಹರಡುತ್ತದೆ.",
+            "ಮೊದಲ ಮಳೆಗೆ ಮುನ್ನವೇ ಸಿಂಪರಣೆ ಪ್ರಾರಂಭಿಸಿ.",
+            "ಹೆಚ್ಚು ಸೋಂಕಿತ ಗಿಡದ ಭಾಗಗಳನ್ನು ಸುಟ್ಟುಹಾಕಿ."
+        ],
+        "prevention_en": [
+            "Apply fungicides like Captan or Mancozeb at green tip stage.",
+            "Prune trees to improve air circulation.",
+            "Rake and destroy fallen leaves.",
+            "Plant scab-resistant apple varieties.",
+            "Ensure wide tree spacing.",
+            "Apply urea to fallen leaves to speed up decomposition.",
+            "Monitor weather; infection requires rain and specific temperatures.",
+            "Start spray program before first rain.",
+            "Burn heavily infected plant parts."
+        ],
+        "prevention_kn": [
+            "ಹಸಿರು ಚಿಗುರಿನ ಹಂತದಲ್ಲಿ ಕ್ಯಾಪ್ಟನ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಗಾಳಿಯ ಸಂಚಾರವನ್ನು ಸುಧಾರಿಸಲು ಮರಗಳ ಕೊಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ.",
+            "ಉದುರಿದ ಎಲೆಗಳನ್ನು ಒಟ್ಟುಗೂಡಿಸಿ ಸುಟ್ಟುಹಾಕಿ.",
+            "ರೋಗ ನಿರೋಧಕ ಸೇಬು ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಮರಗಳ ನಡುವೆ ಸಾಕಷ್ಟು ಅಂತರವಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ಉದುರಿದ ಎಲೆಗಳು ಬೇಗ ಕೊಳೆಯಲು ಯೂರಿಯಾ ಸಿಂಪಡಿಸಿ.",
+            "ಹವಾಮಾನದ ಮೇಲೆ ನಿಗಾ ಇರಿಸಿ; ಮಳೆಯಾದಾಗ ರೋಗ ಹರಡುತ್ತದೆ.",
+            "ಮೊದಲ ಮಳೆಗೆ ಮುನ್ನವೇ ಸಿಂಪರಣೆ ಪ್ರಾರಂಭಿಸಿ.",
+            "ಹೆಚ್ಚು ಸೋಂಕಿತ ಗಿಡದ ಭಾಗಗಳನ್ನು ಸುಟ್ಟುಹಾಕಿ."
+        ]
+    },
+    "Apple_Black_Rot": {
+        "name": "Black Rot",
+        "disease_name_kn": "ಕಪ್ಪು ಕೊಳೆ ರೋಗ",
+        "description": "Causes frogeye leaf spots, cankers on branches, and rotting of fruit.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ಕಪ್ಪೆ ಕಣ್ಣಿನ ಆಕಾರದ ಕಲೆಗಳು, ಕೊಂಬೆಗಳ ಮೇಲೆ ಹುಣ್ಣುಗಳು ಮತ್ತು ಹಣ್ಣು ಕೊಳೆಯುವಿಕೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+        "severity": "High",
+        "severity_kn": "ಹೆಚ್ಚು",
+        "yield_loss": "30-60%",
+        "yield_loss_kn": "30-60%",
+        "pathogen": "Botryosphaeria obtusa",
+        "pathogen_kn": "ಬಾಟ್ರಿಯೋಸ್ಫೇರಿಯಾ ಒಬ್ಟುಸಾ",
+        "countermeasures": [
+            "Prune out and burn all dead or diseased wood.",
+            "Apply protective fungicides like Thiophanate-methyl.",
+            "Remove mummified fruits from the tree."
+        ],
+        "preventive_measures": [
+            "Avoid injuring trees during pruning or mowing.",
+            "Maintain good tree vigor through proper fertilization.",
+            "Sanitize pruning tools between cuts."
+        ],
+        "recommended_actions": [
+            "Inspect orchard periodically during warm, wet weather.",
+            "Remove cuttings immediately from the orchard.",
+            "Do not leave stacked wood near the orchard."
+        ],
+        "countermeasures_kn": [
+            "ಒಣಗಿದ ಅಥವಾ ರೋಗಗ್ರಸ್ತ ಕೊಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ಸುಟ್ಟುಹಾಕಿ.",
+            "ಥಿಯೋಫನೇಟ್-ಮೀಥೈಲ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಮರದಲ್ಲಿ ಒಣಗಿ ನೇತಾಡುತ್ತಿರುವ ಹಣ್ಣುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಕತ್ತರಿಸುವಾಗ ಅಥವಾ ಹುಲ್ಲು ಕತ್ತರಿಸುವಾಗ ಮರಗಳಿಗೆ ಗಾಯವಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ಸರಿಯಾದ ರಸಗೊಬ್ಬರ ನೀಡುವ ಮೂಲಕ ಮರಗಳ ಆರೋಗ್ಯ ಕಾಪಾಡಿ.",
+            "ಉಪಕರಣಗಳನ್ನು ಬಳಸಿದ ನಂತರ ಸ್ವಚ್ಛಗೊಳಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಬೆಚ್ಚಗಿನ ಮತ್ತು ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ಆಗಾಗ್ಗೆ ತೋಟವನ್ನು ಪರೀಕ್ಷಿಸಿ.",
+            "ಕತ್ತರಿಸಿದ ಕೊಂಬೆಗಳನ್ನು ತಕ್ಷಣವೇ ತೋಟದಿಂದ ಹೊರಹಾಕಿ.",
+            "ತೋಟದ ಹತ್ತಿರ ಮರದ ತುಂಡುಗಳನ್ನು ರಾಶಿ ಹಾಕಬೇಡಿ."
+        ],
+        "prevention_en": [
+            "Prune out and burn all dead or diseased wood.",
+            "Apply protective fungicides like Thiophanate-methyl.",
+            "Remove mummified fruits from the tree.",
+            "Avoid injuring trees during pruning or mowing.",
+            "Maintain good tree vigor through proper fertilization.",
+            "Sanitize pruning tools between cuts.",
+            "Inspect orchard periodically during warm, wet weather.",
+            "Remove cuttings immediately from the orchard.",
+            "Do not leave stacked wood near the orchard."
+        ],
+        "prevention_kn": [
+            "ಒಣಗಿದ ಅಥವಾ ರೋಗಗ್ರಸ್ತ ಕೊಂಬೆಗಳನ್ನು ಕತ್ತರಿಸಿ ಸುಟ್ಟುಹಾಕಿ.",
+            "ಥಿಯೋಫನೇಟ್-ಮೀಥೈಲ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಮರದಲ್ಲಿ ಒಣಗಿ ನೇತಾಡುತ್ತಿರುವ ಹಣ್ಣುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+            "ಕತ್ತರಿಸುವಾಗ ಅಥವಾ ಹುಲ್ಲು ಕತ್ತರಿಸುವಾಗ ಮರಗಳಿಗೆ ಗಾಯವಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ಸರಿಯಾದ ರಸಗೊಬ್ಬರ ನೀಡುವ ಮೂಲಕ ಮರಗಳ ಆರೋಗ್ಯ ಕಾಪಾಡಿ.",
+            "ಉಪಕರಣಗಳನ್ನು ಬಳಸಿದ ನಂತರ ಸ್ವಚ್ಛಗೊಳಿಸಿ.",
+            "ಬೆಚ್ಚಗಿನ ಮತ್ತು ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ಆಗಾಗ್ಗೆ ತೋಟವನ್ನು ಪರೀಕ್ಷಿಸಿ.",
+            "ಕತ್ತರಿಸಿದ ಕೊಂಬೆಗಳನ್ನು ತಕ್ಷಣವೇ ತೋಟದಿಂದ ಹೊರಹಾಕಿ.",
+            "ತೋಟದ ಹತ್ತಿರ ಮರದ ತುಂಡುಗಳನ್ನು ರಾಶಿ ಹಾಕಬೇಡಿ."
+        ]
+    },
+    "Apple_Cedar_Apple_Rust": {
+        "name": "Cedar Apple Rust",
+        "disease_name_kn": "ಸೇಬು ತುಕ್ಕು ರೋಗ",
+        "description": "Fungal disease causing bright orange spots on leaves and fruit, requiring a cedar host.",
+        "description_kn": "ಎಲೆಗಳು ಮತ್ತು ಹಣ್ಣುಗಳ ಮೇಲೆ ಪ್ರಕಾಶಮಾನವಾದ ಕಿತ್ತಳೆ ಕಲೆಗಳನ್ನು ಉಂಟುಮಾಡುವ ರೋಗ.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "10-30%",
+        "yield_loss_kn": "10-30%",
+        "pathogen": "Gymnosporangium juniperi-virginianae",
+        "pathogen_kn": "ಜಿಮ್ನೋಸ್ಪೊರಾಂಜಿಯಂ",
+        "countermeasures": [
+            "Apply Myclobutanil or Mancozeb preventatively.",
+            "Remove cedar galls from nearby juniper trees in winter.",
+            "Spray fungicides during the pink bud stage."
+        ],
+        "preventive_measures": [
+            "Plant rust-resistant apple varieties.",
+            "Remove completely any eastern red cedar within a 2-mile radius if possible.",
+            "Avoid planting apple orchards near native cedars."
+        ],
+        "recommended_actions": [
+            "Monitor leaves in mid-spring for initial orange spots.",
+            "Implement a strict spray schedule from blossom to fruit set.",
+            "Inform neighbors about the cedar-apple transmission cycle."
+        ],
+        "countermeasures_kn": [
+            "ರೋಗ ಬರುವ ಮುನ್ನ ಮೈಕ್ಲೋಬುಟಾನಿಲ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ಸಿಂಪಡಿಸಿ.",
+            "ಚಳಿಗಾಲದಲ್ಲಿ ಹತ್ತಿರದ ಜುನಿಪರ್ ಮರಗಳಿಂದ ಗಂಟುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+            "ಮೊಗ್ಗು ಹಂತದಲ್ಲಿ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ತುಕ್ಕು ನಿರೋಧಕ ಸೇಬು ತಳಿಗಳನ್ನು ಬೆಳೆಸಿ.",
+            "ಸಾಧ್ಯವಾದರೆ 2 ಮೈಲಿ ವ್ಯಾಪ್ತಿಯಲ್ಲಿರುವ ಸೀಡರ್ ಮರಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+            "ಸೀಡರ್ ಮರಗಳ ಹತ್ತಿರ ಸೇಬು ಬೆಳೆಯುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ವಸಂತ ಋತುವಿನಲ್ಲಿ ಎಲೆಗಳ ಮೇಲೆ ಕಿತ್ತಳೆ ಕಲೆಗಳಿವೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ.",
+            "ಹೂಬಿಡುವಿಕೆಯಿಂದ ಹಣ್ಣು ಕಚ್ಚುವವರೆಗೆ ಕಟ್ಟುನಿಟ್ಟಾದ ಸಿಂಪರಣೆ ಮಾಡಿ.",
+            "ಈ ರೋಗ ಹರಡುವ ರೀತಿಯ ಬಗ್ಗೆ ನೆರೆಯ ರೈತರಿಗೆ ಮಾಹಿತಿ ನೀಡಿ."
+        ],
+        "prevention_en": [
+            "Apply Myclobutanil or Mancozeb preventatively.",
+            "Remove cedar galls from nearby juniper trees in winter.",
+            "Spray fungicides during the pink bud stage.",
+            "Plant rust-resistant apple varieties.",
+            "Remove completely any eastern red cedar within a 2-mile radius if possible.",
+            "Avoid planting apple orchards near native cedars.",
+            "Monitor leaves in mid-spring for initial orange spots.",
+            "Implement a strict spray schedule from blossom to fruit set.",
+            "Inform neighbors about the cedar-apple transmission cycle."
+        ],
+        "prevention_kn": [
+            "ರೋಗ ಬರುವ ಮುನ್ನ ಮೈಕ್ಲೋಬುಟಾನಿಲ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ಸಿಂಪಡಿಸಿ.",
+            "ಚಳಿಗಾಲದಲ್ಲಿ ಹತ್ತಿರದ ಜುನಿಪರ್ ಮರಗಳಿಂದ ಗಂಟುಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+            "ಮೊಗ್ಗು ಹಂತದಲ್ಲಿ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ತುಕ್ಕು ನಿರೋಧಕ ಸೇಬು ತಳಿಗಳನ್ನು ಬೆಳೆಸಿ.",
+            "ಸಾಧ್ಯವಾದರೆ 2 ಮೈಲಿ ವ್ಯಾಪ್ತಿಯಲ್ಲಿರುವ ಸೀಡರ್ ಮರಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+            "ಸೀಡರ್ ಮರಗಳ ಹತ್ತಿರ ಸೇಬು ಬೆಳೆಯುವುದನ್ನು ತಪ್ಪಿಸಿ.",
+            "ವಸಂತ ಋತುವಿನಲ್ಲಿ ಎಲೆಗಳ ಮೇಲೆ ಕಿತ್ತಳೆ ಕಲೆಗಳಿವೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸಿ.",
+            "ಹೂಬಿಡುವಿಕೆಯಿಂದ ಹಣ್ಣು ಕಚ್ಚುವವರೆಗೆ ಕಟ್ಟುನಿಟ್ಟಾದ ಸಿಂಪರಣೆ ಮಾಡಿ.",
+            "ಈ ರೋಗ ಹರಡುವ ರೀತಿಯ ಬಗ್ಗೆ ನೆರೆಯ ರೈತರಿಗೆ ಮಾಹಿತಿ ನೀಡಿ."
+        ]
+    },
+    "Apple_Healthy": {
+        "name": "Healthy Apple",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ಸೇಬು",
+        "description": "The plant is healthy with no visible signs of disease.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದ್ದು ಯಾವುದೇ ರೋಗದ ಲಕ್ಷಣಗಳಿಲ್ಲ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required.",
+            "Continue standard orchard maintenance."
+        ],
+        "preventive_measures": [
+            "Maintain a balanced fertilization schedule.",
+            "Ensure proper irrigation."
+        ],
+        "recommended_actions": [
+            "Monitor regularly for pests and diseases."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ತೋಟದ ಸಾಮಾನ್ಯ ನಿರ್ವಹಣೆಯನ್ನು ಮುಂದುವರಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರ ವೇಳಾಪಟ್ಟಿಯನ್ನು ನಿರ್ವಹಿಸಿ.",
+            "ಸರಿಯಾದ ನೀರಾವರಿ ಒದಗಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಕೀಟ ಮತ್ತು ರೋಗಗಳ ಬಗ್ಗೆ ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Continue standard orchard maintenance.",
+            "Maintain a balanced fertilization schedule.",
+            "Ensure proper irrigation.",
+            "Monitor regularly for pests and diseases."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ತೋಟದ ಸಾಮಾನ್ಯ ನಿರ್ವಹಣೆಯನ್ನು ಮುಂದುವರಿಸಿ.",
+            "ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರ ವೇಳಾಪಟ್ಟಿಯನ್ನು ನಿರ್ವಹಿಸಿ.",
+            "ಸರಿಯಾದ ನೀರಾವರಿ ಒದಗಿಸಿ.",
+            "ಕೀಟ ಮತ್ತು ರೋಗಗಳ ಬಗ್ಗೆ ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Corn_Cercospora_Leaf_Spot_Gray_Leaf_Spot": {
+        "name": "Gray Leaf Spot (Cercospora)",
+        "disease_name_kn": "ಬೂದು ಎಲೆ ಚುಕ್ಕೆ ರೋಗ",
+        "description": "Rectangular, pale brown to gray spots restricted by leaf veins.",
+        "description_kn": "ಎಲೆಗಳ ನರಗಳ ನಡುವೆ ಆಯತಾಕಾರದ, ತಿಳಿ ಕಂದು ಬಣ್ಣದಿಂದ ಬೂದು ಬಣ್ಣದ ಕಲೆಗಳು.",
+        "severity": "High",
+        "severity_kn": "ಹೆಚ್ಚು",
+        "yield_loss": "15-50%",
+        "yield_loss_kn": "15-50%",
+        "pathogen": "Cercospora zeae-maydis",
+        "pathogen_kn": "ಸರ್ಕೊಸ್ಪೊರಾ ಜೀಯ-ಮೇಡಿಸ್",
+        "countermeasures": [
+            "Apply strobilurin or triazole fungicides at tasseling stage."
+        ],
+        "preventive_measures": [
+            "Use resistant maize hybrids.",
+            "Practice crop rotation."
+        ],
+        "recommended_actions": [
+            "Monitor lower leaves right before tasseling."
+        ],
+        "countermeasures_kn": [
+            "ತೆನೆ ಬಿಡುವ ಹಂತದಲ್ಲಿ ಸ್ಟ್ರೋಬಿಲುರಿನ್ ಅಥವಾ ಟ್ರೈಯಾಜೋಲ್ ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ರೋಗ ನಿರೋಧಕ ಮೆಕ್ಕೆಜೋಳದ ತಳಿಗಳನ್ನು ಬಳಸಿ.",
+            "ಬೆಳೆ ತಿರುಗುವಿಕೆ ಮಾಡಿ."
+        ],
+        "recommended_actions_kn": [
+            "ತೆನೆ ಬಿಡುವ ಮುನ್ನ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ."
+        ],
+        "prevention_en": [
+            "Apply strobilurin or triazole fungicides at tasseling stage.",
+            "Use resistant maize hybrids.",
+            "Practice crop rotation.",
+            "Monitor lower leaves right before tasseling."
+        ],
+        "prevention_kn": [
+            "ತೆನೆ ಬಿಡುವ ಹಂತದಲ್ಲಿ ಸ್ಟ್ರೋಬಿಲುರಿನ್ ಅಥವಾ ಟ್ರೈಯಾಜೋಲ್ ಸಿಂಪಡಿಸಿ.",
+            "ರೋಗ ನಿರೋಧಕ ಮೆಕ್ಕೆಜೋಳದ ತಳಿಗಳನ್ನು ಬಳಸಿ.",
+            "ಬೆಳೆ ತಿರುಗುವಿಕೆ ಮಾಡಿ.",
+            "ತೆನೆ ಬಿಡುವ ಮುನ್ನ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ."
+        ]
+    },
+    "Corn_Common_Rust": {
+        "name": "Common Rust",
+        "disease_name_kn": "ತುಕ್ಕು ರೋಗ",
+        "description": "Elongated, brick-red pustules on both surfaces of the leaf.",
+        "description_kn": "ಎಲೆಯ ಎರಡೂ ಬದಿಗಳಲ್ಲಿ ಇಟ್ಟಿಗೆ-ಕೆಂಪು ಬಣ್ಣದ ಉದ್ದವಾದ ಗುಳ್ಳೆಗಳು.",
+        "severity": "Low",
+        "severity_kn": "ಕಡಿಮೆ",
+        "yield_loss": "5-15%",
+        "yield_loss_kn": "5-15%",
+        "pathogen": "Puccinia sorghi",
+        "pathogen_kn": "ಪಕ್ಸಿನಿಯಾ ಸೋರ್ಗಿ",
+        "countermeasures": [
+            "Apply foliar fungicides if disease is severe and spreading rapidly."
+        ],
+        "preventive_measures": [
+            "Plant rust-resistant hybrids.",
+            "Adjust planting dates to avoid high humidity peak periods."
+        ],
+        "recommended_actions": [
+            "Monitor during cool, highly humid weather."
+        ],
+        "countermeasures_kn": [
+            "ರೋಗ ತೀವ್ರವಾಗಿದ್ದರೆ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಎಲೆಗಳ ಮೇಲೆ ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ತುಕ್ಕು ನಿರೋಧಕ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಹೆಚ್ಚು ಆರ್ದ್ರತೆಯ ಅವಧಿಯನ್ನು ತಪ್ಪಿಸಲು ಬಿತ್ತನೆ ದಿನಾಂಕಗಳನ್ನು ಹೊಂದಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ತಂಪಾದ, ಹೆಚ್ಚು ಆರ್ದ್ರತೆಯ ವಾತಾವರಣದಲ್ಲಿ ನಿಗಾ ಇರಿಸಿ."
+        ],
+        "prevention_en": [
+            "Apply foliar fungicides if disease is severe and spreading rapidly.",
+            "Plant rust-resistant hybrids.",
+            "Adjust planting dates to avoid high humidity peak periods.",
+            "Monitor during cool, highly humid weather."
+        ],
+        "prevention_kn": [
+            "ರೋಗ ತೀವ್ರವಾಗಿದ್ದರೆ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಎಲೆಗಳ ಮೇಲೆ ಸಿಂಪಡಿಸಿ.",
+            "ತುಕ್ಕು ನಿರೋಧಕ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಹೆಚ್ಚು ಆರ್ದ್ರತೆಯ ಅವಧಿಯನ್ನು ತಪ್ಪಿಸಲು ಬಿತ್ತನೆ ದಿನಾಂಕಗಳನ್ನು ಹೊಂದಿಸಿ.",
+            "ತಂಪಾದ, ಹೆಚ್ಚು ಆರ್ದ್ರತೆಯ ವಾತಾವರಣದಲ್ಲಿ ನಿಗಾ ಇರಿಸಿ."
+        ]
+    },
+    "Corn_Gray_Leaf_Spot": {
+        "name": "Gray Leaf Spot",
+        "disease_name_kn": "ಬೂದು ಎಲೆ ಚುಕ್ಕೆ ರೋಗ",
+        "description": "Rectangular, pale brown to gray spots restricted by leaf veins.",
+        "description_kn": "ಎಲೆಗಳ ನರಗಳ ನಡುವೆ ಆಯತಾಕಾರದ, ತಿಳಿ ಕಂದು ಬಣ್ಣದಿಂದ ಬೂದು ಬಣ್ಣದ ಕಲೆಗಳು.",
+        "severity": "High",
+        "severity_kn": "ಹೆಚ್ಚು",
+        "yield_loss": "15-50%",
+        "yield_loss_kn": "15-50%",
+        "pathogen": "Cercospora zeae-maydis",
+        "pathogen_kn": "ಸರ್ಕೊಸ್ಪೊರಾ ಜೀಯ-ಮೇಡಿಸ್",
+        "countermeasures": [
+            "Apply strobilurin or triazole fungicides at tasseling stage.",
+            "Destroy heavily infected lower leaves."
+        ],
+        "preventive_measures": [
+            "Use resistant maize hybrids.",
+            "Practice crop rotation for at least 1-2 years."
+        ],
+        "recommended_actions": [
+            "Monitor lower leaves right before tasseling."
+        ],
+        "countermeasures_kn": [
+            "ತೆನೆ ಬಿಡುವ ಹಂತದಲ್ಲಿ ಸ್ಟ್ರೋಬಿಲುರಿನ್ ಅಥವಾ ಟ್ರೈಯಾಜೋಲ್ ಸಿಂಪಡಿಸಿ.",
+            "ಹೆಚ್ಚು ಸೋಂಕಿತ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ನಾಶಮಾಡಿ."
+        ],
+        "preventive_measures_kn": [
+            "ರೋಗ ನಿರೋಧಕ ಮೆಕ್ಕೆಜೋಳದ ತಳಿಗಳನ್ನು ಬಳಸಿ.",
+            "ಕನಿಷ್ಠ 1-2 ವರ್ಷಗಳವರೆಗೆ ಬೆಳೆ ತಿರುಗುವಿಕೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ."
+        ],
+        "recommended_actions_kn": [
+            "ತೆನೆ ಬಿಡುವ ಮುನ್ನ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ."
+        ],
+        "prevention_en": [
+            "Apply strobilurin or triazole fungicides at tasseling stage.",
+            "Destroy heavily infected lower leaves.",
+            "Use resistant maize hybrids.",
+            "Practice crop rotation for at least 1-2 years.",
+            "Monitor lower leaves right before tasseling."
+        ],
+        "prevention_kn": [
+            "ತೆನೆ ಬಿಡುವ ಹಂತದಲ್ಲಿ ಸ್ಟ್ರೋಬಿಲುರಿನ್ ಅಥವಾ ಟ್ರೈಯಾಜೋಲ್ ಸಿಂಪಡಿಸಿ.",
+            "ಹೆಚ್ಚು ಸೋಂಕಿತ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ನಾಶಮಾಡಿ.",
+            "ರೋಗ ನಿರೋಧಕ ಮೆಕ್ಕೆಜೋಳದ ತಳಿಗಳನ್ನು ಬಳಸಿ.",
+            "ಕನಿಷ್ಠ 1-2 ವರ್ಷಗಳವರೆಗೆ ಬೆಳೆ ತಿರುಗುವಿಕೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ.",
+            "ತೆನೆ ಬಿಡುವ ಮುನ್ನ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ಪರೀಕ್ಷಿಸಿ."
+        ]
+    },
+    "Corn_Northern_Leaf_Blight": {
+        "name": "Northern Leaf Blight",
+        "disease_name_kn": "ಎಲೆ ಮಚ್ಚೆ ರೋಗ",
+        "description": "Large, cigar-shaped, grayish-green to tan lesions on leaves.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ಸಿಗಾರ್ ಆಕಾರದ, ಬೂದು-ಹಸಿರು ಬಣ್ಣದಿಂದ ಕಂದು ಬಣ್ಣದ ದೊಡ್ಡ ಕಲೆಗಳು.",
+        "severity": "High",
+        "severity_kn": "ಹೆಚ್ಚು",
+        "yield_loss": "30-50%",
+        "yield_loss_kn": "30-50%",
+        "pathogen": "Exserohilum turcicum",
+        "pathogen_kn": "ಎಕ್ಸೆರೋಹಿಲಮ್ ಟರ್ಸಿಕಮ್",
+        "countermeasures": [
+            "Apply fungicides prior to silking if lesions reach the ear leaf."
+        ],
+        "preventive_measures": [
+            "Select highly resistant maize varieties.",
+            "Practice deep plowing."
+        ],
+        "recommended_actions": [
+            "Start monitoring at knee-high stage."
+        ],
+        "countermeasures_kn": [
+            "ಕಲೆಗಳು ತೆನೆಗೆ ತಲುಪುವ ಮೊದಲು ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಹೆಚ್ಚು ರೋಗ ನಿರೋಧಕ ಮೆಕ್ಕೆಜೋಳದ ತಳಿಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+            "ಆಳವಾದ ಉಳುಮೆ ಮಾಡಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಗಿಡ ಮಂಡಿಯುದ್ದ ಬೆಳೆದಾಗ ಮೇಲ್ವಿಚಾರಣೆ ಪ್ರಾರಂಭಿಸಿ."
+        ],
+        "prevention_en": [
+            "Apply fungicides prior to silking if lesions reach the ear leaf.",
+            "Select highly resistant maize varieties.",
+            "Practice deep plowing.",
+            "Start monitoring at knee-high stage."
+        ],
+        "prevention_kn": [
+            "ಕಲೆಗಳು ತೆನೆಗೆ ತಲುಪುವ ಮೊದಲು ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಹೆಚ್ಚು ರೋಗ ನಿರೋಧಕ ಮೆಕ್ಕೆಜೋಳದ ತಳಿಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+            "ಆಳವಾದ ಉಳುಮೆ ಮಾಡಿ.",
+            "ಗಿಡ ಮಂಡಿಯುದ್ದ ಬೆಳೆದಾಗ ಮೇಲ್ವಿಚಾರಣೆ ಪ್ರಾರಂಭಿಸಿ."
+        ]
+    },
+    "Corn_Healthy": {
+        "name": "Healthy Maize",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ಮೆಕ್ಕೆಜೋಳ",
+        "description": "The plant is healthy.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದೆ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required."
+        ],
+        "preventive_measures": [
+            "Maintain soil moisture.",
+            "Apply top-dressing fertilizer."
+        ],
+        "recommended_actions": [
+            "Monitor regularly."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಮೇಲುಗೊಬ್ಬರವನ್ನು ಹಾಕಿ."
+        ],
+        "recommended_actions_kn": [
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Maintain soil moisture.",
+            "Apply top-dressing fertilizer.",
+            "Monitor regularly."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಮೇಲುಗೊಬ್ಬರವನ್ನು ಹಾಕಿ.",
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Grape_Black_Rot": {
+        "name": "Black Rot",
+        "disease_name_kn": "ಕಪ್ಪು ಕೊಳೆ ರೋಗ",
+        "description": "Circular brown spots on leaves and hard, shriveled, black mummified berries.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ವೃತ್ತಾಕಾರದ ಕಂದು ಚುಕ್ಕೆಗಳು ಮತ್ತು ಕಾಯಿಗಳು ಕಪ್ಪಾಗಿ ಒಣಗುತ್ತವೆ.",
+        "severity": "High",
+        "severity_kn": "ಹೆಚ್ಚು",
+        "yield_loss": "40-80%",
+        "yield_loss_kn": "40-80%",
+        "pathogen": "Guignardia bidwellii",
+        "pathogen_kn": "ಗುಯಿಗ್ನಾರ್ಡಿಯಾ",
+        "countermeasures": [
+            "Apply fungicides like Myclobutanil or Mancozeb immediately.",
+            "Physically remove all mummified grapes."
+        ],
+        "preventive_measures": [
+            "Ensure extreme cleanliness; remove all fallen debris in winter."
+        ],
+        "recommended_actions": [
+            "Spray every 10-14 days from early bloom until berries are pea-sized."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣವೇ ಮೈಕ್ಲೋಬುಟಾನಿಲ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಒಣಗಿದ ದ್ರಾಕ್ಷಿಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತೆಗೆದುಹಾಕಿ."
+        ],
+        "preventive_measures_kn": [
+            "ತೋಟವನ್ನು ಅತ್ಯಂತ ಸ್ವಚ್ಛವಾಗಿಡಿ; ಚಳಿಗಾಲದಲ್ಲಿ ಬಿದ್ದ ಕಸವನ್ನು ತೆಗೆಯಿರಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಹೂಬಿಡುವ ಮುನ್ನ ದ್ರಾಕ್ಷಿ ಕಾಯಿ ಕಟ್ಟುವವರೆಗೆ ಪ್ರತಿ 10-14 ದಿನಗಳಿಗೊಮ್ಮೆ ಸಿಂಪಡಿಸಿ."
+        ],
+        "prevention_en": [
+            "Apply fungicides like Myclobutanil or Mancozeb immediately.",
+            "Physically remove all mummified grapes.",
+            "Ensure extreme cleanliness; remove all fallen debris in winter.",
+            "Spray every 10-14 days from early bloom until berries are pea-sized."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣವೇ ಮೈಕ್ಲೋಬುಟಾನಿಲ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಒಣಗಿದ ದ್ರಾಕ್ಷಿಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತೆಗೆದುಹಾಕಿ.",
+            "ತೋಟವನ್ನು ಅತ್ಯಂತ ಸ್ವಚ್ಛವಾಗಿಡಿ; ಚಳಿಗಾಲದಲ್ಲಿ ಬಿದ್ದ ಕಸವನ್ನು ತೆಗೆಯಿರಿ.",
+            "ಹೂಬಿಡುವ ಮುನ್ನ ದ್ರಾಕ್ಷಿ ಕಾಯಿ ಕಟ್ಟುವವರೆಗೆ ಪ್ರತಿ 10-14 ದಿನಗಳಿಗೊಮ್ಮೆ ಸಿಂಪಡಿಸಿ."
+        ]
+    },
+    "Grape_Esca_(Black_Measles)": {
+        "name": "Black Measles (Esca)",
+        "disease_name_kn": "ಕಪ್ಪು ದಡಾರ (ಎಸ್ಕಾ)",
+        "description": "Tiger-stripe pattern on leaves and dark spotting on berries.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ಹುಲಿ ಪಟ್ಟೆಯ ವಿನ್ಯಾಸ ಮತ್ತು ಹಣ್ಣುಗಳ ಮೇಲೆ ಕಪ್ಪು ಚುಕ್ಕೆಗಳು.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "20-40%",
+        "yield_loss_kn": "20-40%",
+        "pathogen": "Phaeoacremonium spp.",
+        "pathogen_kn": "ಫೆಯೋಕ್ರೆಮೋನಿಯಮ್",
+        "countermeasures": [
+            "Remove and burn severely infected vines/trunks."
+        ],
+        "preventive_measures": [
+            "Delay pruning until late winter.",
+            "Apply pruning wound protectants."
+        ],
+        "recommended_actions": [
+            "Mark symptomatic vines in summer for winter removal."
+        ],
+        "countermeasures_kn": [
+            "ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಬಳ್ಳಿಗಳನ್ನು/ಕಾಂಡಗಳನ್ನು ತೆಗೆದು ಸುಟ್ಟುಹಾಕಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಕತ್ತರಿಸುವಿಕೆಯನ್ನು ಚಳಿಗಾಲದ ಕೊನೆಯವರೆಗೂ ಮುಂದೂಡಿ.",
+            "ಗಾಯಗಳಿಗೆ ರಕ್ಷಣಾತ್ಮಕ ಲೇಪನಗಳನ್ನು ಹಚ್ಚಿ."
+        ],
+        "recommended_actions_kn": [
+            "ರೋಗಲಕ್ಷಣವಿರುವ ಬಳ್ಳಿಗಳನ್ನು ಬೇಸಿಗೆಯಲ್ಲಿ ಗುರುತಿಸಿ, ಚಳಿಗಾಲದಲ್ಲಿ ತೆಗೆದುಹಾಕಿ."
+        ],
+        "prevention_en": [
+            "Remove and burn severely infected vines/trunks.",
+            "Delay pruning until late winter.",
+            "Apply pruning wound protectants.",
+            "Mark symptomatic vines in summer for winter removal."
+        ],
+        "prevention_kn": [
+            "ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಬಳ್ಳಿಗಳನ್ನು/ಕಾಂಡಗಳನ್ನು ತೆಗೆದು ಸುಟ್ಟುಹಾಕಿ.",
+            "ಕತ್ತರಿಸುವಿಕೆಯನ್ನು ಚಳಿಗಾಲದ ಕೊನೆಯವರೆಗೂ ಮುಂದೂಡಿ.",
+            "ಗಾಯಗಳಿಗೆ ರಕ್ಷಣಾತ್ಮಕ ಲೇಪನಗಳನ್ನು ಹಚ್ಚಿ.",
+            "ರೋಗಲಕ್ಷಣವಿರುವ ಬಳ್ಳಿಗಳನ್ನು ಬೇಸಿಗೆಯಲ್ಲಿ ಗುರುತಿಸಿ, ಚಳಿಗಾಲದಲ್ಲಿ ತೆಗೆದುಹಾಕಿ."
+        ]
+    },
+    "Grape_Leaf_Blight_(Isariopsis_Leaf_Spot)": {
+        "name": "Isariopsis Leaf Spot",
+        "disease_name_kn": "ಎಲೆ ಮಚ್ಚೆ ರೋಗ",
+        "description": "Dark brown to black angular spots on leaves, leading to defoliation.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ಕಡು ಕಂದು ಬಣ್ಣದಿಂದ ಕಪ್ಪು ಕೋನಾಕಾರದ ಕಲೆಗಳು, ಎಲೆ ಉದುರುವಿಕೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ.",
+        "severity": "Low",
+        "severity_kn": "ಕಡಿಮೆ",
+        "yield_loss": "10-20%",
+        "yield_loss_kn": "10-20%",
+        "pathogen": "Pseudocercospora vitis",
+        "pathogen_kn": "ಸೂಡೋಸರ್ಕೊಸ್ಪೊರಾ ವಿಟಿಸ್",
+        "countermeasures": [
+            "Spray Bordeaux mixture or copper oxychloride."
+        ],
+        "preventive_measures": [
+            "Maintain proper vine spacing.",
+            "Avoid overhead irrigation."
+        ],
+        "recommended_actions": [
+            "Monitor during warm, rainy weather."
+        ],
+        "countermeasures_kn": [
+            "ಬೋರ್ಡೋ ಮಿಶ್ರಣ ಅಥವಾ ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಬಳ್ಳಿಗಳ ನಡುವೆ ಸರಿಯಾದ ಅಂತರ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಮೇಲಿನಿಂದ ನೀರುಣಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಬೆಚ್ಚಗಿನ, ಮಳೆಯ ವಾತಾವರಣದಲ್ಲಿ ನಿಗಾ ಇರಿಸಿ."
+        ],
+        "prevention_en": [
+            "Spray Bordeaux mixture or copper oxychloride.",
+            "Maintain proper vine spacing.",
+            "Avoid overhead irrigation.",
+            "Monitor during warm, rainy weather."
+        ],
+        "prevention_kn": [
+            "ಬೋರ್ಡೋ ಮಿಶ್ರಣ ಅಥವಾ ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ಸಿಂಪಡಿಸಿ.",
+            "ಬಳ್ಳಿಗಳ ನಡುವೆ ಸರಿಯಾದ ಅಂತರ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಮೇಲಿನಿಂದ ನೀರುಣಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ.",
+            "ಬೆಚ್ಚಗಿನ, ಮಳೆಯ ವಾತಾವರಣದಲ್ಲಿ ನಿಗಾ ಇರಿಸಿ."
+        ]
+    },
+    "Grape_Healthy": {
+        "name": "Healthy Grape",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ದ್ರಾಕ್ಷಿ",
+        "description": "The plant is healthy.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದೆ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required."
+        ],
+        "preventive_measures": [
+            "Maintain pruning and watering."
+        ],
+        "recommended_actions": [
+            "Monitor regularly."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ಸಮರುವಿಕೆ (pruning) ಮತ್ತು ನೀರಾವರಿಯನ್ನು ನಿರ್ವಹಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Maintain pruning and watering.",
+            "Monitor regularly."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ಸಮರುವಿಕೆ (pruning) ಮತ್ತು ನೀರಾವರಿಯನ್ನು ನಿರ್ವಹಿಸಿ.",
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Orange_Haunglongbing_(Citrus_Greening)": {
+        "name": "Citrus Greening",
+        "disease_name_kn": "ಸಿಟ್ರಸ್ ಗ್ರೀನಿಂಗ್ ರೋಗ",
+        "description": "Mottled yellow leaves, lopsided bitter fruits, and eventual tree death.",
+        "description_kn": "ಹಳದಿ ಎಲೆಗಳು, ವಕ್ರವಾದ ಕಹಿ ಹಣ್ಣುಗಳು, ಮತ್ತು ಅಂತಿಮವಾಗಿ ಮರದ ಸಾವು.",
+        "severity": "Critical",
+        "severity_kn": "ಅತ್ಯಂತ ಅಪಾಯಕಾರಿ",
+        "yield_loss": "70-100%",
+        "yield_loss_kn": "70-100%",
+        "pathogen": "Candidatus Liberibacter asiaticus",
+        "pathogen_kn": "ಲಿಬೆರಿಬ್ಯಾಕ್ಟರ್ ಏಷಿಯಾಟಿಕ್",
+        "countermeasures": [
+            "Uproot and destroy the infected tree immediately. There is NO cure."
+        ],
+        "preventive_measures": [
+            "Plant only certified disease-free nursery stock.",
+            "Implement area-wide psyllid control."
+        ],
+        "recommended_actions": [
+            "Inspect new flushes of growth rigorously for psyllids."
+        ],
+        "countermeasures_kn": [
+            "ಸೋಂಕಿತ ಮರವನ್ನು ತಕ್ಷಣವೇ ಬೇರುಸಹಿತ ಕಿತ್ತು ಸುಟ್ಟುಹಾಕಿ. ಇದಕ್ಕೆ ಯಾವುದೇ ಮದ್ದಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ರೋಗಮುಕ್ತವೆಂದು ಪ್ರಮಾಣೀಕರಿಸಿದ ಸಸಿಗಳನ್ನು ಮಾತ್ರ ನೆಡಿರಿ.",
+            "ವ್ಯಾಪಕವಾದ ಸಿಲ್ಲಾ ಕೀಟ ನಿಯಂತ್ರಣ ಜಾರಿಗೊಳಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಹೊಸ ಚಿಗುರುಗಳಲ್ಲಿ ಸಿಲ್ಲಾ ಕೀಟಗಳಿವೆಯೇ ಎಂದು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಪರೀಕ್ಷಿಸಿ."
+        ],
+        "prevention_en": [
+            "Uproot and destroy the infected tree immediately. There is NO cure.",
+            "Plant only certified disease-free nursery stock.",
+            "Implement area-wide psyllid control.",
+            "Inspect new flushes of growth rigorously for psyllids."
+        ],
+        "prevention_kn": [
+            "ಸೋಂಕಿತ ಮರವನ್ನು ತಕ್ಷಣವೇ ಬೇರುಸಹಿತ ಕಿತ್ತು ಸುಟ್ಟುಹಾಕಿ. ಇದಕ್ಕೆ ಯಾವುದೇ ಮದ್ದಿಲ್ಲ.",
+            "ರೋಗಮುಕ್ತವೆಂದು ಪ್ರಮಾಣೀಕರಿಸಿದ ಸಸಿಗಳನ್ನು ಮಾತ್ರ ನೆಡಿರಿ.",
+            "ವ್ಯಾಪಕವಾದ ಸಿಲ್ಲಾ ಕೀಟ ನಿಯಂತ್ರಣ ಜಾರಿಗೊಳಿಸಿ.",
+            "ಹೊಸ ಚಿಗುರುಗಳಲ್ಲಿ ಸಿಲ್ಲಾ ಕೀಟಗಳಿವೆಯೇ ಎಂದು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಪರೀಕ್ಷಿಸಿ."
+        ]
+    },
+    "Pepper,_Bacterial_Spot": {
+        "name": "Bacterial Spot",
+        "disease_name_kn": "ಬ್ಯಾಕ್ಟೀರಿಯಾ ಚುಕ್ಕೆ ರೋಗ",
+        "description": "Water-soaked spots on leaves turning brown, causing defoliation.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ನೀರು-ನೆನೆಸಿದಂತಹ ಕಲೆಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ, ಎಲೆ ಉದುರುವಿಕೆಗೆ ಕಾರಣವಾಗುತ್ತವೆ.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "20-40%",
+        "yield_loss_kn": "20-40%",
+        "pathogen": "Xanthomonas vesicatoria",
+        "pathogen_kn": "ಕ್ಸಾಂಥೋಮೊನಾಸ್ ವೆಸಿಕಟೋರಿಯಾ",
+        "countermeasures": [
+            "Spray fixed copper combined with Mancozeb immediately.",
+            "Remove severely infected plants."
+        ],
+        "preventive_measures": [
+            "Use certified pathogen-free seeds.",
+            "Practice crop rotation."
+        ],
+        "recommended_actions": [
+            "Monitor fields twice a week during warm, humid weather."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣವೇ ಮ್ಯಾಂಕೋಜೆಬ್ ಜೊತೆಗೆ ಕಾಪರ್ ಔಷಧಿಯನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತೆಗೆದು ನಾಶಮಾಡಿ."
+        ],
+        "preventive_measures_kn": [
+            "ರೋಗಮುಕ್ತ ಬೀಜಗಳನ್ನು ಬಳಸಿ.",
+            "ಬೆಳೆ ತಿರುಗುವಿಕೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಬೆಚ್ಚಗಿನ, ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ವಾರಕ್ಕೆರಡು ಬಾರಿ ಹೊಲವನ್ನು ಪರೀಕ್ಷಿಸಿ."
+        ],
+        "prevention_en": [
+            "Spray fixed copper combined with Mancozeb immediately.",
+            "Remove severely infected plants.",
+            "Use certified pathogen-free seeds.",
+            "Practice crop rotation.",
+            "Monitor fields twice a week during warm, humid weather."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣವೇ ಮ್ಯಾಂಕೋಜೆಬ್ ಜೊತೆಗೆ ಕಾಪರ್ ಔಷಧಿಯನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತೆಗೆದು ನಾಶಮಾಡಿ.",
+            "ರೋಗಮುಕ್ತ ಬೀಜಗಳನ್ನು ಬಳಸಿ.",
+            "ಬೆಳೆ ತಿರುಗುವಿಕೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ.",
+            "ಬೆಚ್ಚಗಿನ, ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ವಾರಕ್ಕೆರಡು ಬಾರಿ ಹೊಲವನ್ನು ಪರೀಕ್ಷಿಸಿ."
+        ]
+    },
+    "Pepper_Bacterial_Spot": {
+        "name": "Bacterial Spot",
+        "disease_name_kn": "ಬ್ಯಾಕ್ಟೀರಿಯಾ ಚುಕ್ಕೆ ರೋಗ",
+        "description": "Water-soaked spots on leaves turning brown, causing defoliation.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ನೀರು-ನೆನೆಸಿದಂತಹ ಕಲೆಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿ, ಎಲೆ ಉದುರುವಿಕೆಗೆ ಕಾರಣವಾಗುತ್ತವೆ.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "20-40%",
+        "yield_loss_kn": "20-40%",
+        "pathogen": "Xanthomonas vesicatoria",
+        "pathogen_kn": "ಕ್ಸಾಂಥೋಮೊನಾಸ್ ವೆಸಿಕಟೋರಿಯಾ",
+        "countermeasures": [
+            "Spray fixed copper combined with Mancozeb immediately."
+        ],
+        "preventive_measures": [
+            "Use certified pathogen-free seeds.",
+            "Practice crop rotation."
+        ],
+        "recommended_actions": [
+            "Monitor fields twice a week during warm, humid weather."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣವೇ ಮ್ಯಾಂಕೋಜೆಬ್ ಜೊತೆಗೆ ಕಾಪರ್ ಔಷಧಿಯನ್ನು ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ರೋಗಮುಕ್ತ ಬೀಜಗಳನ್ನು ಬಳಸಿ.",
+            "ಬೆಳೆ ತಿರುಗುವಿಕೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಬೆಚ್ಚಗಿನ, ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ವಾರಕ್ಕೆರಡು ಬಾರಿ ಹೊಲವನ್ನು ಪರೀಕ್ಷಿಸಿ."
+        ],
+        "prevention_en": [
+            "Spray fixed copper combined with Mancozeb immediately.",
+            "Use certified pathogen-free seeds.",
+            "Practice crop rotation.",
+            "Monitor fields twice a week during warm, humid weather."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣವೇ ಮ್ಯಾಂಕೋಜೆಬ್ ಜೊತೆಗೆ ಕಾಪರ್ ಔಷಧಿಯನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ರೋಗಮುಕ್ತ ಬೀಜಗಳನ್ನು ಬಳಸಿ.",
+            "ಬೆಳೆ ತಿರುಗುವಿಕೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ.",
+            "ಬೆಚ್ಚಗಿನ, ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ವಾರಕ್ಕೆರಡು ಬಾರಿ ಹೊಲವನ್ನು ಪರೀಕ್ಷಿಸಿ."
+        ]
+    },
+    "Pepper,_Healthy": {
+        "name": "Healthy Bell Pepper",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ",
+        "description": "The plant is healthy.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದೆ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required."
+        ],
+        "preventive_measures": [
+            "Maintain soil moisture.",
+            "Ensure proper spacing."
+        ],
+        "recommended_actions": [
+            "Monitor regularly."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಸರಿಯಾದ ಅಂತರವನ್ನು ಖಚಿತಪಡಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Maintain soil moisture.",
+            "Ensure proper spacing.",
+            "Monitor regularly."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಸರಿಯಾದ ಅಂತರವನ್ನು ಖಚಿತಪಡಿಸಿ.",
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Pepper_Healthy": {
+        "name": "Healthy Bell Pepper",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ದಪ್ಪ ಮೆಣಸಿನಕಾಯಿ",
+        "description": "The plant is healthy.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದೆ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required."
+        ],
+        "preventive_measures": [
+            "Maintain soil moisture.",
+            "Ensure proper spacing."
+        ],
+        "recommended_actions": [
+            "Monitor regularly."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಸರಿಯಾದ ಅಂತರವನ್ನು ಖಚಿತಪಡಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Maintain soil moisture.",
+            "Ensure proper spacing.",
+            "Monitor regularly."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಸರಿಯಾದ ಅಂತರವನ್ನು ಖಚಿತಪಡಿಸಿ.",
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Potato_Early_Blight": {
+        "name": "Early Blight",
+        "disease_name_kn": "ಮುಂಚೂಣಿ ಅಂಗಮಾರಿ ರೋಗ",
+        "description": "Dark concentric rings on older leaves, leading to yellowing and death.",
+        "description_kn": "ಹಳೆಯ ಎಲೆಗಳ ಮೇಲೆ ಕಪ್ಪು ವೃತ್ತಾಕಾರದ ಕಲೆಗಳು, ಎಲೆಗಳು ಹಳದಿಯಾಗಿ ಸಾಯುತ್ತವೆ.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "20-30%",
+        "yield_loss_kn": "20-30%",
+        "pathogen": "Alternaria solani",
+        "pathogen_kn": "ಆಲ್ಟರ್ನೇರಿಯಾ ಸೊಲಾನಿ",
+        "countermeasures": [
+            "Apply fungicides like Chlorothalonil or Mancozeb.",
+            "Remove and destroy infected plant debris."
+        ],
+        "preventive_measures": [
+            "Practice 3-year crop rotation.",
+            "Use disease-free, certified seed tubers."
+        ],
+        "recommended_actions": [
+            "Do not harvest potatoes when wet."
+        ],
+        "countermeasures_kn": [
+            "ಕ್ಲೋರೋಥಾಲೋನಿಲ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಸೋಂಕಿತ ಗಿಡದ ಉಳಿಕೆಗಳನ್ನು ತೆಗೆದು ನಾಶಮಾಡಿ."
+        ],
+        "preventive_measures_kn": [
+            "3 ವರ್ಷಗಳ ಬೆಳೆ ತಿರುಗುವಿಕೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ.",
+            "ರೋಗಮುಕ್ತ, ಪ್ರಮಾಣೀಕೃತ ಬೀಜಗಳನ್ನು ಬಳಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಒದ್ದೆಯಾಗಿರುವಾಗ ಆಲೂಗೆಡ್ಡೆಯನ್ನು ಕೊಯ್ಲು ಮಾಡಬೇಡಿ."
+        ],
+        "prevention_en": [
+            "Apply fungicides like Chlorothalonil or Mancozeb.",
+            "Remove and destroy infected plant debris.",
+            "Practice 3-year crop rotation.",
+            "Use disease-free, certified seed tubers.",
+            "Do not harvest potatoes when wet."
+        ],
+        "prevention_kn": [
+            "ಕ್ಲೋರೋಥಾಲೋನಿಲ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಸೋಂಕಿತ ಗಿಡದ ಉಳಿಕೆಗಳನ್ನು ತೆಗೆದು ನಾಶಮಾಡಿ.",
+            "3 ವರ್ಷಗಳ ಬೆಳೆ ತಿರುಗುವಿಕೆಯನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿ.",
+            "ರೋಗಮುಕ್ತ, ಪ್ರಮಾಣೀಕೃತ ಬೀಜಗಳನ್ನು ಬಳಸಿ.",
+            "ಒದ್ದೆಯಾಗಿರುವಾಗ ಆಲೂಗೆಡ್ಡೆಯನ್ನು ಕೊಯ್ಲು ಮಾಡಬೇಡಿ."
+        ]
+    },
+    "Potato_Late_Blight": {
+        "name": "Late Blight",
+        "disease_name_kn": "ತಡವಾದ ಅಂಗಮಾರಿ ರೋಗ",
+        "description": "Large, irregular water-soaked spots on leaves and greasy brown lesions on fruit.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ದೊಡ್ಡದಾದ, ಅನಿಯಮಿತ ನೀರು-ನೆನೆಸಿದ ಕಲೆಗಳು ಮತ್ತು ಹಣ್ಣಿನ ಮೇಲೆ ಜಿಡ್ಡುಗಟ್ಟಿದ ಕಂದು ಕಲೆಗಳು.",
+        "severity": "Critical",
+        "severity_kn": "ಅತ್ಯಂತ ಅಪಾಯಕಾರಿ",
+        "yield_loss": "50-100%",
+        "yield_loss_kn": "50-100%",
+        "pathogen": "Phytophthora infestans",
+        "pathogen_kn": "ಫೈಟೊಫ್ಥೊರಾ ಇನ್ಫೆಸ್ಟಾನ್ಸ್",
+        "countermeasures": [
+            "Apply systemic fungicides (Mefenoxam, Cymoxanil) immediately."
+        ],
+        "preventive_measures": [
+            "Plant certified seed tubers resistant to Late Blight.",
+            "Destroy all volunteer potatoes."
+        ],
+        "recommended_actions": [
+            "Monitor weather; cool, wet, and cloudy days trigger explosive outbreaks."
+        ],
+        "countermeasures_kn": [
+            "ರೋಗ ಪತ್ತೆಯಾದ ತಕ್ಷಣ ಮೆಫೆನೋಕ್ಸಾಮ್ ಅಥವಾ ಸಿಮೊಕ್ಸಾನಿಲ್ ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ರೋಗ ನಿರೋಧಕ ಪ್ರಮಾಣೀಕೃತ ಬೀಜಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಹಿಂದಿನ ಬೆಳೆಯಿಂದ ಉಳಿದು ಬೆಳೆದ ಆಲೂಗೆಡ್ಡೆ ಗಿಡಗಳನ್ನು ನಾಶಮಾಡಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಹವಾಮಾನದ ಮೇಲೆ ನಿಗಾ ಇರಿಸಿ; ತಂಪಾದ, ಆರ್ದ್ರ ಮತ್ತು ಮೋಡ ಕವಿದ ವಾತಾವರಣವು ರೋಗವನ್ನು ಸ್ಫೋಟಿಸುತ್ತದೆ."
+        ],
+        "prevention_en": [
+            "Apply systemic fungicides (Mefenoxam, Cymoxanil) immediately.",
+            "Plant certified seed tubers resistant to Late Blight.",
+            "Destroy all volunteer potatoes.",
+            "Monitor weather; cool, wet, and cloudy days trigger explosive outbreaks."
+        ],
+        "prevention_kn": [
+            "ರೋಗ ಪತ್ತೆಯಾದ ತಕ್ಷಣ ಮೆಫೆನೋಕ್ಸಾಮ್ ಅಥವಾ ಸಿಮೊಕ್ಸಾನಿಲ್ ಸಿಂಪಡಿಸಿ.",
+            "ರೋಗ ನಿರೋಧಕ ಪ್ರಮಾಣೀಕೃತ ಬೀಜಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಹಿಂದಿನ ಬೆಳೆಯಿಂದ ಉಳಿದು ಬೆಳೆದ ಆಲೂಗೆಡ್ಡೆ ಗಿಡಗಳನ್ನು ನಾಶಮಾಡಿ.",
+            "ಹವಾಮಾನದ ಮೇಲೆ ನಿಗಾ ಇರಿಸಿ; ತಂಪಾದ, ಆರ್ದ್ರ ಮತ್ತು ಮೋಡ ಕವಿದ ವಾತಾವರಣವು ರೋಗವನ್ನು ಸ್ಫೋಟಿಸುತ್ತದೆ."
+        ]
+    },
+    "Potato_Healthy": {
+        "name": "Healthy Potato",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ಆಲೂಗೆಡ್ಡೆ",
+        "description": "The plant is healthy.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದೆ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required."
+        ],
+        "preventive_measures": [
+            "Maintain proper hilling.",
+            "Apply balanced fertilizers."
+        ],
+        "recommended_actions": [
+            "Monitor regularly."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ಸರಿಯಾಗಿ ಮಣ್ಣು ಏರಿಸುವುದನ್ನು ನಿರ್ವಹಿಸಿ.",
+            "ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರಗಳನ್ನು ಹಾಕಿ."
+        ],
+        "recommended_actions_kn": [
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Maintain proper hilling.",
+            "Apply balanced fertilizers.",
+            "Monitor regularly."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ಸರಿಯಾಗಿ ಮಣ್ಣು ಏರಿಸುವುದನ್ನು ನಿರ್ವಹಿಸಿ.",
+            "ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರಗಳನ್ನು ಹಾಕಿ.",
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Raspberry_Healthy": {
+        "name": "Healthy Raspberry",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ರಾಸ್ಪ್ಬೆರಿ",
+        "description": "The plant is healthy.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದೆ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required."
+        ],
+        "preventive_measures": [
+            "Ensure good drainage.",
+            "Prune old canes."
+        ],
+        "recommended_actions": [
+            "Monitor regularly."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ಉತ್ತಮ ನೀರಾವರಿ ಒದಗಿಸಿ.",
+            "ಹಳೆಯ ಕಾಂಡಗಳನ್ನು ಕತ್ತರಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Ensure good drainage.",
+            "Prune old canes.",
+            "Monitor regularly."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ಉತ್ತಮ ನೀರಾವರಿ ಒದಗಿಸಿ.",
+            "ಹಳೆಯ ಕಾಂಡಗಳನ್ನು ಕತ್ತರಿಸಿ.",
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Rice_Brown_Spot": {
+        "name": "Brown Spot",
+        "disease_name_kn": "ಕಂದು ಚುಕ್ಕೆ ರೋಗ",
+        "description": "Oval to circular brown spots on leaves, leading to reduced grain weight.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ಅಂಡಾಕಾರದಿಂದ ವೃತ್ತಾಕಾರದ ಕಂದು ಚುಕ್ಕೆಗಳು, ಕಾಳಿನ ತೂಕ ಕಡಿಮೆಯಾಗಲು ಕಾರಣವಾಗುತ್ತದೆ.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "10-40%",
+        "yield_loss_kn": "10-40%",
+        "pathogen": "Bipolaris oryzae",
+        "pathogen_kn": "ಬೈಪೋಲಾರಿಸ್ ಒರಿಜೆ",
+        "countermeasures": [
+            "Apply balanced NPK fertilizers.",
+            "Spray Propiconazole or Mancozeb."
+        ],
+        "preventive_measures": [
+            "Treat seeds with Captan before sowing.",
+            "Ensure optimal silicon nutrition."
+        ],
+        "recommended_actions": [
+            "Correct soil toxicity by draining and drying the field.",
+            "Avoid water stress during tillering."
+        ],
+        "countermeasures_kn": [
+            "ಸಮತೋಲಿತ NPK ರಸಗೊಬ್ಬರಗಳನ್ನು ಹಾಕಿ.",
+            "ಪ್ರೊಪಿಕೋನಜೋಲ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಬೀಜಗಳನ್ನು ಕ್ಯಾಪ್ಟನ್ ನಿಂದ ಉಪಚರಿಸಿ.",
+            "ಸಾಕಷ್ಟು ಸಿಲಿಕಾನ್ ಪೋಷಕಾಂಶ ಇರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಹೊಲದಲ್ಲಿನ ನೀರನ್ನು ಬರಿದುಮಾಡಿ ಒಣಗಿಸುವ ಮೂಲಕ ಮಣ್ಣಿನ ವಿಷತ್ವವನ್ನು ಸರಿಪಡಿಸಿ.",
+            "ಮರಿ ಒಡೆಯುವ ಹಂತದಲ್ಲಿ ನೀರಿನ ಕೊರತೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ."
+        ],
+        "prevention_en": [
+            "Apply balanced NPK fertilizers.",
+            "Spray Propiconazole or Mancozeb.",
+            "Treat seeds with Captan before sowing.",
+            "Ensure optimal silicon nutrition.",
+            "Correct soil toxicity by draining and drying the field.",
+            "Avoid water stress during tillering."
+        ],
+        "prevention_kn": [
+            "ಸಮತೋಲಿತ NPK ರಸಗೊಬ್ಬರಗಳನ್ನು ಹಾಕಿ.",
+            "ಪ್ರೊಪಿಕೋನಜೋಲ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ಸಿಂಪಡಿಸಿ.",
+            "ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಬೀಜಗಳನ್ನು ಕ್ಯಾಪ್ಟನ್ ನಿಂದ ಉಪಚರಿಸಿ.",
+            "ಸಾಕಷ್ಟು ಸಿಲಿಕಾನ್ ಪೋಷಕಾಂಶ ಇರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ಹೊಲದಲ್ಲಿನ ನೀರನ್ನು ಬರಿದುಮಾಡಿ ಒಣಗಿಸುವ ಮೂಲಕ ಮಣ್ಣಿನ ವಿಷತ್ವವನ್ನು ಸರಿಪಡಿಸಿ.",
+            "ಮರಿ ಒಡೆಯುವ ಹಂತದಲ್ಲಿ ನೀರಿನ ಕೊರತೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ."
+        ]
+    },
+    "Rice_Leaf_Blast": {
+        "name": "Leaf Blast",
+        "disease_name_kn": "ಎಲೆ ಬೆಂಕಿ ರೋಗ",
+        "description": "Spindle-shaped, grayish spots with brown borders. Can kill the entire plant.",
+        "description_kn": "ಕಂದು ಅಂಚುಗಳನ್ನು ಹೊಂದಿರುವ ಸ್ಪಿಂಡಲ್ ಆಕಾರದ, ಬೂದು ಬಣ್ಣದ ಕಲೆಗಳು.",
+        "severity": "High",
+        "severity_kn": "ಹೆಚ್ಚು",
+        "yield_loss": "30-70%",
+        "yield_loss_kn": "30-70%",
+        "pathogen": "Magnaporthe oryzae",
+        "pathogen_kn": "ಮ್ಯಾಗ್ನಾಪೋರ್ತೆ ಒರಿಜೆ",
+        "countermeasures": [
+            "Apply Tricyclazole or Isoprothiolane immediately."
+        ],
+        "preventive_measures": [
+            "Plant blast-resistant varieties.",
+            "Split nitrogen applications."
+        ],
+        "recommended_actions": [
+            "Monitor nursery beds daily during cloudy, humid weather."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣವೇ ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್ ಅಥವಾ ಐಸೊಪ್ರೊಥಿಯೋಲೇನ್ ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಬೆಂಕಿ ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಸಾರಜನಕವನ್ನು ಬಹು ಸಣ್ಣ ಕಂತುಗಳಾಗಿ ವಿಭಜಿಸಿ ಹಾಕಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಮೋಡ ಕವಿದ, ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ಪ್ರತಿದಿನ ಸಸಿಮಡಿಗಳನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "Apply Tricyclazole or Isoprothiolane immediately.",
+            "Plant blast-resistant varieties.",
+            "Split nitrogen applications.",
+            "Monitor nursery beds daily during cloudy, humid weather."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣವೇ ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್ ಅಥವಾ ಐಸೊಪ್ರೊಥಿಯೋಲೇನ್ ಸಿಂಪಡಿಸಿ.",
+            "ಬೆಂಕಿ ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಸಾರಜನಕವನ್ನು ಬಹು ಸಣ್ಣ ಕಂತುಗಳಾಗಿ ವಿಭಜಿಸಿ ಹಾಕಿ.",
+            "ಮೋಡ ಕವಿದ, ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ಪ್ರತಿದಿನ ಸಸಿಮಡಿಗಳನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Rice_Neck_Blast": {
+        "name": "Neck Blast",
+        "disease_name_kn": "ಕುತ್ತಿಗೆ ಬೆಂಕಿ ರೋಗ",
+        "description": "Infection at the base of the panicle causing it to break and fall, leading to empty grains.",
+        "description_kn": "ತೆನೆಯ ಬುಡದಲ್ಲಿ ಸೋಂಕಾಗಿ ಅದು ಮುರಿದು ಬೀಳುತ್ತದೆ, ಇದರಿಂದ ಕಾಳುಗಳು ಟೊಳ್ಳಾಗುತ್ತವೆ.",
+        "severity": "Critical",
+        "severity_kn": "ಅತ್ಯಂತ ಅಪಾಯಕಾರಿ",
+        "yield_loss": "70-100%",
+        "yield_loss_kn": "70-100%",
+        "pathogen": "Magnaporthe oryzae",
+        "pathogen_kn": "ಮ್ಯಾಗ್ನಾಪೋರ್ತೆ ಒರಿಜೆ",
+        "countermeasures": [
+            "Spray Tricyclazole or Propiconazole precisely at panicle emergence (heading stage)."
+        ],
+        "preventive_measures": [
+            "Use resistant varieties and treat seeds before sowing."
+        ],
+        "recommended_actions": [
+            "Anticipate outbreaks if nighttime temperatures are low with heavy morning dew."
+        ],
+        "countermeasures_kn": [
+            "ತೆನೆ ಹೊರಬರುವ ಹಂತದಲ್ಲಿ ಕರಾರುವಾಕ್ಕಾಗಿ ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್ ಅಥವಾ ಪ್ರೊಪಿಕೋನಜೋಲ್ ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ ಮತ್ತು ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಬೀಜೋಪಚಾರ ಮಾಡಿ."
+        ],
+        "recommended_actions_kn": [
+            "ರಾತ್ರಿಯ ತಾಪಮಾನ ಕಡಿಮೆಯಿದ್ದು, ಬೆಳಿಗ್ಗೆ ಹೆಚ್ಚು ಇಬ್ಬನಿ ಇದ್ದರೆ ರೋಗದ ಬಗ್ಗೆ ಮುನ್ಸೂಚನೆ ಇರಲಿ."
+        ],
+        "prevention_en": [
+            "Spray Tricyclazole or Propiconazole precisely at panicle emergence (heading stage).",
+            "Use resistant varieties and treat seeds before sowing.",
+            "Anticipate outbreaks if nighttime temperatures are low with heavy morning dew."
+        ],
+        "prevention_kn": [
+            "ತೆನೆ ಹೊರಬರುವ ಹಂತದಲ್ಲಿ ಕರಾರುವಾಕ್ಕಾಗಿ ಟ್ರೈಸೈಕ್ಲಾಜೋಲ್ ಅಥವಾ ಪ್ರೊಪಿಕೋನಜೋಲ್ ಸಿಂಪಡಿಸಿ.",
+            "ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ ಮತ್ತು ಬಿತ್ತನೆಗೆ ಮುನ್ನ ಬೀಜೋಪಚಾರ ಮಾಡಿ.",
+            "ರಾತ್ರಿಯ ತಾಪಮಾನ ಕಡಿಮೆಯಿದ್ದು, ಬೆಳಿಗ್ಗೆ ಹೆಚ್ಚು ಇಬ್ಬನಿ ಇದ್ದರೆ ರೋಗದ ಬಗ್ಗೆ ಮುನ್ಸೂಚನೆ ಇರಲಿ."
+        ]
+    },
+    "Rice_Healthy": {
+        "name": "Healthy Rice",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ಭತ್ತ",
+        "description": "The plant is healthy.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದೆ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required."
+        ],
+        "preventive_measures": [
+            "Maintain standing water.",
+            "Apply urea in splits."
+        ],
+        "recommended_actions": [
+            "Monitor for pests."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ನಿಂತ ನೀರನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಯೂರಿಯಾವನ್ನು ಕಂತುಗಳಲ್ಲಿ ಹಾಕಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಕೀಟಗಳ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Maintain standing water.",
+            "Apply urea in splits.",
+            "Monitor for pests."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ನಿಂತ ನೀರನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಯೂರಿಯಾವನ್ನು ಕಂತುಗಳಲ್ಲಿ ಹಾಕಿ.",
+            "ಕೀಟಗಳ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ."
+        ]
+    },
+    "Soybean_Healthy": {
+        "name": "Healthy Soybean",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ಸೋಯಾಬೀನ್",
+        "description": "The plant is healthy.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದೆ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required."
+        ],
+        "preventive_measures": [
+            "Maintain soil moisture.",
+            "Ensure weed control."
+        ],
+        "recommended_actions": [
+            "Monitor regularly."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಕಳೆ ನಿಯಂತ್ರಣವನ್ನು ಖಚಿತಪಡಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Maintain soil moisture.",
+            "Ensure weed control.",
+            "Monitor regularly."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಕಳೆ ನಿಯಂತ್ರಣವನ್ನು ಖಚಿತಪಡಿಸಿ.",
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Squash_Powdery_Mildew": {
+        "name": "Powdery Mildew",
+        "disease_name_kn": "ಬೂದಿ ರೋಗ",
+        "description": "White powdery spots on both sides of leaves, leading to leaf drop.",
+        "description_kn": "ಎಲೆಗಳ ಎರಡೂ ಬದಿಗಳಲ್ಲಿ ಬಿಳಿ ಪುಡಿಯಂತಹ ಚುಕ್ಕೆಗಳು, ಎಲೆ ಉದುರಲು ಕಾರಣವಾಗುತ್ತದೆ.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "10-30%",
+        "yield_loss_kn": "10-30%",
+        "pathogen": "Podosphaera xanthii",
+        "pathogen_kn": "ಪೊಡೊಸ್ಫೇರಾ ಕ್ಸಾಂಥಿ",
+        "countermeasures": [
+            "Apply sulfur-based fungicides or neem oil.",
+            "Remove heavily infected leaves."
+        ],
+        "preventive_measures": [
+            "Plant in areas with good air circulation.",
+            "Use resistant squash varieties."
+        ],
+        "recommended_actions": [
+            "Monitor early in the season."
+        ],
+        "countermeasures_kn": [
+            "ಗಂಧಕ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ.",
+            "ಹೆಚ್ಚು ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಉತ್ತಮ ಗಾಳಿಯಾಡುವ ಪ್ರದೇಶಗಳಲ್ಲಿ ನೆಡಿರಿ.",
+            "ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಋತುವಿನ ಆರಂಭದಲ್ಲಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "Apply sulfur-based fungicides or neem oil.",
+            "Remove heavily infected leaves.",
+            "Plant in areas with good air circulation.",
+            "Use resistant squash varieties.",
+            "Monitor early in the season."
+        ],
+        "prevention_kn": [
+            "ಗಂಧಕ ಆಧಾರಿತ ಶಿಲೀಂಧ್ರನಾಶಕಗಳು ಅಥವಾ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ.",
+            "ಹೆಚ್ಚು ಸೋಂಕಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+            "ಉತ್ತಮ ಗಾಳಿಯಾಡುವ ಪ್ರದೇಶಗಳಲ್ಲಿ ನೆಡಿರಿ.",
+            "ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ.",
+            "ಋತುವಿನ ಆರಂಭದಲ್ಲಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Strawberry_Leaf_Scorch": {
+        "name": "Leaf Scorch",
+        "disease_name_kn": "ಎಲೆ ಸುಟ್ಟ ರೋಗ (ಲೀಫ್ ಸ್ಕಾರ್ಚ್)",
+        "description": "Purple-to-brown spots on leaves, giving a burned or scorched appearance.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ನೇರಳೆಯಿಂದ ಕಂದು ಬಣ್ಣದ ಕಲೆಗಳು, ಸುಟ್ಟಂತಹ ನೋಟವನ್ನು ನೀಡುತ್ತದೆ.",
+        "severity": "Low",
+        "severity_kn": "ಕಡಿಮೆ",
+        "yield_loss": "5-20%",
+        "yield_loss_kn": "5-20%",
+        "pathogen": "Diplocarpon earlianum",
+        "pathogen_kn": "ಡಿಪ್ಲೋಕಾರ್ಪನ್",
+        "countermeasures": [
+            "Apply protective fungicides (Captan, Myclobutanil)."
+        ],
+        "preventive_measures": [
+            "Ensure wide spacing between plants.",
+            "Use drip irrigation to keep foliage dry."
+        ],
+        "recommended_actions": [
+            "Renovate strawberry beds completely after harvest."
+        ],
+        "countermeasures_kn": [
+            "ರಕ್ಷಣಾತ್ಮಕ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಗಿಡಗಳ ನಡುವೆ ಸಾಕಷ್ಟು ಅಂತರವಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ಎಲೆಗಳನ್ನು ಒಣಗಿಸಲು ಹನಿ ನೀರಾವರಿ ಬಳಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಕೊಯ್ಲಿನ ನಂತರ ಸ್ಟ್ರಾಬೆರಿ ಮಡಿಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನವೀಕರಿಸಿ."
+        ],
+        "prevention_en": [
+            "Apply protective fungicides (Captan, Myclobutanil).",
+            "Ensure wide spacing between plants.",
+            "Use drip irrigation to keep foliage dry.",
+            "Renovate strawberry beds completely after harvest."
+        ],
+        "prevention_kn": [
+            "ರಕ್ಷಣಾತ್ಮಕ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಗಿಡಗಳ ನಡುವೆ ಸಾಕಷ್ಟು ಅಂತರವಿರುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ಎಲೆಗಳನ್ನು ಒಣಗಿಸಲು ಹನಿ ನೀರಾವರಿ ಬಳಸಿ.",
+            "ಕೊಯ್ಲಿನ ನಂತರ ಸ್ಟ್ರಾಬೆರಿ ಮಡಿಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನವೀಕರಿಸಿ."
+        ]
+    },
+    "Sugarcane_Bacterial_Blight": {
+        "name": "Bacterial Blight",
+        "disease_name_kn": "ಬ್ಯಾಕ್ಟೀರಿಯಾ ರೋಗ",
+        "description": "Water-soaked longitudinal streaks on leaves turning necrotic.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ನೀರು-ನೆನೆಸಿದಂತಹ ಉದ್ದನೆಯ ಗೆರೆಗಳು ಸತ್ತ ಕಲೆಗಳಾಗಿ ತಿರುಗುತ್ತವೆ.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "10-25%",
+        "yield_loss_kn": "10-25%",
+        "pathogen": "Xanthomonas albilineans",
+        "pathogen_kn": "ಕ್ಸಾಂಥೋಮೊನಾಸ್",
+        "countermeasures": [
+            "Apply copper oxychloride sprays.",
+            "Rogue out and destroy infected clumps immediately."
+        ],
+        "preventive_measures": [
+            "Use disease-free setts for planting.",
+            "Avoid overhead irrigation."
+        ],
+        "recommended_actions": [
+            "Ensure excellent field drainage."
+        ],
+        "countermeasures_kn": [
+            "ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ಸಿಂಪಡಿಸಿ.",
+            "ಸೋಂಕಿತ ಕಬ್ಬಿನ ಮೆಳೆಗಳನ್ನು ತಕ್ಷಣವೇ ಕಿತ್ತು ನಾಶಮಾಡಿ."
+        ],
+        "preventive_measures_kn": [
+            "ನಾಟಿ ಮಾಡಲು ರೋಗಮುಕ್ತ ಕಬ್ಬಿನ ತುಂಡುಗಳನ್ನು ಬಳಸಿ.",
+            "ಮೇಲಿನಿಂದ ನೀರುಣಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಹೊಲದಲ್ಲಿ ಉತ್ತಮ ನೀರಾವರಿ ನಿರ್ವಹಣೆ ಖಚಿತಪಡಿಸಿ."
+        ],
+        "prevention_en": [
+            "Apply copper oxychloride sprays.",
+            "Rogue out and destroy infected clumps immediately.",
+            "Use disease-free setts for planting.",
+            "Avoid overhead irrigation.",
+            "Ensure excellent field drainage."
+        ],
+        "prevention_kn": [
+            "ಕಾಪರ್ ಆಕ್ಸಿಕ್ಲೋರೈಡ್ ಸಿಂಪಡಿಸಿ.",
+            "ಸೋಂಕಿತ ಕಬ್ಬಿನ ಮೆಳೆಗಳನ್ನು ತಕ್ಷಣವೇ ಕಿತ್ತು ನಾಶಮಾಡಿ.",
+            "ನಾಟಿ ಮಾಡಲು ರೋಗಮುಕ್ತ ಕಬ್ಬಿನ ತುಂಡುಗಳನ್ನು ಬಳಸಿ.",
+            "ಮೇಲಿನಿಂದ ನೀರುಣಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ.",
+            "ಹೊಲದಲ್ಲಿ ಉತ್ತಮ ನೀರಾವರಿ ನಿರ್ವಹಣೆ ಖಚಿತಪಡಿಸಿ."
+        ]
+    },
+    "Sugarcane_Red_Rot": {
+        "name": "Red Rot",
+        "disease_name_kn": "ಕೆಂಪು ಕೊಳೆ ರೋಗ (ರೆಡ್ ರಾಟ್)",
+        "description": "The 'Cancer of Sugarcane'. Internal reddening of the stalk with white cross-bands and a sour, alcoholic smell.",
+        "description_kn": "ಕಬ್ಬಿನ ಕ್ಯಾನ್ಸರ್. ಕಬ್ಬಿನ ಒಳಭಾಗವು ಬಿಳಿ ಅಡ್ಡ-ಪಟ್ಟಿಗಳೊಂದಿಗೆ ಕೆಂಪಾಗುತ್ತದೆ ಮತ್ತು ಹುಳಿ, ಆಲ್ಕೋಹಾಲ್ ವಾಸನೆ ಬರುತ್ತದೆ.",
+        "severity": "Critical",
+        "severity_kn": "ಅತ್ಯಂತ ಅಪಾಯಕಾರಿ",
+        "yield_loss": "50-100%",
+        "yield_loss_kn": "50-100%",
+        "pathogen": "Colletotrichum falcatum",
+        "pathogen_kn": "ಕೊಲೆಟೊಟ್ರಿಕಮ್ ಫಾಲ್ಕಾಟಮ್",
+        "countermeasures": [
+            "There is NO cure for infected plants. Uproot and burn them immediately.",
+            "Do not ratoon infected fields."
+        ],
+        "preventive_measures": [
+            "Use highly resistant varieties.",
+            "Procure certified seed material and use Carbendazim sett-treatment."
+        ],
+        "recommended_actions": [
+            "Burn all crop debris after harvest in infected fields.",
+            "Rotate field with paddy or green manure crops for 2 years."
+        ],
+        "countermeasures_kn": [
+            "ಸೋಂಕಿತ ಸಸ್ಯಗಳಿಗೆ ಯಾವುದೇ ಔಷಧಿಯಿಲ್ಲ. ತಕ್ಷಣವೇ ಅವುಗಳನ್ನು ಬೇರುಸಹಿತ ಕಿತ್ತು ಸುಟ್ಟುಹಾಕಿ.",
+            "ಸೋಂಕಿತ ಹೊಲಗಳಲ್ಲಿ ಕೂಳೆ ಕಬ್ಬು ಬೆಳೆಯಬೇಡಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಹೆಚ್ಚು ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ.",
+            "ಪ್ರಮಾಣೀಕೃತ ಬೀಜವನ್ನು ಪಡೆಯಿರಿ ಮತ್ತು ಕಾರ್ಬೆಂಡಾಜಿಮ್ ನಿಂದ ಉಪಚರಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಸೋಂಕಿತ ಹೊಲಗಳಲ್ಲಿ ಕೊಯ್ಲಿನ ನಂತರ ಎಲ್ಲಾ ಬೆಳೆಯ ಉಳಿಕೆಗಳನ್ನು ಸುಟ್ಟುಹಾಕಿ.",
+            "2 ವರ್ಷಗಳ ಕಾಲ ಭತ್ತ ಅಥವಾ ಹಸಿರೆಲೆ ಗೊಬ್ಬರದ ಬೆಳೆಗಳೊಂದಿಗೆ ಬೆಳೆ ತಿರುಗುವಿಕೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "There is NO cure for infected plants. Uproot and burn them immediately.",
+            "Do not ratoon infected fields.",
+            "Use highly resistant varieties.",
+            "Procure certified seed material and use Carbendazim sett-treatment.",
+            "Burn all crop debris after harvest in infected fields.",
+            "Rotate field with paddy or green manure crops for 2 years."
+        ],
+        "prevention_kn": [
+            "ಸೋಂಕಿತ ಸಸ್ಯಗಳಿಗೆ ಯಾವುದೇ ಔಷಧಿಯಿಲ್ಲ. ತಕ್ಷಣವೇ ಅವುಗಳನ್ನು ಬೇರುಸಹಿತ ಕಿತ್ತು ಸುಟ್ಟುಹಾಕಿ.",
+            "ಸೋಂಕಿತ ಹೊಲಗಳಲ್ಲಿ ಕೂಳೆ ಕಬ್ಬು ಬೆಳೆಯಬೇಡಿ.",
+            "ಹೆಚ್ಚು ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ.",
+            "ಪ್ರಮಾಣೀಕೃತ ಬೀಜವನ್ನು ಪಡೆಯಿರಿ ಮತ್ತು ಕಾರ್ಬೆಂಡಾಜಿಮ್ ನಿಂದ ಉಪಚರಿಸಿ.",
+            "ಸೋಂಕಿತ ಹೊಲಗಳಲ್ಲಿ ಕೊಯ್ಲಿನ ನಂತರ ಎಲ್ಲಾ ಬೆಳೆಯ ಉಳಿಕೆಗಳನ್ನು ಸುಟ್ಟುಹಾಕಿ.",
+            "2 ವರ್ಷಗಳ ಕಾಲ ಭತ್ತ ಅಥವಾ ಹಸಿರೆಲೆ ಗೊಬ್ಬರದ ಬೆಳೆಗಳೊಂದಿಗೆ ಬೆಳೆ ತಿರುಗುವಿಕೆ ಮಾಡಿ."
+        ]
+    },
+    "Sugarcane_Healthy": {
+        "name": "Healthy Sugarcane",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ಕಬ್ಬು",
+        "description": "The plant is healthy.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದೆ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required."
+        ],
+        "preventive_measures": [
+            "Maintain soil moisture.",
+            "Apply fertilizers as per schedule."
+        ],
+        "recommended_actions": [
+            "Monitor regularly."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ವೇಳಾಪಟ್ಟಿಯಂತೆ ರಸಗೊಬ್ಬರಗಳನ್ನು ಹಾಕಿ."
+        ],
+        "recommended_actions_kn": [
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Maintain soil moisture.",
+            "Apply fertilizers as per schedule.",
+            "Monitor regularly."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ವೇಳಾಪಟ್ಟಿಯಂತೆ ರಸಗೊಬ್ಬರಗಳನ್ನು ಹಾಕಿ.",
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Tomato_Bacterial_Spot": {
+        "name": "Bacterial Spot",
+        "disease_name_kn": "ಬ್ಯಾಕ್ಟೀರಿಯಾ ಚುಕ್ಕೆ ರೋಗ",
+        "description": "Dark, water-soaked spots on leaves and scabby lesions on fruit.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ಕಪ್ಪು, ನೀರು-ನೆನೆಸಿದಂತಹ ಕಲೆಗಳು ಮತ್ತು ಹಣ್ಣಿನ ಮೇಲೆ ಕಜ್ಜಿ ಕಲೆಗಳು.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "20-40%",
+        "yield_loss_kn": "20-40%",
+        "pathogen": "Xanthomonas vesicatoria",
+        "pathogen_kn": "ಕ್ಸಾಂಥೋಮೊನಾಸ್ ವೆಸಿಕಟೋರಿಯಾ",
+        "countermeasures": [
+            "Apply Copper fungicide mixed with Mancozeb.",
+            "Remove severely infected plants."
+        ],
+        "preventive_measures": [
+            "Use certified disease-free seeds.",
+            "Ensure optimal plant spacing."
+        ],
+        "recommended_actions": [
+            "Monitor during warm, rainy weather.",
+            "Keep tools sanitized."
+        ],
+        "countermeasures_kn": [
+            "ಮ್ಯಾಂಕೋಜೆಬ್ ನೊಂದಿಗೆ ಬೆರೆಸಿದ ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತೆಗೆದುಹಾಕಿ."
+        ],
+        "preventive_measures_kn": [
+            "ರೋಗಮುಕ್ತವೆಂದು ಪ್ರಮಾಣೀಕರಿಸಿದ ಬೀಜಗಳನ್ನು ಬಳಸಿ.",
+            "ಗಾಳಿಯಾಡಲು ಗಿಡಗಳ ನಡುವೆ ಸರಿಯಾದ ಅಂತರವನ್ನು ಖಚಿತಪಡಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಬೆಚ್ಚಗಿನ, ಮಳೆಯ ವಾತಾವರಣದಲ್ಲಿ ನಿಗಾ ಇರಿಸಿ.",
+            "ಉಪಕರಣಗಳನ್ನು ಸ್ವಚ್ಛವಾಗಿಡಿ."
+        ],
+        "prevention_en": [
+            "Apply Copper fungicide mixed with Mancozeb.",
+            "Remove severely infected plants.",
+            "Use certified disease-free seeds.",
+            "Ensure optimal plant spacing.",
+            "Monitor during warm, rainy weather.",
+            "Keep tools sanitized."
+        ],
+        "prevention_kn": [
+            "ಮ್ಯಾಂಕೋಜೆಬ್ ನೊಂದಿಗೆ ಬೆರೆಸಿದ ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕವನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ತೀವ್ರವಾಗಿ ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+            "ರೋಗಮುಕ್ತವೆಂದು ಪ್ರಮಾಣೀಕರಿಸಿದ ಬೀಜಗಳನ್ನು ಬಳಸಿ.",
+            "ಗಾಳಿಯಾಡಲು ಗಿಡಗಳ ನಡುವೆ ಸರಿಯಾದ ಅಂತರವನ್ನು ಖಚಿತಪಡಿಸಿ.",
+            "ಬೆಚ್ಚಗಿನ, ಮಳೆಯ ವಾತಾವರಣದಲ್ಲಿ ನಿಗಾ ಇರಿಸಿ.",
+            "ಉಪಕರಣಗಳನ್ನು ಸ್ವಚ್ಛವಾಗಿಡಿ."
+        ]
+    },
+    "Tomato_Early_Blight": {
+        "name": "Early Blight",
+        "disease_name_kn": "ಮುಂಚೂಣಿ ಅಂಗಮಾರಿ ರೋಗ",
+        "description": "Bulls-eye patterned brown spots on lower leaves.",
+        "description_kn": "ಕೆಳಗಿನ ಎಲೆಗಳ ಮೇಲೆ ಬುಲ್ಸ್-ಐ ವಿನ್ಯಾಸದ ಕಂದು ಬಣ್ಣದ ಕಲೆಗಳು.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "20-50%",
+        "yield_loss_kn": "20-50%",
+        "pathogen": "Alternaria solani",
+        "pathogen_kn": "ಆಲ್ಟರ್ನೇರಿಯಾ ಸೊಲಾನಿ",
+        "countermeasures": [
+            "Apply fungicides like Chlorothalonil or Azoxystrobin.",
+            "Prune affected lower leaves."
+        ],
+        "preventive_measures": [
+            "Stake plants to keep foliage off the ground.",
+            "Rotate crops every 2-3 years."
+        ],
+        "recommended_actions": [
+            "Avoid working in the field when foliage is wet."
+        ],
+        "countermeasures_kn": [
+            "ಕ್ಲೋರೋಥಾಲೋನಿಲ್ ಅಥವಾ ಅಜೋಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಬಾಧಿತ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ಕತ್ತರಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಎಲೆಗಳು ನೆಲಕ್ಕೆ ತಾಗದಂತೆ ತಡೆಯಲು ಗಿಡಗಳಿಗೆ ಆಸರೆ ಕಂಬಿಕಟ್ಟಿ.",
+            "ಪ್ರತಿ 2-3 ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಬೆಳೆ ತಿರುಗುವಿಕೆ ಮಾಡಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಎಲೆಗಳು ಒದ್ದೆಯಾಗಿರುವಾಗ ಹೊಲದಲ್ಲಿ ಕೆಲಸ ಮಾಡುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ],
+        "prevention_en": [
+            "Apply fungicides like Chlorothalonil or Azoxystrobin.",
+            "Prune affected lower leaves.",
+            "Stake plants to keep foliage off the ground.",
+            "Rotate crops every 2-3 years.",
+            "Avoid working in the field when foliage is wet."
+        ],
+        "prevention_kn": [
+            "ಕ್ಲೋರೋಥಾಲೋನಿಲ್ ಅಥವಾ ಅಜೋಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಬಾಧಿತ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ಕತ್ತರಿಸಿ.",
+            "ಎಲೆಗಳು ನೆಲಕ್ಕೆ ತಾಗದಂತೆ ತಡೆಯಲು ಗಿಡಗಳಿಗೆ ಆಸರೆ ಕಂಬಿಕಟ್ಟಿ.",
+            "ಪ್ರತಿ 2-3 ವರ್ಷಗಳಿಗೊಮ್ಮೆ ಬೆಳೆ ತಿರುಗುವಿಕೆ ಮಾಡಿ.",
+            "ಎಲೆಗಳು ಒದ್ದೆಯಾಗಿರುವಾಗ ಹೊಲದಲ್ಲಿ ಕೆಲಸ ಮಾಡುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ]
+    },
+    "Tomato_Late_Blight": {
+        "name": "Late Blight",
+        "disease_name_kn": "ತಡವಾದ ಅಂಗಮಾರಿ ರೋಗ",
+        "description": "Large, irregular water-soaked spots on leaves and greasy brown lesions on fruit.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ದೊಡ್ಡದಾದ, ಅನಿಯಮಿತ ನೀರು-ನೆನೆಸಿದ ಕಲೆಗಳು ಮತ್ತು ಹಣ್ಣಿನ ಮೇಲೆ ಜಿಡ್ಡುಗಟ್ಟಿದ ಕಂದು ಕಲೆಗಳು.",
+        "severity": "Critical",
+        "severity_kn": "ಅತ್ಯಂತ ಅಪಾಯಕಾರಿ",
+        "yield_loss": "70-100%",
+        "yield_loss_kn": "70-100%",
+        "pathogen": "Phytophthora infestans",
+        "pathogen_kn": "ಫೈಟೊಫ್ಥೊರಾ ಇನ್ಫೆಸ್ಟಾನ್ಸ್",
+        "countermeasures": [
+            "Apply Mefenoxam or Cymoxanil immediately.",
+            "Destroy infected plants quickly."
+        ],
+        "preventive_measures": [
+            "Plant late blight resistant varieties.",
+            "Avoid overhead irrigation."
+        ],
+        "recommended_actions": [
+            "Act defensively before heavy rains.",
+            "Routinely inspect the lower canopy."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣವೇ ಮೆಫೆನೋಕ್ಸಾಮ್ ಅಥವಾ ಸಿಮೊಕ್ಸಾನಿಲ್ ಸಿಂಪಡಿಸಿ.",
+            "ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತ್ವರಿತವಾಗಿ ನಾಶಮಾಡಿ."
+        ],
+        "preventive_measures_kn": [
+            "ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಮೇಲಿನಿಂದ ನೀರುಣಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಭಾರಿ ಮಳೆಗೆ ಮುಂಚಿತವಾಗಿ ರಕ್ಷಣಾತ್ಮಕ ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳಿ.",
+            "ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ನಿಯಮಿತವಾಗಿ ಪರೀಕ್ಷಿಸಿ."
+        ],
+        "prevention_en": [
+            "Apply Mefenoxam or Cymoxanil immediately.",
+            "Destroy infected plants quickly.",
+            "Plant late blight resistant varieties.",
+            "Avoid overhead irrigation.",
+            "Act defensively before heavy rains.",
+            "Routinely inspect the lower canopy."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣವೇ ಮೆಫೆನೋಕ್ಸಾಮ್ ಅಥವಾ ಸಿಮೊಕ್ಸಾನಿಲ್ ಸಿಂಪಡಿಸಿ.",
+            "ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತ್ವರಿತವಾಗಿ ನಾಶಮಾಡಿ.",
+            "ರೋಗ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಮೇಲಿನಿಂದ ನೀರುಣಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ.",
+            "ಭಾರಿ ಮಳೆಗೆ ಮುಂಚಿತವಾಗಿ ರಕ್ಷಣಾತ್ಮಕ ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳಿ.",
+            "ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ನಿಯಮಿತವಾಗಿ ಪರೀಕ್ಷಿಸಿ."
+        ]
+    },
+    "Tomato_Leaf_Mold": {
+        "name": "Leaf Mold",
+        "disease_name_kn": "ಎಲೆ ಬೂಷ್ಟು ರೋಗ",
+        "description": "Pale greenish-yellow spots on upper leaves and olive-green mold on the undersides.",
+        "description_kn": "ಮೇಲಿನ ಎಲೆಗಳ ಮೇಲೆ ತಿಳಿ ಹಸಿರು-ಹಳದಿ ಕಲೆಗಳು ಮತ್ತು ಕೆಳಭಾಗದಲ್ಲಿ ಆಲಿವ್-ಹಸಿರು ಬಣ್ಣದ ಬೂಷ್ಟು.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "10-30%",
+        "yield_loss_kn": "10-30%",
+        "pathogen": "Passalora fulva",
+        "pathogen_kn": "ಪಾಸಲೋರಾ ಫುಲ್ವಾ",
+        "countermeasures": [
+            "Improve ventilation and prune lower leaves.",
+            "Spray Chlorothalonil or Copper fungicides."
+        ],
+        "preventive_measures": [
+            "Use resistant varieties.",
+            "Maintain wide plant spacing."
+        ],
+        "recommended_actions": [
+            "Monitor inside dense canopies.",
+            "Avoid wetting leaves late in the day."
+        ],
+        "countermeasures_kn": [
+            "ಗಾಳಿಯಾಡುವಿಕೆಯನ್ನು ಸುಧಾರಿಸಿ ಮತ್ತು ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ಕತ್ತರಿಸಿ.",
+            "ಕ್ಲೋರೋಥಾಲೋನಿಲ್ ಅಥವಾ ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ.",
+            "ಗಿಡಗಳ ನಡುವೆ ಸಾಕಷ್ಟು ಅಂತರ ಕಾಯ್ದುಕೊಳ್ಳಿ."
+        ],
+        "recommended_actions_kn": [
+            "ದಟ್ಟವಾದ ಎಲೆಗಳ ಒಳಗೆ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ.",
+            "ಸಂಜೆಯ ವೇಳೆ ಎಲೆಗಳನ್ನು ಒದ್ದೆ ಮಾಡುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ],
+        "prevention_en": [
+            "Improve ventilation and prune lower leaves.",
+            "Spray Chlorothalonil or Copper fungicides.",
+            "Use resistant varieties.",
+            "Maintain wide plant spacing.",
+            "Monitor inside dense canopies.",
+            "Avoid wetting leaves late in the day."
+        ],
+        "prevention_kn": [
+            "ಗಾಳಿಯಾಡುವಿಕೆಯನ್ನು ಸುಧಾರಿಸಿ ಮತ್ತು ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ಕತ್ತರಿಸಿ.",
+            "ಕ್ಲೋರೋಥಾಲೋನಿಲ್ ಅಥವಾ ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ.",
+            "ಗಿಡಗಳ ನಡುವೆ ಸಾಕಷ್ಟು ಅಂತರ ಕಾಯ್ದುಕೊಳ್ಳಿ.",
+            "ದಟ್ಟವಾದ ಎಲೆಗಳ ಒಳಗೆ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ.",
+            "ಸಂಜೆಯ ವೇಳೆ ಎಲೆಗಳನ್ನು ಒದ್ದೆ ಮಾಡುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ]
+    },
+    "Tomato_Septoria_Leaf_Spot": {
+        "name": "Septoria Leaf Spot",
+        "disease_name_kn": "ಸೆಪ್ಟೋರಿಯಾ ಎಲೆ ಚುಕ್ಕೆ ರೋಗ",
+        "description": "Small, circular spots with dark borders and gray centers on lower leaves.",
+        "description_kn": "ಕೆಳಗಿನ ಎಲೆಗಳ ಮೇಲೆ ಕಪ್ಪು ಅಂಚುಗಳು ಮತ್ತು ಬೂದು ಕೇಂದ್ರಗಳನ್ನು ಹೊಂದಿರುವ ಸಣ್ಣ, ವೃತ್ತಾಕಾರದ ಕಲೆಗಳು.",
+        "severity": "Medium",
+        "severity_kn": "ಮಧ್ಯಮ",
+        "yield_loss": "20-40%",
+        "yield_loss_kn": "20-40%",
+        "pathogen": "Septoria lycopersici",
+        "pathogen_kn": "ಸೆಪ್ಟೋರಿಯಾ ಲೈಕೋಪರ್ಸಿಕಿ",
+        "countermeasures": [
+            "Apply Mancozeb or Copper fungicides.",
+            "Remove infected lower leaves to prevent upward spread."
+        ],
+        "preventive_measures": [
+            "Rotate crops for 2-3 years.",
+            "Stake or cage plants."
+        ],
+        "recommended_actions": [
+            "Monitor actively after heavy rains.",
+            "Destroy infected crop debris."
+        ],
+        "countermeasures_kn": [
+            "ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ರೋಗ ಮೇಲಕ್ಕೆ ಹರಡುವುದನ್ನು ತಡೆಯಲು ಸೋಂಕಿತ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ."
+        ],
+        "preventive_measures_kn": [
+            "2-3 ವರ್ಷಗಳ ಕಾಲ ಬೆಳೆ ತಿರುಗುವಿಕೆ ಮಾಡಿ.",
+            "ಗಿಡಗಳಿಗೆ ಕಂಬಿ ಅಥವಾ ಪಂಜರದ ಆಸರೆ ನೀಡಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಭಾರಿ ಮಳೆಯ ನಂತರ ಸಕ್ರಿಯವಾಗಿ ನಿಗಾ ಇರಿಸಿ.",
+            "ಸೋಂಕಿತ ಬೆಳೆಯ ಉಳಿಕೆಗಳನ್ನು ನಾಶಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "Apply Mancozeb or Copper fungicides.",
+            "Remove infected lower leaves to prevent upward spread.",
+            "Rotate crops for 2-3 years.",
+            "Stake or cage plants.",
+            "Monitor actively after heavy rains.",
+            "Destroy infected crop debris."
+        ],
+        "prevention_kn": [
+            "ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ತಾಮ್ರದ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ರೋಗ ಮೇಲಕ್ಕೆ ಹರಡುವುದನ್ನು ತಡೆಯಲು ಸೋಂಕಿತ ಕೆಳಗಿನ ಎಲೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.",
+            "2-3 ವರ್ಷಗಳ ಕಾಲ ಬೆಳೆ ತಿರುಗುವಿಕೆ ಮಾಡಿ.",
+            "ಗಿಡಗಳಿಗೆ ಕಂಬಿ ಅಥವಾ ಪಂಜರದ ಆಸರೆ ನೀಡಿ.",
+            "ಭಾರಿ ಮಳೆಯ ನಂತರ ಸಕ್ರಿಯವಾಗಿ ನಿಗಾ ಇರಿಸಿ.",
+            "ಸೋಂಕಿತ ಬೆಳೆಯ ಉಳಿಕೆಗಳನ್ನು ನಾಶಮಾಡಿ."
+        ]
+    },
+    "Tomato_Spider_Mites_Two_Spotted_Spider_Mite": {
+        "name": "Spider Mites",
+        "disease_name_kn": "ಜೇಡರ ನುಶಿ",
+        "description": "Tiny yellow or white speckles on leaves, fine webbing, and eventually bronzed foliage.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ಸಣ್ಣ ಹಳದಿ ಅಥವಾ ಬಿಳಿ ಚುಕ್ಕೆಗಳು, ಸೂಕ್ಷ್ಮವಾದ ಜೇಡರ ಬಲೆ, ಮತ್ತು ಅಂತಿಮವಾಗಿ ಎಲೆಗಳು ಕಂಚಿನ ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತವೆ.",
+        "severity": "High",
+        "severity_kn": "ಹೆಚ್ಚು",
+        "yield_loss": "20-50%",
+        "yield_loss_kn": "20-50%",
+        "pathogen": "Tetranychus urticae",
+        "pathogen_kn": "ಟೆಟ್ರಾನೈಕಸ್ ಉರ್ಟಿಕೇ",
+        "countermeasures": [
+            "Apply specific miticides (Abamectin, Spiromesifen).",
+            "Wash plants with a strong stream of water."
+        ],
+        "preventive_measures": [
+            "Avoid water stress.",
+            "Do not over-apply broad-spectrum insecticides which kill natural enemies."
+        ],
+        "recommended_actions": [
+            "Check the undersides of leaves using a magnifying glass.",
+            "Keep the area weed-free."
+        ],
+        "countermeasures_kn": [
+            "ನಿರ್ದಿಷ್ಟ ನುಶಿನಾಶಕಗಳನ್ನು (ಅಬಾಮೆಕ್ಟಿನ್, ಸ್ಪಿರೋಮೆಸಿಫೆನ್) ಸಿಂಪಡಿಸಿ.",
+            "ನೀರಿನ ಬಲವಾದ ಹರಿವಿನಿಂದ ಸಸ್ಯಗಳನ್ನು ತೊಳೆಯಿರಿ."
+        ],
+        "preventive_measures_kn": [
+            "ನೀರಿನ ಕೊರತೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ನೈಸರ್ಗಿಕ ಶತ್ರುಗಳನ್ನು ಕೊಲ್ಲುವ ವ್ಯಾಪಕ ಶ್ರೇಣಿಯ ಕೀಟನಾಶಕಗಳನ್ನು ಹೆಚ್ಚು ಬಳಸಬೇಡಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಭೂತಗನ್ನಡಿ ಬಳಸಿ ಎಲೆಗಳ ಕೆಳಭಾಗವನ್ನು ಪರೀಕ್ಷಿಸಿ.",
+            "ಪ್ರದೇಶವನ್ನು ಕಳೆಮುಕ್ತವಾಗಿಡಿ."
+        ],
+        "prevention_en": [
+            "Apply specific miticides (Abamectin, Spiromesifen).",
+            "Wash plants with a strong stream of water.",
+            "Avoid water stress.",
+            "Do not over-apply broad-spectrum insecticides which kill natural enemies.",
+            "Check the undersides of leaves using a magnifying glass.",
+            "Keep the area weed-free."
+        ],
+        "prevention_kn": [
+            "ನಿರ್ದಿಷ್ಟ ನುಶಿನಾಶಕಗಳನ್ನು (ಅಬಾಮೆಕ್ಟಿನ್, ಸ್ಪಿರೋಮೆಸಿಫೆನ್) ಸಿಂಪಡಿಸಿ.",
+            "ನೀರಿನ ಬಲವಾದ ಹರಿವಿನಿಂದ ಸಸ್ಯಗಳನ್ನು ತೊಳೆಯಿರಿ.",
+            "ನೀರಿನ ಕೊರತೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ನೈಸರ್ಗಿಕ ಶತ್ರುಗಳನ್ನು ಕೊಲ್ಲುವ ವ್ಯಾಪಕ ಶ್ರೇಣಿಯ ಕೀಟನಾಶಕಗಳನ್ನು ಹೆಚ್ಚು ಬಳಸಬೇಡಿ.",
+            "ಭೂತಗನ್ನಡಿ ಬಳಸಿ ಎಲೆಗಳ ಕೆಳಭಾಗವನ್ನು ಪರೀಕ್ಷಿಸಿ.",
+            "ಪ್ರದೇಶವನ್ನು ಕಳೆಮುಕ್ತವಾಗಿಡಿ."
+        ]
+    },
+    "Tomato_Target_Spot": {
+        "name": "Target Spot",
+        "disease_name_kn": "ಟಾರ್ಗೆಟ್ ಸ್ಪಾಟ್ ರೋಗ",
+        "description": "Brown, target-like concentric rings on leaves and dark sunken spots on fruit.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ಕಂದು, ಗುರಿಯಂತಹ ವೃತ್ತಾಕಾರದ ಕಲೆಗಳು ಮತ್ತು ಹಣ್ಣಿನ ಮೇಲೆ ಕಪ್ಪು ತಗ್ಗಾದ ಕಲೆಗಳು.",
+        "severity": "High",
+        "severity_kn": "ಹೆಚ್ಚು",
+        "yield_loss": "30-60%",
+        "yield_loss_kn": "30-60%",
+        "pathogen": "Corynespora cassiicola",
+        "pathogen_kn": "ಕೋರಿನೆಸ್ಪೊರಾ",
+        "countermeasures": [
+            "Spray fungicides like Azoxystrobin or Chlorothalonil.",
+            "Improve canopy airflow by intensive pruning."
+        ],
+        "preventive_measures": [
+            "Use resistant varieties if available.",
+            "Avoid dense planting."
+        ],
+        "recommended_actions": [
+            "Monitor during prolonged hot, humid weather.",
+            "Avoid working in wet fields."
+        ],
+        "countermeasures_kn": [
+            "ಅಜೋಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ ಅಥವಾ ಕ್ಲೋರೋಥಾಲೋನಿಲ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಹೆಚ್ಚು ಕತ್ತರಿಸುವ ಮೂಲಕ ಗಾಳಿಯಾಡುವಿಕೆಯನ್ನು ಸುಧಾರಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಲಭ್ಯವಿದ್ದರೆ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ.",
+            "ದಟ್ಟವಾಗಿ ನೆಡುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ದೀರ್ಘಕಾಲದ ಬಿಸಿ ಮತ್ತು ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ನಿಗಾ ಇರಿಸಿ.",
+            "ಒದ್ದೆಯಾದ ಹೊಲಗಳಲ್ಲಿ ಕೆಲಸ ಮಾಡುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ],
+        "prevention_en": [
+            "Spray fungicides like Azoxystrobin or Chlorothalonil.",
+            "Improve canopy airflow by intensive pruning.",
+            "Use resistant varieties if available.",
+            "Avoid dense planting.",
+            "Monitor during prolonged hot, humid weather.",
+            "Avoid working in wet fields."
+        ],
+        "prevention_kn": [
+            "ಅಜೋಕ್ಸಿಸ್ಟ್ರೋಬಿನ್ ಅಥವಾ ಕ್ಲೋರೋಥಾಲೋನಿಲ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಹೆಚ್ಚು ಕತ್ತರಿಸುವ ಮೂಲಕ ಗಾಳಿಯಾಡುವಿಕೆಯನ್ನು ಸುಧಾರಿಸಿ.",
+            "ಲಭ್ಯವಿದ್ದರೆ ನಿರೋಧಕ ತಳಿಗಳನ್ನು ಬಳಸಿ.",
+            "ದಟ್ಟವಾಗಿ ನೆಡುವುದನ್ನು ತಪ್ಪಿಸಿ.",
+            "ದೀರ್ಘಕಾಲದ ಬಿಸಿ ಮತ್ತು ಆರ್ದ್ರ ವಾತಾವರಣದಲ್ಲಿ ನಿಗಾ ಇರಿಸಿ.",
+            "ಒದ್ದೆಯಾದ ಹೊಲಗಳಲ್ಲಿ ಕೆಲಸ ಮಾಡುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ]
+    },
+    "Tomato_Tomato_Mosaic_Virus": {
+        "name": "Tomato Mosaic Virus",
+        "disease_name_kn": "ಟೊಮೆಟೊ ಮೊಸಾಯಿಕ್ ವೈರಸ್",
+        "description": "Mottled light and dark green leaves, stunted growth, and distorted fruits. Highly contagious via touch.",
+        "description_kn": "ಮಚ್ಚೆಯುಳ್ಳ ತಿಳಿ ಮತ್ತು ಕಡು ಹಸಿರು ಎಲೆಗಳು, ಕುಂಠಿತ ಬೆಳವಣಿಗೆ ಮತ್ತು ವಿಕಾರವಾದ ಹಣ್ಣುಗಳು. ಸ್ಪರ್ಶದ ಮೂಲಕ ಹೆಚ್ಚು ಹರಡುತ್ತದೆ.",
+        "severity": "High",
+        "severity_kn": "ಹೆಚ್ಚು",
+        "yield_loss": "30-50%",
+        "yield_loss_kn": "30-50%",
+        "pathogen": "ToMV (Tobamovirus)",
+        "pathogen_kn": "ವೈರಸ್ (ಸ್ಪರ್ಶದಿಂದ)",
+        "countermeasures": [
+            "Pull up and destroy infected plants immediately.",
+            "Wash hands thoroughly with soap and water after touching any plant."
+        ],
+        "preventive_measures": [
+            "Plant TMV-resistant varieties.",
+            "Use certified virus-free seeds.",
+            "Do not use tobacco products near tomato plants."
+        ],
+        "recommended_actions": [
+            "Disinfect all stakes, ties, and greenhouse equipment.",
+            "Avoid handling plants excessively."
+        ],
+        "countermeasures_kn": [
+            "ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತಕ್ಷಣವೇ ಕಿತ್ತು ನಾಶಮಾಡಿ.",
+            "ಯಾವುದೇ ಗಿಡವನ್ನು ಮುಟ್ಟಿದ ನಂತರ ಕೈಗಳನ್ನು ಸಾಬೂನು ಮತ್ತು ನೀರಿನಿಂದ ಚೆನ್ನಾಗಿ ತೊಳೆಯಿರಿ."
+        ],
+        "preventive_measures_kn": [
+            "TMV-ನಿರೋಧಕ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ವೈರಸ್ ಮುಕ್ತ ಪ್ರಮಾಣೀಕೃತ ಬೀಜಗಳನ್ನು ಬಳಸಿ.",
+            "ಟೊಮೆಟೊ ಗಿಡಗಳ ಬಳಿ ತಂಬಾಕು ಉತ್ಪನ್ನಗಳನ್ನು ಬಳಸಬೇಡಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಎಲ್ಲಾ ಆಸರೆ ಕಂಬಿಗಳು, ಹಗ್ಗಗಳು ಮತ್ತು ಹಸಿರುಮನೆ ಉಪಕರಣಗಳನ್ನು ಕ್ರಿಮಿನಾಶಕದಿಂದ ಸ್ವಚ್ಛಗೊಳಿಸಿ.",
+            "ಸಸ್ಯಗಳನ್ನು ಅನಗತ್ಯವಾಗಿ ಮುಟ್ಟುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ],
+        "prevention_en": [
+            "Pull up and destroy infected plants immediately.",
+            "Wash hands thoroughly with soap and water after touching any plant.",
+            "Plant TMV-resistant varieties.",
+            "Use certified virus-free seeds.",
+            "Do not use tobacco products near tomato plants.",
+            "Disinfect all stakes, ties, and greenhouse equipment.",
+            "Avoid handling plants excessively."
+        ],
+        "prevention_kn": [
+            "ಸೋಂಕಿತ ಸಸ್ಯಗಳನ್ನು ತಕ್ಷಣವೇ ಕಿತ್ತು ನಾಶಮಾಡಿ.",
+            "ಯಾವುದೇ ಗಿಡವನ್ನು ಮುಟ್ಟಿದ ನಂತರ ಕೈಗಳನ್ನು ಸಾಬೂನು ಮತ್ತು ನೀರಿನಿಂದ ಚೆನ್ನಾಗಿ ತೊಳೆಯಿರಿ.",
+            "TMV-ನಿರೋಧಕ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ವೈರಸ್ ಮುಕ್ತ ಪ್ರಮಾಣೀಕೃತ ಬೀಜಗಳನ್ನು ಬಳಸಿ.",
+            "ಟೊಮೆಟೊ ಗಿಡಗಳ ಬಳಿ ತಂಬಾಕು ಉತ್ಪನ್ನಗಳನ್ನು ಬಳಸಬೇಡಿ.",
+            "ಎಲ್ಲಾ ಆಸರೆ ಕಂಬಿಗಳು, ಹಗ್ಗಗಳು ಮತ್ತು ಹಸಿರುಮನೆ ಉಪಕರಣಗಳನ್ನು ಕ್ರಿಮಿನಾಶಕದಿಂದ ಸ್ವಚ್ಛಗೊಳಿಸಿ.",
+            "ಸಸ್ಯಗಳನ್ನು ಅನಗತ್ಯವಾಗಿ ಮುಟ್ಟುವುದನ್ನು ತಪ್ಪಿಸಿ."
+        ]
+    },
+    "Tomato_Tomato_Yellow_Leaf_Curl_Virus": {
+        "name": "Tomato Yellow Leaf Curl Virus",
+        "disease_name_kn": "ಟೊಮೆಟೊ ಹಳದಿ ಎಲೆ ಮುದುರುವ ವೈರಸ್",
+        "description": "Upward curling of leaves, yellowing margins, severe stunting, and massive yield loss. Transmitted by Whiteflies.",
+        "description_kn": "ಎಲೆಗಳು ಮೇಲ್ಮುಖವಾಗಿ ಮುದುಡುವುದು, ಹಳದಿ ಅಂಚುಗಳು, ತೀವ್ರ ಕುಂಠಿತ ಬೆಳವಣಿಗೆ, ಮತ್ತು ಭಾರಿ ಇಳುವರಿ ನಷ್ಟ. ಇದು ಬಿಳಿ ನೊಣಗಳಿಂದ ಹರಡುತ್ತದೆ.",
+        "severity": "Critical",
+        "severity_kn": "ಅತ್ಯಂತ ಅಪಾಯಕಾರಿ",
+        "yield_loss": "50-100%",
+        "yield_loss_kn": "50-100%",
+        "pathogen": "TYLCV (Begomovirus)",
+        "pathogen_kn": "ವೈರಸ್ (ಬಿಳಿನೊಣ)",
+        "countermeasures": [
+            "Immediately rogue and burn infected plants.",
+            "Spray Imidacloprid to control whitefly vectors."
+        ],
+        "preventive_measures": [
+            "Plant highly resistant (TYLCV-resistant) hybrids.",
+            "Use UV-reflective mulch to disorient whiteflies."
+        ],
+        "recommended_actions": [
+            "Maintain completely weed-free borders.",
+            "Monitor whitefly populations constantly."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣವೇ ಸೋಂಕಿತ ಗಿಡಗಳನ್ನು ಕಿತ್ತು ಸುಟ್ಟುಹಾಕಿ.",
+            "ಬಿಳಿ ನೊಣಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಹೆಚ್ಚು ನಿರೋಧಕ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಬಿಳಿ ನೊಣಗಳನ್ನು ದಾರಿ ತಪ್ಪಿಸಲು UV-ರಿಫ್ಲೆಕ್ಟಿವ್ ಮಲ್ಚಿಂಗ್ ಬಳಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಹೊಲದ ಅಂಚುಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕಳೆ ಮುಕ್ತವಾಗಿಡಿ.",
+            "ಬಿಳಿ ನೊಣಗಳ ಸಂಖ್ಯೆಯ ಮೇಲೆ ನಿರಂತರವಾಗಿ ನಿಗಾ ಇರಿಸಿ."
+        ],
+        "prevention_en": [
+            "Immediately rogue and burn infected plants.",
+            "Spray Imidacloprid to control whitefly vectors.",
+            "Plant highly resistant (TYLCV-resistant) hybrids.",
+            "Use UV-reflective mulch to disorient whiteflies.",
+            "Maintain completely weed-free borders.",
+            "Monitor whitefly populations constantly."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣವೇ ಸೋಂಕಿತ ಗಿಡಗಳನ್ನು ಕಿತ್ತು ಸುಟ್ಟುಹಾಕಿ.",
+            "ಬಿಳಿ ನೊಣಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಇಮಿಡಾಕ್ಲೋಪ್ರಿಡ್ ಸಿಂಪಡಿಸಿ.",
+            "ಹೆಚ್ಚು ನಿರೋಧಕ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ಬಿಳಿ ನೊಣಗಳನ್ನು ದಾರಿ ತಪ್ಪಿಸಲು UV-ರಿಫ್ಲೆಕ್ಟಿವ್ ಮಲ್ಚಿಂಗ್ ಬಳಸಿ.",
+            "ಹೊಲದ ಅಂಚುಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕಳೆ ಮುಕ್ತವಾಗಿಡಿ.",
+            "ಬಿಳಿ ನೊಣಗಳ ಸಂಖ್ಯೆಯ ಮೇಲೆ ನಿರಂತರವಾಗಿ ನಿಗಾ ಇರಿಸಿ."
+        ]
+    },
+    "Tomato_Healthy": {
+        "name": "Healthy Tomato",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ಟೊಮೆಟೊ",
+        "description": "The plant is healthy.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದೆ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required."
+        ],
+        "preventive_measures": [
+            "Maintain proper staking and pruning.",
+            "Ensure consistent watering."
+        ],
+        "recommended_actions": [
+            "Monitor regularly."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ಸರಿಯಾದ ಆಸರೆ ಮತ್ತು ಸಮರುವಿಕೆಯನ್ನು ನಿರ್ವಹಿಸಿ.",
+            "ನಿರಂತರ ನೀರಾವರಿಯನ್ನು ಖಚಿತಪಡಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Maintain proper staking and pruning.",
+            "Ensure consistent watering.",
+            "Monitor regularly."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ಸರಿಯಾದ ಆಸರೆ ಮತ್ತು ಸಮರುವಿಕೆಯನ್ನು ನಿರ್ವಹಿಸಿ.",
+            "ನಿರಂತರ ನೀರಾವರಿಯನ್ನು ಖಚಿತಪಡಿಸಿ.",
+            "ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    },
+    "Wheat_Brown_Rust": {
+        "name": "Brown Rust (Leaf Rust)",
+        "disease_name_kn": "ಕಂದು ತುಕ್ಕು ರೋಗ",
+        "description": "Small, round, orange-brown pustules on leaf surfaces.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲ್ಮೈಯಲ್ಲಿ ಸಣ್ಣ, ದುಂಡಗಿನ, ಕಿತ್ತಳೆ-ಕಂದು ಬಣ್ಣದ ಗುಳ್ಳೆಗಳು.",
+        "severity": "High",
+        "severity_kn": "ಹೆಚ್ಚು",
+        "yield_loss": "10-30%",
+        "yield_loss_kn": "10-30%",
+        "pathogen": "Puccinia triticina",
+        "pathogen_kn": "ಪಕ್ಸಿನಿಯಾ ಟ್ರಿಟಿಸಿನಾ",
+        "countermeasures": [
+            "Apply triazole or strobilurin fungicides at early disease detection.",
+            "Spray immediately if infection reaches the flag leaf."
+        ],
+        "preventive_measures": [
+            "Cultivate resistant wheat varieties.",
+            "Avoid excessive nitrogen fertilization, which creates dense canopies."
+        ],
+        "recommended_actions": [
+            "Monitor closely during warm days and cool, dewy nights.",
+            "Destroy volunteer wheat plants in the off-season."
+        ],
+        "countermeasures_kn": [
+            "ರೋಗದ ಆರಂಭಿಕ ಹಂತದಲ್ಲಿ ಟ್ರೈಯಾಜೋಲ್ ಅಥವಾ ಸ್ಟ್ರೋಬಿಲುರಿನ್ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ರೋಗವು ಮೇಲಿನ ಮುಖ್ಯ ಎಲೆಗೆ ತಲುಪಿದರೆ ತಕ್ಷಣವೇ ಸಿಂಪಡಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ನಿರೋಧಕ ಗೋಧಿ ತಳಿಗಳನ್ನು ಬೆಳೆಸಿ.",
+            "ದಟ್ಟವಾದ ಸಸ್ಯ ಬೆಳವಣಿಗೆಗೆ ಕಾರಣವಾಗುವ ಹೆಚ್ಚು ಸಾರಜನಕ ರಸಗೊಬ್ಬರವನ್ನು ತಪ್ಪಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಬೆಚ್ಚಗಿನ ಹಗಲು ಮತ್ತು ತಂಪಾದ, ಇಬ್ಬನಿ ಇರುವ ರಾತ್ರಿಗಳಲ್ಲಿ ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸಿ.",
+            "ಬೆಳೆ ಇಲ್ಲದ ಸಮಯದಲ್ಲಿ ಹೊಲದಲ್ಲಿ ಬೆಳೆದ ಗೋಧಿ ಗಿಡಗಳನ್ನು ನಾಶಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "Apply triazole or strobilurin fungicides at early disease detection.",
+            "Spray immediately if infection reaches the flag leaf.",
+            "Cultivate resistant wheat varieties.",
+            "Avoid excessive nitrogen fertilization, which creates dense canopies.",
+            "Monitor closely during warm days and cool, dewy nights.",
+            "Destroy volunteer wheat plants in the off-season."
+        ],
+        "prevention_kn": [
+            "ರೋಗದ ಆರಂಭಿಕ ಹಂತದಲ್ಲಿ ಟ್ರೈಯಾಜೋಲ್ ಅಥವಾ ಸ್ಟ್ರೋಬಿಲುರಿನ್ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ರೋಗವು ಮೇಲಿನ ಮುಖ್ಯ ಎಲೆಗೆ ತಲುಪಿದರೆ ತಕ್ಷಣವೇ ಸಿಂಪಡಿಸಿ.",
+            "ನಿರೋಧಕ ಗೋಧಿ ತಳಿಗಳನ್ನು ಬೆಳೆಸಿ.",
+            "ದಟ್ಟವಾದ ಸಸ್ಯ ಬೆಳವಣಿಗೆಗೆ ಕಾರಣವಾಗುವ ಹೆಚ್ಚು ಸಾರಜನಕ ರಸಗೊಬ್ಬರವನ್ನು ತಪ್ಪಿಸಿ.",
+            "ಬೆಚ್ಚಗಿನ ಹಗಲು ಮತ್ತು ತಂಪಾದ, ಇಬ್ಬನಿ ಇರುವ ರಾತ್ರಿಗಳಲ್ಲಿ ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸಿ.",
+            "ಬೆಳೆ ಇಲ್ಲದ ಸಮಯದಲ್ಲಿ ಹೊಲದಲ್ಲಿ ಬೆಳೆದ ಗೋಧಿ ಗಿಡಗಳನ್ನು ನಾಶಮಾಡಿ."
+        ]
+    },
+    "Wheat_Yellow_Rust": {
+        "name": "Yellow Rust (Stripe Rust)",
+        "disease_name_kn": "ಹಳದಿ ತುಕ್ಕು ರೋಗ",
+        "description": "Yellow-orange pustules arranged in prominent parallel stripes on leaves.",
+        "description_kn": "ಎಲೆಗಳ ಮೇಲೆ ಪ್ರಮುಖ ಸಮಾನಾಂತರ ಪಟ್ಟೆಗಳಲ್ಲಿ ಹಳದಿ-ಕಿತ್ತಳೆ ಬಣ್ಣದ ಗುಳ್ಳೆಗಳು.",
+        "severity": "Critical",
+        "severity_kn": "ಅತ್ಯಂತ ಅಪಾಯಕಾರಿ",
+        "yield_loss": "30-70%",
+        "yield_loss_kn": "30-70%",
+        "pathogen": "Puccinia striiformis",
+        "pathogen_kn": "ಪಕ್ಸಿನಿಯಾ ಸ್ಟ್ರೈಫಾರ್ಮಿಸ್",
+        "countermeasures": [
+            "Spray systemic fungicides like Tebuconazole or Propiconazole immediately upon detection.",
+            "Protect the flag leaf at all costs."
+        ],
+        "preventive_measures": [
+            "Plant highly resistant wheat cultivars.",
+            "Adjust planting time to avoid conducive cool, wet weather periods."
+        ],
+        "recommended_actions": [
+            "Scout fields aggressively in early spring.",
+            "Pay attention to regional rust warning systems."
+        ],
+        "countermeasures_kn": [
+            "ರೋಗ ಪತ್ತೆಯಾದ ತಕ್ಷಣ ಟೆಬುಕೋನಜೋಲ್ ಅಥವಾ ಪ್ರೊಪಿಕೋನಜೋಲ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಮುಖ್ಯ ಎಲೆಯನ್ನು (Flag leaf) ಯಾವುದೇ ಬೆಲೆ ತೆತ್ತಾದರೂ ರಕ್ಷಿಸಿ."
+        ],
+        "preventive_measures_kn": [
+            "ಹೆಚ್ಚು ನಿರೋಧಕ ಗೋಧಿ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ತಂಪಾದ, ಆರ್ದ್ರ ವಾತಾವರಣದ ಅವಧಿಗಳನ್ನು ತಪ್ಪಿಸಲು ಬಿತ್ತನೆ ಸಮಯವನ್ನು ಹೊಂದಿಸಿ."
+        ],
+        "recommended_actions_kn": [
+            "ವಸಂತ ಋತುವಿನ ಆರಂಭದಲ್ಲಿ ಹೊಲಗಳನ್ನು ತೀವ್ರವಾಗಿ ಪರೀಕ್ಷಿಸಿ.",
+            "ಪ್ರಾದೇಶಿಕ ತುಕ್ಕು ರೋಗ ಎಚ್ಚರಿಕೆ ವ್ಯವಸ್ಥೆಗಳಿಗೆ ಗಮನ ಕೊಡಿ."
+        ],
+        "prevention_en": [
+            "Spray systemic fungicides like Tebuconazole or Propiconazole immediately upon detection.",
+            "Protect the flag leaf at all costs.",
+            "Plant highly resistant wheat cultivars.",
+            "Adjust planting time to avoid conducive cool, wet weather periods.",
+            "Scout fields aggressively in early spring.",
+            "Pay attention to regional rust warning systems."
+        ],
+        "prevention_kn": [
+            "ರೋಗ ಪತ್ತೆಯಾದ ತಕ್ಷಣ ಟೆಬುಕೋನಜೋಲ್ ಅಥವಾ ಪ್ರೊಪಿಕೋನಜೋಲ್ ನಂತಹ ಶಿಲೀಂಧ್ರನಾಶಕಗಳನ್ನು ಸಿಂಪಡಿಸಿ.",
+            "ಮುಖ್ಯ ಎಲೆಯನ್ನು (Flag leaf) ಯಾವುದೇ ಬೆಲೆ ತೆತ್ತಾದರೂ ರಕ್ಷಿಸಿ.",
+            "ಹೆಚ್ಚು ನಿರೋಧಕ ಗೋಧಿ ತಳಿಗಳನ್ನು ನೆಡಿರಿ.",
+            "ತಂಪಾದ, ಆರ್ದ್ರ ವಾತಾವರಣದ ಅವಧಿಗಳನ್ನು ತಪ್ಪಿಸಲು ಬಿತ್ತನೆ ಸಮಯವನ್ನು ಹೊಂದಿಸಿ.",
+            "ವಸಂತ ಋತುವಿನ ಆರಂಭದಲ್ಲಿ ಹೊಲಗಳನ್ನು ತೀವ್ರವಾಗಿ ಪರೀಕ್ಷಿಸಿ.",
+            "ಪ್ರಾದೇಶಿಕ ತುಕ್ಕು ರೋಗ ಎಚ್ಚರಿಕೆ ವ್ಯವಸ್ಥೆಗಳಿಗೆ ಗಮನ ಕೊಡಿ."
+        ]
+    },
+    "Wheat_Healthy": {
+        "name": "Healthy Wheat",
+        "disease_name_kn": "ಆರೋಗ್ಯಕರ ಗೋಧಿ",
+        "description": "The plant is healthy.",
+        "description_kn": "ಗಿಡವು ಆರೋಗ್ಯವಾಗಿದೆ.",
+        "severity": "None",
+        "severity_kn": "ಇಲ್ಲ",
+        "yield_loss": "0%",
+        "yield_loss_kn": "0%",
+        "pathogen": "N/A",
+        "pathogen_kn": "ಅನ್ವಯಿಸುವುದಿಲ್ಲ",
+        "countermeasures": [
+            "No immediate action required."
+        ],
+        "preventive_measures": [
+            "Maintain soil moisture.",
+            "Ensure timely nitrogen application."
+        ],
+        "recommended_actions": [
+            "Monitor regularly for pests and early rust signs."
+        ],
+        "countermeasures_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ."
+        ],
+        "preventive_measures_kn": [
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಸಕಾಲದಲ್ಲಿ ಸಾರಜನಕವನ್ನು ಹಾಕಿ."
+        ],
+        "recommended_actions_kn": [
+            "ಕೀಟಗಳು ಮತ್ತು ತುಕ್ಕು ರೋಗದ ಆರಂಭಿಕ ಲಕ್ಷಣಗಳಿಗಾಗಿ ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ],
+        "prevention_en": [
+            "No immediate action required.",
+            "Maintain soil moisture.",
+            "Ensure timely nitrogen application.",
+            "Monitor regularly for pests and early rust signs."
+        ],
+        "prevention_kn": [
+            "ತಕ್ಷಣದ ಯಾವುದೇ ಕ್ರಮದ ಅಗತ್ಯವಿಲ್ಲ.",
+            "ಮಣ್ಣಿನ ತೇವಾಂಶ ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ಸಕಾಲದಲ್ಲಿ ಸಾರಜನಕವನ್ನು ಹಾಕಿ.",
+            "ಕೀಟಗಳು ಮತ್ತು ತುಕ್ಕು ರೋಗದ ಆರಂಭಿಕ ಲಕ್ಷಣಗಳಿಗಾಗಿ ನಿಯಮಿತವಾಗಿ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."
+        ]
+    }
+}

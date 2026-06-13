@@ -1,0 +1,51 @@
+{
+    "10-26-26": {
+        "fertilizer_name_kn": "೧೦-೨೬-೨೬",
+        "reason": "A high-phosphorus and potassium complex fertilizer. It supports root expansion, flower initiation, and seed development.",
+        "reason_kn": "ರಂಜಕ ಮತ್ತು ಪೊಟ್ಯಾಸಿಯಮ್ ಹೆಚ್ಚಿರುವ ಸಂಯುಕ್ತ ರಸಗೊಬ್ಬರ. ಇದು ಬೇರಿನ ವಿಸ್ತರಣೆ, ಹೂಬಿಡುವಿಕೆ ಮತ್ತು ಬೀಜದ ಬೆಳವಣಿಗೆಯನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ.",
+        "dosage": "50-75 kg/acre",
+        "dosage_kn": "ಎಕರೆಗೆ 50-75 ಕೆ.ಜಿ"
+    },
+    "14-35-14": {
+        "fertilizer_name_kn": "೧೪-೩೫-೧೪",
+        "reason": "A phosphorus-rich starter fertilizer. Placing this near the root zone supports vigorous root architecture development.",
+        "reason_kn": "ರಂಜಕ ಭರಿತ ಆರಂಭಿಕ ರಸಗೊಬ್ಬರ. ಇದನ್ನು ಬೇರಿನ ಹತ್ತಿರ ಹಾಕುವುದರಿಂದ ಬೇರುಗಳ ಉತ್ತಮ ಬೆಳವಣಿಗೆಯಾಗುತ್ತದೆ.",
+        "dosage": "50-100 kg/acre (basal application)",
+        "dosage_kn": "ಎಕರೆಗೆ 50-100 ಕೆ.ಜಿ (ತಳದ ಗೊಬ್ಬರವಾಗಿ)"
+    },
+    "17-17-17": {
+        "fertilizer_name_kn": "೧೭-೧೭-೧೭",
+        "reason": "A balanced complex fertilizer delivering equal ratios of N-P-K. It acts as a universal corrective amendment.",
+        "reason_kn": "ಸಾರಜನಕ, ರಂಜಕ ಮತ್ತು ಪೊಟ್ಯಾಸಿಯಮ್ ಸಮಾನವಾಗಿರುವ ಸಮತೋಲಿತ ರಸಗೊಬ್ಬರ. ಇದು ಸಸ್ಯದ ಸರ್ವಾಂಗೀಣ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+        "dosage": "50-100 kg/acre",
+        "dosage_kn": "ಎಕರೆಗೆ 50-100 ಕೆ.ಜಿ"
+    },
+    "20-20": {
+        "fertilizer_name_kn": "೨೦-೨೦",
+        "reason": "A specialized bi-nutrient compound formulated for soils with sufficient natural potassium reserves.",
+        "reason_kn": "ನೈಸರ್ಗಿಕವಾಗಿ ಸಾಕಷ್ಟು ಪೊಟ್ಯಾಸಿಯಮ್ ಹೊಂದಿರುವ ಮಣ್ಣಿಗೆ ರೂಪಿಸಲಾದ ದ್ವಿ-ಪೋಷಕಾಂಶದ ರಸಗೊಬ್ಬರ.",
+        "dosage": "40-80 kg/acre",
+        "dosage_kn": "ಎಕರೆಗೆ 40-80 ಕೆ.ಜಿ"
+    },
+    "28-28": {
+        "fertilizer_name_kn": "೨೮-೨೮",
+        "reason": "A highly concentrated nitrogen-phosphorus blend. Supports high-demand crops during peak vegetative stages.",
+        "reason_kn": "ಸಾರಜನಕ ಮತ್ತು ರಂಜಕದ ಹೆಚ್ಚು ಸಾಂದ್ರತೆಯ ಮಿಶ್ರಣ. ಗಿಡಗಳು ವೇಗವಾಗಿ ಬೆಳೆಯುವ ಹಂತದಲ್ಲಿ ಹೆಚ್ಚು ಪೋಷಕಾಂಶ ಬೇಡುವ ಬೆಳೆಗಳಿಗೆ ಬೆಂಬಲಿಸುತ್ತದೆ.",
+        "dosage": "40-60 kg/acre",
+        "dosage_kn": "ಎಕರೆಗೆ 40-60 ಕೆ.ಜಿ"
+    },
+    "DAP": {
+        "fertilizer_name_kn": "ಡಿ.ಎ.ಪಿ (DAP)",
+        "reason": "A widely used phosphorus-rich basal fertilizer. Establishes a strong root foundation and immediate support for vegetative growth.",
+        "reason_kn": "ವ್ಯಾಪಕವಾಗಿ ಬಳಸುವ ರಂಜಕ ಭರಿತ ತಳದ ಗೊಬ್ಬರ. ಇದು ಬೇರುಗಳನ್ನು ಬಲಪಡಿಸುತ್ತದೆ ಮತ್ತು ಆರಂಭಿಕ ಬೆಳವಣಿಗೆಗೆ ತಕ್ಷಣದ ಬೆಂಬಲ ನೀಡುತ್ತದೆ.",
+        "dosage": "40-60 kg/acre (basal application)",
+        "dosage_kn": "ಎಕರೆಗೆ 40-60 ಕೆ.ಜಿ (ತಳದ ಗೊಬ್ಬರವಾಗಿ)"
+    },
+    "Urea": {
+        "fertilizer_name_kn": "ಯೂರಿಯಾ",
+        "reason": "A high-nitrogen fertilizer commonly used for rapid vegetative growth and leaf expansion.",
+        "reason_kn": "ವೇಗದ ಬೆಳವಣಿಗೆ ಮತ್ತು ಎಲೆಗಳ ವಿಸ್ತರಣೆಗಾಗಿ ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸಲಾಗುವ ಹೆಚ್ಚು ಸಾರಜನಕಯುಕ್ತ ರಸಗೊಬ್ಬರ.",
+        "dosage": "40-60 kg/acre (split applications)",
+        "dosage_kn": "ಎಕರೆಗೆ 40-60 ಕೆ.ಜಿ (ಕಂತುಗಳಲ್ಲಿ)"
+    }
+}

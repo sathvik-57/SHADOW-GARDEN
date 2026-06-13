@@ -1,0 +1,552 @@
+{
+    "Apple": {
+        "crop_name_kn": "ಸೇಬು",
+        "water_requirement": "Medium",
+        "water_requirement_kn": "ಮಧ್ಯಮ",
+        "growth_duration": "120-150 days",
+        "growth_duration_kn": "120-150 ದಿನಗಳು",
+        "ideal_temperature": "15-24°C",
+        "ideal_temperature_kn": "15-24°C",
+        "lifecycle": [
+            "Pre-Planting: Prepare well-drained, slightly acidic soil.",
+            "Planting: Plant dormant saplings.",
+            "Early Growth: Prune trees to establish framework.",
+            "Bloom Stage: Manage pollination.",
+            "Fruit Set: Ensure consistent summer irrigation.",
+            "Harvest: Pick fruits gently when color changes."
+        ],
+        "lifecycle_kn": [
+            "ನಾಟಿಗೆ ಮುನ್ನ: ಚೆನ್ನಾಗಿ ಬರಿದಾದ, ಸ್ವಲ್ಪ ಆಮ್ಲೀಯ ಮಣ್ಣನ್ನು ಸಿದ್ಧಪಡಿಸಿ.",
+            "ನಾಟಿ: ಸುಪ್ತ ಸಸಿಗಳನ್ನು ನಾಟಿ ಮಾಡಿ.",
+            "ಆರಂಭಿಕ ಬೆಳವಣಿಗೆ: ಮರಗಳನ್ನು ಕತ್ತರಿಸುವ ಮೂಲಕ ಆಕಾರ ನೀಡಿ.",
+            "ಹೂಬಿಡುವ ಹಂತ: ಪರಾಗಸ್ಪರ್ಶವನ್ನು ನಿರ್ವಹಿಸಿ.",
+            "ಹಣ್ಣು ಕಚ್ಚುವುದು: ಬೇಸಿಗೆಯಲ್ಲಿ ನಿರಂತರ ನೀರಾವರಿ ಖಚಿತಪಡಿಸಿ.",
+            "ಕೊಯ್ಲು: ಬಣ್ಣ ಬದಲಾದಾಗ ಹಣ್ಣುಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಕೀಳಿರಿ."
+        ]
+    },
+    "Banana": {
+        "crop_name_kn": "ಬಾಳೆ",
+        "water_requirement": "High",
+        "water_requirement_kn": "ಹೆಚ್ಚು",
+        "growth_duration": "11-14 months",
+        "growth_duration_kn": "11-14 ತಿಂಗಳುಗಳು",
+        "ideal_temperature": "26-30°C",
+        "ideal_temperature_kn": "26-30°C",
+        "lifecycle": [
+            "Preparation: Deep plough the field and prepare pits.",
+            "Planting: Plant healthy sword suckers.",
+            "Vegetative Growth: Apply frequent, light irrigation.",
+            "Shooting Stage: Provide heavy irrigation and support pseudostem.",
+            "Bunch Development: Remove male bud and bag bunches.",
+            "Harvesting: Cut the bunch when ridges turn rounded."
+        ],
+        "lifecycle_kn": [
+            "ಸಿದ್ಧತೆ: ಹೊಲವನ್ನು ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ ಗುಂಡಿಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿ.",
+            "ನಾಟಿ: ಆರೋಗ್ಯಕರ ಕತ್ತಿ ಕಂದುಗಳನ್ನು ನಾಟಿ ಮಾಡಿ.",
+            "ಬೆಳವಣಿಗೆಯ ಹಂತ: ಆಗಾಗ್ಗೆ, ಲಘು ನೀರಾವರಿ ಒದಗಿಸಿ.",
+            "ಹೂಬಿಡುವ ಹಂತ: ಹೆಚ್ಚು ನೀರು ಒದಗಿಸಿ ಮತ್ತು ಕಾಂಡಕ್ಕೆ ಆಸರೆ ನೀಡಿ.",
+            "ಗೊನೆ ಅಭಿವೃದ್ಧಿ: ಗಂಡು ಹೂವನ್ನು ತೆಗೆಯಿರಿ ಮತ್ತು ಗೊನೆಗೆ ಚೀಲ ಕಟ್ಟಿ.",
+            "ಕೊಯ್ಲು: ಕಾಯಿಗಳು ದುಂಡಾದಾಗ ಗೊನೆಯನ್ನು ಕತ್ತರಿಸಿ."
+        ]
+    },
+    "Blackgram": {
+        "crop_name_kn": "ಉದ್ದು",
+        "water_requirement": "Low",
+        "water_requirement_kn": "ಕಡಿಮೆ",
+        "growth_duration": "70-90 days",
+        "growth_duration_kn": "70-90 ದಿನಗಳು",
+        "ideal_temperature": "25-35°C",
+        "ideal_temperature_kn": "25-35°C",
+        "lifecycle": [
+            "Seed Treatment: Treat seeds with Rhizobium.",
+            "Sowing: Drill seeds into a well-prepared seedbed.",
+            "Seedling Stage: Apply basal dose of phosphorus.",
+            "Flowering Phase: Irrigate at pre-flowering stage.",
+            "Pod Formation: Monitor for pod borers.",
+            "Harvest: Uproot or cut plants when pods turn black."
+        ],
+        "lifecycle_kn": [
+            "ಬೀಜೋಪಚಾರ: ಬೀಜಗಳನ್ನು ರೈಜೋಬಿಯಂನೊಂದಿಗೆ ಉಪಚರಿಸಿ.",
+            "ಬಿತ್ತನೆ: ಚೆನ್ನಾಗಿ ಸಿದ್ಧಪಡಿಸಿದ ಬಿತ್ತನೆ ಪ್ರದೇಶದಲ್ಲಿ ಬೀಜಗಳನ್ನು ಬಿತ್ತಿ.",
+            "ಸಸಿ ಹಂತ: ರಂಜಕದ ತಳದ ಗೊಬ್ಬರವನ್ನು ಹಾಕಿ.",
+            "ಹೂಬಿಡುವ ಹಂತ: ಹೂಬಿಡುವ ಮುನ್ನ ನೀರುಣಿಸಿ.",
+            "ಕಾಯಿ ಕಟ್ಟುವಿಕೆ: ಕಾಯಿ ಕೊರಕಗಳ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ.",
+            "ಕೊಯ್ಲು: ಕಾಯಿಗಳು ಕಪ್ಪಾದಾಗ ಗಿಡಗಳನ್ನು ಕೀಳಿರಿ."
+        ]
+    },
+    "Chickpea": {
+        "crop_name_kn": "ಕಡಲೆ",
+        "water_requirement": "Low",
+        "water_requirement_kn": "ಕಡಿಮೆ",
+        "growth_duration": "90-120 days",
+        "growth_duration_kn": "90-120 ದಿನಗಳು",
+        "ideal_temperature": "20-25°C",
+        "ideal_temperature_kn": "20-25°C",
+        "lifecycle": [
+            "Field Prep: Prepare a rough seedbed.",
+            "Sowing: Sow seeds deeply in moist soil.",
+            "Vegetative Stage: Avoid early irrigation.",
+            "Flowering & Nipping: Pluck apical buds at 30-40 days.",
+            "Pod Development: Apply light irrigation if needed.",
+            "Harvesting: Harvest when leaves turn yellow and pods dry."
+        ],
+        "lifecycle_kn": [
+            "ಹೊಲ ಸಿದ್ಧತೆ: ಒರಟು ಬಿತ್ತನೆ ಪ್ರದೇಶವನ್ನು ಸಿದ್ಧಪಡಿಸಿ.",
+            "ಬಿತ್ತನೆ: ತೇವಾಂಶವುಳ್ಳ ಮಣ್ಣಿನಲ್ಲಿ ಬೀಜಗಳನ್ನು ಆಳವಾಗಿ ಬಿತ್ತಿ.",
+            "ಬೆಳವಣಿಗೆಯ ಹಂತ: ಆರಂಭಿಕ ನೀರಾವರಿಯನ್ನು ತಪ್ಪಿಸಿ.",
+            "ಹೂಬಿಡುವಿಕೆ ಮತ್ತು ಚಿವುಟುವಿಕೆ: 30-40 ದಿನಗಳಲ್ಲಿ ಕುಡಿ ಚಿವುಟಿರಿ.",
+            "ಕಾಯಿ ಅಭಿವೃದ್ಧಿ: ಅಗತ್ಯವಿದ್ದರೆ ಲಘು ನೀರಾವರಿ ಒದಗಿಸಿ.",
+            "ಕೊಯ್ಲು: ಎಲೆಗಳು ಹಳದಿಯಾಗಿ ಕಾಯಿಗಳು ಒಣಗಿದಾಗ ಕೊಯ್ಲು ಮಾಡಿ."
+        ]
+    },
+    "Coconut": {
+        "crop_name_kn": "ತೆಂಗು",
+        "water_requirement": "High",
+        "water_requirement_kn": "ಹೆಚ್ಚು",
+        "growth_duration": "Perennial",
+        "growth_duration_kn": "ಬಹುವಾರ್ಷಿಕ",
+        "ideal_temperature": "27-32°C",
+        "ideal_temperature_kn": "27-32°C",
+        "lifecycle": [
+            "Site Preparation: Dig 1m pits.",
+            "Planting: Plant seedlings and provide shade.",
+            "Establishment: Apply NPK and micro-nutrients.",
+            "Pre-Bearing Phase: Practice intercropping.",
+            "Mature Bearing Stage: Ensure consistent year-round irrigation.",
+            "Harvesting: Harvest mature nuts every 45-60 days."
+        ],
+        "lifecycle_kn": [
+            "ಸ್ಥಳ ಸಿದ್ಧತೆ: 1 ಮೀಟರ್ ಗುಂಡಿಗಳನ್ನು ತೋಡಿರಿ.",
+            "ನಾಟಿ: ಸಸಿಗಳನ್ನು ನಾಟಿ ಮಾಡಿ ಮತ್ತು ನೆರಳು ಒದಗಿಸಿ.",
+            "ಸ್ಥಾಪನೆ: NPK ಮತ್ತು ಲಘು ಪೋಷಕಾಂಶಗಳನ್ನು ಹಾಕಿ.",
+            "ಕಾಯಿ ಬಿಡುವ ಮುನ್ನ: ಅಂತರ ಬೆಳೆಗಳನ್ನು ಬೆಳೆಯಿರಿ.",
+            "ಕಾಯಿ ಬಿಡುವ ಹಂತ: ವರ್ಷಪೂರ್ತಿ ನಿರಂತರ ನೀರಾವರಿ ಖಚಿತಪಡಿಸಿ.",
+            "ಕೊಯ್ಲು: ಪ್ರತಿ 45-60 ದಿನಗಳಿಗೊಮ್ಮೆ ಬಲಿತ ಕಾಯಿಗಳನ್ನು ಕೀಳಿರಿ."
+        ]
+    },
+    "Coffee": {
+        "crop_name_kn": "ಕಾಫಿ",
+        "water_requirement": "High",
+        "water_requirement_kn": "ಹೆಚ್ಚು",
+        "growth_duration": "Perennial",
+        "growth_duration_kn": "ಬಹುವಾರ್ಷಿಕ",
+        "ideal_temperature": "15-28°C",
+        "ideal_temperature_kn": "15-28°C",
+        "lifecycle": [
+            "Nursery: Raise seedlings in shaded polybags.",
+            "Initial Growth: Prune for bush framework.",
+            "Blossom Showers: Requires rain for flowering.",
+            "Berry Development: Apply potassium-rich fertilizers.",
+            "Pest Management: Monitor for berry borer.",
+            "Harvesting: Selectively hand-pick ripe cherries."
+        ],
+        "lifecycle_kn": [
+            "ನರ್ಸರಿ: ನೆರಳಿನ ಪಾಲಿಬ್ಯಾಗ್‌ಗಳಲ್ಲಿ ಸಸಿಗಳನ್ನು ಬೆಳೆಸಿ.",
+            "ಆರಂಭಿಕ ಬೆಳವಣಿಗೆ: ಗಿಡದ ಆಕಾರಕ್ಕಾಗಿ ಕತ್ತರಿಸುವಿಕೆ ಮಾಡಿ.",
+            "ಹೂಮಳೆ: ಹೂಬಿಡಲು ಮಳೆಯ ಅವಶ್ಯಕತೆ ಇದೆ.",
+            "ಹಣ್ಣು ಅಭಿವೃದ್ಧಿ: ಪೊಟ್ಯಾಸಿಯಮ್ ಭರಿತ ರಸಗೊಬ್ಬರಗಳನ್ನು ಹಾಕಿ.",
+            "ಕೀಟ ನಿರ್ವಹಣೆ: ಕಾಫಿ ಹಣ್ಣಿನ ಕೊರಕದ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ.",
+            "ಕೊಯ್ಲು: ಹಣ್ಣಾದ ಕಾಫಿ ಹಣ್ಣುಗಳನ್ನು ಮಾತ್ರ ಆಯ್ದು ಕೀಳಿರಿ."
+        ]
+    },
+    "Cotton": {
+        "crop_name_kn": "ಹತ್ತಿ",
+        "water_requirement": "Medium",
+        "water_requirement_kn": "ಮಧ್ಯಮ",
+        "growth_duration": "150-180 days",
+        "growth_duration_kn": "150-180 ದಿನಗಳು",
+        "ideal_temperature": "21-30°C",
+        "ideal_temperature_kn": "21-30°C",
+        "lifecycle": [
+            "Soil Prep: Deep plough to break hardpans.",
+            "Sowing: Dibble treated seeds.",
+            "Vegetative Growth: Delay first irrigation.",
+            "Square & Boll Formation: Ensure consistent irrigation.",
+            "Pest Monitoring: Scout for pink bollworm.",
+            "Harvesting: Hand-pick open bolls."
+        ],
+        "lifecycle_kn": [
+            "ಮಣ್ಣಿನ ಸಿದ್ಧತೆ: ಗಡಸು ಪದರವನ್ನು ಒಡೆಯಲು ಆಳವಾಗಿ ಉಳುಮೆ ಮಾಡಿ.",
+            "ಬಿತ್ತನೆ: ಉಪಚರಿಸಿದ ಬೀಜಗಳನ್ನು ಬಿತ್ತಿ.",
+            "ಬೆಳವಣಿಗೆಯ ಹಂತ: ಮೊದಲ ನೀರಾವರಿಯನ್ನು ವಿಳಂಬ ಮಾಡಿ.",
+            "ಮೊಗ್ಗು ಮತ್ತು ಕಾಯಿ ಕಟ್ಟುವಿಕೆ: ನಿರಂತರ ನೀರಾವರಿ ಖಚಿತಪಡಿಸಿ.",
+            "ಕೀಟ ನಿರ್ವಹಣೆ: ಗುಲಾಬಿ ಕಾಯಿ ಕೊರಕದ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ.",
+            "ಕೊಯ್ಲು: ಅರಳಿದ ಹತ್ತಿಯನ್ನು ಕೈಯಿಂದ ಬಿಡಿಸಿ."
+        ]
+    },
+    "Grapes": {
+        "crop_name_kn": "ದ್ರಾಕ್ಷಿ",
+        "water_requirement": "Medium",
+        "water_requirement_kn": "ಮಧ್ಯಮ",
+        "growth_duration": "Perennial",
+        "growth_duration_kn": "ಬಹುವಾರ್ಷಿಕ",
+        "ideal_temperature": "15-40°C",
+        "ideal_temperature_kn": "15-40°C",
+        "lifecycle": [
+            "Vineyard Establishment: Plant and train vines.",
+            "Dormant Pruning: Perform heavy pruning in winter.",
+            "Bud Break: Apply nitrogen and ensure moisture.",
+            "Flowering: Withhold heavy irrigation.",
+            "Color Change: Increase potassium.",
+            "Harvesting: Harvest based on sugar levels."
+        ],
+        "lifecycle_kn": [
+            "ತೋಟ ಸ್ಥಾಪನೆ: ಬಳ್ಳಿಗಳನ್ನು ನೆಟ್ಟು ಚಪ್ಪರಕ್ಕೆ ಹಬ್ಬಿಸಿ.",
+            "ಚಳಿಗಾಲದ ಕತ್ತರಿಸುವಿಕೆ: ಚಳಿಗಾಲದಲ್ಲಿ ಆಳವಾಗಿ ಕತ್ತರಿಸಿ (ಪ್ರೂನಿಂಗ್).",
+            "ಚಿಗುರುವಿಕೆ: ಸಾರಜನಕ ಮತ್ತು ತೇವಾಂಶ ಒದಗಿಸಿ.",
+            "ಹೂಬಿಡುವಿಕೆ: ಹೆಚ್ಚು ನೀರು ಹರಿಸುವುದನ್ನು ನಿಲ್ಲಿಸಿ.",
+            "ಬಣ್ಣ ಬದಲಾವಣೆ: ಪೊಟ್ಯಾಸಿಯಮ್ ಅನ್ನು ಹೆಚ್ಚಿಸಿ.",
+            "ಕೊಯ್ಲು: ಸಕ್ಕರೆಯ ಮಟ್ಟವನ್ನು ಆಧರಿಸಿ ಕೊಯ್ಲು ಮಾಡಿ."
+        ]
+    },
+    "Jute": {
+        "crop_name_kn": "ಸೆಣಬು",
+        "water_requirement": "High",
+        "water_requirement_kn": "ಹೆಚ್ಚು",
+        "growth_duration": "100-120 days",
+        "growth_duration_kn": "100-120 ದಿನಗಳು",
+        "ideal_temperature": "24-38°C",
+        "ideal_temperature_kn": "24-38°C",
+        "lifecycle": [
+            "Land Prep: Prepare fine tilth.",
+            "Sowing: Broadcast seeds during pre-monsoon.",
+            "Seedling Stage: Perform manual weeding.",
+            "Vegetative Growth: Apply nitrogenous fertilizers.",
+            "Pre-Harvest: Monitor for stem weevils.",
+            "Retting: Submerge in water to extract fibers."
+        ],
+        "lifecycle_kn": [
+            "ಭೂಮಿ ಸಿದ್ಧತೆ: ನುಣ್ಣಗಿನ ಮಣ್ಣನ್ನು ಸಿದ್ಧಪಡಿಸಿ.",
+            "ಬಿತ್ತನೆ: ಮುಂಗಾರು ಪೂರ್ವ ಮಳೆಯ ಸಮಯದಲ್ಲಿ ಬೀಜಗಳನ್ನು ಎರಚಿ.",
+            "ಸಸಿ ಹಂತ: ಕೈಯಿಂದ ಕಳೆ ಕೀಳಿರಿ.",
+            "ಬೆಳವಣಿಗೆಯ ಹಂತ: ಸಾರಜನಕಯುಕ್ತ ರಸಗೊಬ್ಬರಗಳನ್ನು ಹಾಕಿ.",
+            "ಕೊಯ್ಲಿಗೆ ಮುನ್ನ: ಕಾಂಡದ ಕೀಟಗಳ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ.",
+            "ನಾರು ತೆಗೆಯುವಿಕೆ: ನಾರು ತೆಗೆಯಲು ನೀರಿನಲ್ಲಿ ನೆನೆಸಿ."
+        ]
+    },
+    "Kidneybeans": {
+        "crop_name_kn": "ರಾಜ್ಮಾ (ಕಿಡ್ನಿ ಬೀನ್ಸ್)",
+        "water_requirement": "Medium",
+        "water_requirement_kn": "ಮಧ್ಯಮ",
+        "growth_duration": "90-110 days",
+        "growth_duration_kn": "90-110 ದಿನಗಳು",
+        "ideal_temperature": "15-25°C",
+        "ideal_temperature_kn": "15-25°C",
+        "lifecycle": [
+            "Preparation: Prepare well-drained seedbed.",
+            "Sowing: Sow seeds in rows.",
+            "Vegetative Phase: Keep weed-free.",
+            "Flowering Phase: Provide critical irrigation.",
+            "Pod Maturation: Reduce irrigation.",
+            "Harvesting: Harvest when dry."
+        ],
+        "lifecycle_kn": [
+            "ಸಿದ್ಧತೆ: ನೀರು ಸರಾಗವಾಗಿ ಹರಿದು ಹೋಗುವ ಬಿತ್ತನೆ ಪ್ರದೇಶ ಸಿದ್ಧಪಡಿಸಿ.",
+            "ಬಿತ್ತನೆ: ಸಾಲುಗಳಲ್ಲಿ ಬೀಜಗಳನ್ನು ಬಿತ್ತಿ.",
+            "ಬೆಳವಣಿಗೆಯ ಹಂತ: ಕಳೆ ಮುಕ್ತವಾಗಿಡಿ.",
+            "ಹೂಬಿಡುವ ಹಂತ: ಹೂಬಿಡುವಾಗ ಕಡ್ಡಾಯವಾಗಿ ನೀರುಣಿಸಿ.",
+            "ಕಾಯಿ ಬಲಿಯುವಿಕೆ: ನೀರಾವರಿಯನ್ನು ಕಡಿಮೆ ಮಾಡಿ.",
+            "ಕೊಯ್ಲು: ಒಣಗಿದಾಗ ಕೊಯ್ಲು ಮಾಡಿ."
+        ]
+    },
+    "Lentil": {
+        "crop_name_kn": "ಮಸೂರ್ (ಕೆಂಪು ಬೇಳೆ)",
+        "water_requirement": "Low",
+        "water_requirement_kn": "ಕಡಿಮೆ",
+        "growth_duration": "110-140 days",
+        "growth_duration_kn": "110-140 ದಿನಗಳು",
+        "ideal_temperature": "18-30°C",
+        "ideal_temperature_kn": "18-30°C",
+        "lifecycle": [
+            "Soil Prep: Requires minimal tillage.",
+            "Sowing: Drill seeds in moist soil.",
+            "Early Growth: Ensure timely weeding.",
+            "Flowering: Apply light irrigation.",
+            "Pod Filling: Monitor for aphids.",
+            "Harvesting: Harvest before pods shatter."
+        ],
+        "lifecycle_kn": [
+            "ಮಣ್ಣಿನ ಸಿದ್ಧತೆ: ಕಡಿಮೆ ಉಳುಮೆಯ ಅವಶ್ಯಕತೆ ಇದೆ.",
+            "ಬಿತ್ತನೆ: ತೇವಾಂಶವುಳ್ಳ ಮಣ್ಣಿನಲ್ಲಿ ಬಿತ್ತಿ.",
+            "ಆರಂಭಿಕ ಬೆಳವಣಿಗೆ: ಸಕಾಲದಲ್ಲಿ ಕಳೆ ಕೀಳುವುದನ್ನು ಖಚಿತಪಡಿಸಿ.",
+            "ಹೂಬಿಡುವಿಕೆ: ಲಘು ನೀರಾವರಿ ಒದಗಿಸಿ.",
+            "ಕಾಯಿ ತುಂಬುವಿಕೆ: ಗಿಡಹೇನುಗಳ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ.",
+            "ಕೊಯ್ಲು: ಕಾಯಿಗಳು ಒಡೆಯುವ ಮುನ್ನ ಕೊಯ್ಲು ಮಾಡಿ."
+        ]
+    },
+    "Maize": {
+        "crop_name_kn": "ಮೆಕ್ಕೆಜೋಳ",
+        "water_requirement": "Medium",
+        "water_requirement_kn": "ಮಧ್ಯಮ",
+        "growth_duration": "90-120 days",
+        "growth_duration_kn": "90-120 ದಿನಗಳು",
+        "ideal_temperature": "21-27°C",
+        "ideal_temperature_kn": "21-27°C",
+        "lifecycle": [
+            "Land Prep: Prepare ridges and furrows.",
+            "Sowing: Sow seeds on ridges.",
+            "Knee-High Stage: Apply nitrogen top-dressing.",
+            "Tasseling: Ensure zero moisture stress.",
+            "Grain Filling: Monitor for Fall Armyworm.",
+            "Harvesting: Harvest when husks turn brown."
+        ],
+        "lifecycle_kn": [
+            "ಭೂಮಿ ಸಿದ್ಧತೆ: ಸಾಲು ಮತ್ತು ಬದುಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿ.",
+            "ಬಿತ್ತನೆ: ಬದುಗಳ ಮೇಲೆ ಬೀಜಗಳನ್ನು ಬಿತ್ತಿ.",
+            "ಮಂಡಿಯುದ್ದ ಬೆಳೆದಾಗ: ಸಾರಜನಕದ ಮೇಲುಗೊಬ್ಬರ ಹಾಕಿ ಮತ್ತು ಮಣ್ಣು ಏರಿಸಿ.",
+            "ಹೂಬಿಡುವಿಕೆ: ತೇವಾಂಶದ ಕೊರತೆಯಾಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ತೆನೆ ತುಂಬುವಿಕೆ: ಸೈನಿಕ ಹುಳುವಿನ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ.",
+            "ಕೊಯ್ಲು: ಹೊದಿಕೆ ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದಾಗ ಕೊಯ್ಲು ಮಾಡಿ."
+        ]
+    },
+    "Mango": {
+        "crop_name_kn": "ಮಾವು",
+        "water_requirement": "Medium",
+        "water_requirement_kn": "ಮಧ್ಯಮ",
+        "growth_duration": "Perennial",
+        "growth_duration_kn": "ಬಹುವಾರ್ಷಿಕ",
+        "ideal_temperature": "24-30°C",
+        "ideal_temperature_kn": "24-30°C",
+        "lifecycle": [
+            "Planting: Dig deep pits and plant grafted saplings.",
+            "Vegetative Phase: Prune to build framework.",
+            "Flowering: Restrict irrigation to induce stress.",
+            "Fruit Set: Resume regular irrigation.",
+            "Maturation: Protect from fruit flies.",
+            "Harvesting: Pluck fruits manually."
+        ],
+        "lifecycle_kn": [
+            "ನಾಟಿ: ಆಳವಾದ ಗುಂಡಿಗಳನ್ನು ತೋಡಿ ಕಸಿ ಸಸಿಗಳನ್ನು ನೆಡಿ.",
+            "ಬೆಳವಣಿಗೆಯ ಹಂತ: ಮರದ ಆಕಾರಕ್ಕಾಗಿ ಕತ್ತರಿಸುವಿಕೆ ಮಾಡಿ.",
+            "ಹೂಬಿಡುವಿಕೆ: ಹೂಬಿಡಲು ಪ್ರೇರೇಪಿಸಲು ನೀರು ಹರಿಸುವುದನ್ನು ಕಡಿಮೆ ಮಾಡಿ.",
+            "ಹಣ್ಣು ಕಚ್ಚುವುದು: ನಿಯಮಿತ ನೀರಾವರಿಯನ್ನು ಪುನರಾರಂಭಿಸಿ.",
+            "ಬಲಿಯುವಿಕೆ: ಹಣ್ಣು ನೊಣಗಳಿಂದ ರಕ್ಷಿಸಿ.",
+            "ಕೊಯ್ಲು: ಹಣ್ಣುಗಳನ್ನು ಕೈಯಿಂದ ಕೀಳಿರಿ."
+        ]
+    },
+    "Mothbeans": {
+        "crop_name_kn": "ಮಡಿಕೆ ಕಾಳು",
+        "water_requirement": "Low",
+        "water_requirement_kn": "ಕಡಿಮೆ",
+        "growth_duration": "60-90 days",
+        "growth_duration_kn": "60-90 ದಿನಗಳು",
+        "ideal_temperature": "25-40°C",
+        "ideal_temperature_kn": "25-40°C",
+        "lifecycle": [
+            "Sowing: Sow in sandy soils.",
+            "Establishment: Seeds germinate quickly.",
+            "Vegetative Stage: Forms a dense mat.",
+            "Flowering: Survives drought well.",
+            "Maturation: Minimal maintenance needed.",
+            "Harvesting: Cut vines and dry."
+        ],
+        "lifecycle_kn": [
+            "ಬಿತ್ತನೆ: ಮರಳು ಮಿಶ್ರಿತ ಮಣ್ಣಿನಲ್ಲಿ ಬಿತ್ತಿ.",
+            "ಸ್ಥಾಪನೆ: ಬೀಜಗಳು ಬೇಗ ಮೊಳಕೆಯೊಡೆಯುತ್ತವೆ.",
+            "ಬೆಳವಣಿಗೆಯ ಹಂತ: ದಟ್ಟವಾಗಿ ಹಬ್ಬುತ್ತದೆ ಮತ್ತು ಕಳೆಗಳನ್ನು ತಡೆಯುತ್ತದೆ.",
+            "ಹೂಬಿಡುವಿಕೆ: ಬರಗಾಲವನ್ನು ಚೆನ್ನಾಗಿ ತಡೆದುಕೊಳ್ಳುತ್ತದೆ.",
+            "ಬಲಿಯುವಿಕೆ: ಕನಿಷ್ಠ ನಿರ್ವಹಣೆ ಸಾಕು.",
+            "ಕೊಯ್ಲು: ಬಳ್ಳಿಗಳನ್ನು ಕತ್ತರಿಸಿ ಒಣಗಿಸಿ."
+        ]
+    },
+    "Mungbean": {
+        "crop_name_kn": "ಹೆಸರು ಕಾಳು",
+        "water_requirement": "Low",
+        "water_requirement_kn": "ಕಡಿಮೆ",
+        "growth_duration": "60-70 days",
+        "growth_duration_kn": "60-70 ದಿನಗಳು",
+        "ideal_temperature": "25-35°C",
+        "ideal_temperature_kn": "25-35°C",
+        "lifecycle": [
+            "Seed Treatment: Treat with Rhizobium.",
+            "Sowing: Sow in pulverized seedbed.",
+            "Early Growth: Perform hand weeding.",
+            "Flowering Phase: Light irrigation if dry.",
+            "Pest Control: Monitor for whiteflies.",
+            "Harvesting: Pick mature black pods."
+        ],
+        "lifecycle_kn": [
+            "ಬೀಜೋಪಚಾರ: ರೈಜೋಬಿಯಂನೊಂದಿಗೆ ಉಪಚರಿಸಿ.",
+            "ಬಿತ್ತನೆ: ಪುಡಿಪುಡಿಯಾದ ಬಿತ್ತನೆ ಪ್ರದೇಶದಲ್ಲಿ ಬಿತ್ತಿ.",
+            "ಆರಂಭಿಕ ಬೆಳವಣಿಗೆ: ಕೈಯಿಂದ ಕಳೆ ಕೀಳಿರಿ.",
+            "ಹೂಬಿಡುವ ಹಂತ: ಒಣಗಿದ್ದರೆ ಲಘು ನೀರಾವರಿ ಒದಗಿಸಿ.",
+            "ಕೀಟ ನಿಯಂತ್ರಣ: ಬಿಳಿ ನೊಣಗಳ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ.",
+            "ಕೊಯ್ಲು: ಬಲಿತ ಕಪ್ಪು ಕಾಯಿಗಳನ್ನು ಕೀಳಿರಿ."
+        ]
+    },
+    "Muskmelon": {
+        "crop_name_kn": "ಖರಬೂಜ",
+        "water_requirement": "Medium",
+        "water_requirement_kn": "ಮಧ್ಯಮ",
+        "growth_duration": "80-100 days",
+        "growth_duration_kn": "80-100 ದಿನಗಳು",
+        "ideal_temperature": "25-32°C",
+        "ideal_temperature_kn": "25-32°C",
+        "lifecycle": [
+            "Preparation: Create raised beds.",
+            "Sowing: Maintain wide spacing.",
+            "Vine Growth: Apply nitrogen.",
+            "Flowering: Introduce honeybees.",
+            "Fruit Development: Limit watering.",
+            "Harvesting: Harvest at 'full-slip' stage."
+        ],
+        "lifecycle_kn": [
+            "ಸಿದ್ಧತೆ: ಎತ್ತರದ ಬದುಗಳನ್ನು ನಿರ್ಮಿಸಿ.",
+            "ಬಿತ್ತನೆ: ಹೆಚ್ಚು ಅಂತರವನ್ನು ಕಾಯ್ದುಕೊಳ್ಳಿ.",
+            "ಬಳ್ಳಿ ಬೆಳವಣಿಗೆ: ಸಾರಜನಕವನ್ನು ಹಾಕಿ.",
+            "ಹೂಬಿಡುವಿಕೆ: ಪರಾಗಸ್ಪರ್ಶಕ್ಕಾಗಿ ಜೇನುನೊಣಗಳಿಗೆ ಅವಕಾಶ ಕೊಡಿ.",
+            "ಹಣ್ಣು ಅಭಿವೃದ್ಧಿ: ಕಾಯಿ ಬಲಿಯುವಾಗ ನೀರುಣಿಸುವುದನ್ನು ಮಿತಿಗೊಳಿಸಿ.",
+            "ಕೊಯ್ಲು: ಹಣ್ಣು ತೊಟ್ಟಿನಿಂದ ಸುಲಭವಾಗಿ ಬೇರ್ಪಡುವ ಹಂತದಲ್ಲಿ ಕೊಯ್ಲು ಮಾಡಿ."
+        ]
+    },
+    "Orange": {
+        "crop_name_kn": "ಕಿತ್ತಳೆ",
+        "water_requirement": "Medium",
+        "water_requirement_kn": "ಮಧ್ಯಮ",
+        "growth_duration": "Perennial",
+        "growth_duration_kn": "ಬಹುವಾರ್ಷಿಕ",
+        "ideal_temperature": "13-38°C",
+        "ideal_temperature_kn": "13-38°C",
+        "lifecycle": [
+            "Planting: Plant budded saplings.",
+            "Early Maintenance: Keep trunk clear of water.",
+            "Bahar Treatment: Withhold water to induce flowering.",
+            "Fruit Set: Apply micronutrients.",
+            "Pest Management: Monitor for Citrus Psylla.",
+            "Harvesting: Clip fruits when color develops."
+        ],
+        "lifecycle_kn": [
+            "ನಾಟಿ: ಕಸಿ ಮಾಡಿದ ಸಸಿಗಳನ್ನು ನೆಡಿ.",
+            "ಆರಂಭಿಕ ನಿರ್ವಹಣೆ: ಕಾಂಡದ ಹತ್ತಿರ ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ಬಹಾರ್ ಉಪಚಾರ: ಹೂಬಿಡಲು ಪ್ರೇರೇಪಿಸಲು ನೀರನ್ನು ತಡೆಹಿಡಿಯಿರಿ.",
+            "ಹಣ್ಣು ಕಚ್ಚುವುದು: ಲಘು ಪೋಷಕಾಂಶಗಳನ್ನು ಹಾಕಿ.",
+            "ಕೀಟ ನಿರ್ವಹಣೆ: ಸಿಟ್ರಸ್ ಸಿಲ್ಲಾ ಕೀಟದ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ.",
+            "ಕೊಯ್ಲು: ಬಣ್ಣ ಬಂದಾಗ ಹಣ್ಣುಗಳನ್ನು ಕತ್ತರಿಸಿ ಕೀಳಿರಿ."
+        ]
+    },
+    "Papaya": {
+        "crop_name_kn": "ಪಪ್ಪಾಯಿ",
+        "water_requirement": "Medium",
+        "water_requirement_kn": "ಮಧ್ಯಮ",
+        "growth_duration": "Perennial",
+        "growth_duration_kn": "ಬಹುವಾರ್ಷಿಕ",
+        "ideal_temperature": "21-33°C",
+        "ideal_temperature_kn": "21-33°C",
+        "lifecycle": [
+            "Nursery: Raise seedlings in polybags.",
+            "Establishment: Plant on raised beds.",
+            "Vegetative Growth: Ensure perfect drainage.",
+            "Flowering: Monitor for Ring Spot Virus.",
+            "Maturation: Support heavy stems.",
+            "Harvesting: Harvest when skin shows slight yellowing."
+        ],
+        "lifecycle_kn": [
+            "ನರ್ಸರಿ: ಪಾಲಿಬ್ಯಾಗ್‌ಗಳಲ್ಲಿ ಸಸಿಗಳನ್ನು ಬೆಳೆಸಿ.",
+            "ಸ್ಥಾಪನೆ: ಎತ್ತರದ ಬದುಗಳ ಮೇಲೆ ನಾಟಿ ಮಾಡಿ.",
+            "ಬೆಳವಣಿಗೆಯ ಹಂತ: ನೀರು ಸರಾಗವಾಗಿ ಹರಿದು ಹೋಗುವುದನ್ನು ಖಚಿತಪಡಿಸಿ.",
+            "ಹೂಬಿಡುವಿಕೆ: ರಿಂಗ್ ಸ್ಪಾಟ್ ವೈರಸ್ ರೋಗದ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ.",
+            "ಬಲಿಯುವಿಕೆ: ಭಾರವಾದ ಕಾಂಡಗಳಿಗೆ ಆಸರೆ ನೀಡಿ.",
+            "ಕೊಯ್ಲು: ಸಿಪ್ಪೆಯು ಸ್ವಲ್ಪ ಹಳದಿಯಾಗಲು ಪ್ರಾರಂಭಿಸಿದಾಗ ಕೊಯ್ಲು ಮಾಡಿ."
+        ]
+    },
+    "Pigeonpeas": {
+        "crop_name_kn": "ತೊಗರಿ",
+        "water_requirement": "Low",
+        "water_requirement_kn": "ಕಡಿಮೆ",
+        "growth_duration": "120-180 days",
+        "growth_duration_kn": "120-180 ದಿನಗಳು",
+        "ideal_temperature": "26-30°C",
+        "ideal_temperature_kn": "26-30°C",
+        "lifecycle": [
+            "Land Prep: Prepare deep seedbed.",
+            "Sowing: Treat seeds with Rhizobium.",
+            "Vegetative Phase: Keep weed-free early on.",
+            "Flowering Phase: Scout for pod borers.",
+            "Pod Maturation: Avoid waterlogging.",
+            "Harvesting: Harvest when pods turn brown."
+        ],
+        "lifecycle_kn": [
+            "ಭೂಮಿ ಸಿದ್ಧತೆ: ಆಳವಾದ ಬಿತ್ತನೆ ಪ್ರದೇಶ ಸಿದ್ಧಪಡಿಸಿ.",
+            "ಬಿತ್ತನೆ: ಬೀಜಗಳನ್ನು ರೈಜೋಬಿಯಂನೊಂದಿಗೆ ಉಪಚರಿಸಿ.",
+            "ಬೆಳವಣಿಗೆಯ ಹಂತ: ಆರಂಭದಲ್ಲಿ ಕಳೆ ಮುಕ್ತವಾಗಿಡಿ.",
+            "ಹೂಬಿಡುವ ಹಂತ: ಕಾಯಿ ಕೊರಕದ ಬಗ್ಗೆ ನಿಗಾ ಇರಿಸಿ.",
+            "ಕಾಯಿ ಬಲಿಯುವಿಕೆ: ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿಕೊಳ್ಳಿ.",
+            "ಕೊಯ್ಲು: ಕಾಯಿಗಳು ಕಂದು ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದಾಗ ಕೊಯ್ಲು ಮಾಡಿ."
+        ]
+    },
+    "Pomegranate": {
+        "crop_name_kn": "ದಾಳಿಂಬೆ",
+        "water_requirement": "Low",
+        "water_requirement_kn": "ಕಡಿಮೆ",
+        "growth_duration": "Perennial",
+        "growth_duration_kn": "ಬಹುವಾರ್ಷಿಕ",
+        "ideal_temperature": "25-35°C",
+        "ideal_temperature_kn": "25-35°C",
+        "lifecycle": [
+            "Planting: Plant saplings in enriched pits.",
+            "Training: Train to multi-stemmed system.",
+            "Bahar: Choose flowering season.",
+            "Fruit Development: Maintain uniform moisture.",
+            "Pest Control: Bag developing fruits.",
+            "Harvesting: Cut fruits when deeply colored."
+        ],
+        "lifecycle_kn": [
+            "ನಾಟಿ: ಪೋಷಕಾಂಶಯುಕ್ತ ಗುಂಡಿಗಳಲ್ಲಿ ಸಸಿಗಳನ್ನು ನೆಡಿ.",
+            "ತರಬೇತಿ: ಬಹು-ಕಾಂಡಗಳ ವ್ಯವಸ್ಥೆಗೆ ಆಕಾರ ನೀಡಿ.",
+            "ಬಹಾರ್: ಹೂಬಿಡುವ ಹಂಗಾಮನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+            "ಹಣ್ಣು ಅಭಿವೃದ್ಧಿ: ಸಮಾನ ತೇವಾಂಶವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ (ಕಾಯಿ ಒಡೆಯುವುದನ್ನು ತಪ್ಪಿಸಲು).",
+            "ಕೀಟ ನಿಯಂತ್ರಣ: ಬೆಳೆಯುತ್ತಿರುವ ಹಣ್ಣುಗಳಿಗೆ ಚೀಲ ಕಟ್ಟಿ.",
+            "ಕೊಯ್ಲು: ಹಣ್ಣಿಗೆ ಗಾಢ ಬಣ್ಣ ಬಂದಾಗ ಕೊಯ್ಲು ಮಾಡಿ."
+        ]
+    },
+    "Rice": {
+        "crop_name_kn": "ಭತ್ತ",
+        "water_requirement": "High",
+        "water_requirement_kn": "ಹೆಚ್ಚು",
+        "growth_duration": "110-150 days",
+        "growth_duration_kn": "110-150 ದಿನಗಳು",
+        "ideal_temperature": "20-35°C",
+        "ideal_temperature_kn": "20-35°C",
+        "lifecycle": [
+            "Nursery Preparation: Raise seedlings in flooded bed.",
+            "Puddling & Transplanting: Puddle field and transplant.",
+            "Tillering Stage: Maintain standing water.",
+            "Panicle Initiation: Drain briefly, then re-flood.",
+            "Grain Filling: Maintain water during flowering.",
+            "Harvesting: Harvest when panicles turn golden."
+        ],
+        "lifecycle_kn": [
+            "ಸಸಿಮಡಿ ಸಿದ್ಧತೆ: ನೀರು ನಿಂತ ಮಡಿಯಲ್ಲಿ ಸಸಿಗಳನ್ನು ಬೆಳೆಸಿ.",
+            "ಕೆಸರು ಮಾಡುವುದು ಮತ್ತು ನಾಟಿ: ಹೊಲದಲ್ಲಿ ಕೆಸರು ಮಾಡಿ ನಾಟಿ ಮಾಡಿ.",
+            "ಮರಿ ಒಡೆಯುವ ಹಂತ: ನಿಂತ ನೀರನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ.",
+            "ತೆನೆ ಬಿಡುವ ಹಂತ: ಸ್ವಲ್ಪ ಸಮಯ ನೀರು ಬರಿದುಮಾಡಿ, ನಂತರ ಮತ್ತೆ ನೀರು ಹರಿಸಿ.",
+            "ಕಾಳು ತುಂಬುವಿಕೆ: ಹೂಬಿಡುವಾಗ ನೀರಿನ ಮಟ್ಟ ಕಾಪಾಡಿ.",
+            "ಕೊಯ್ಲು: ತೆನೆಗಳು ಚಿನ್ನದ ಹಳದಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿದಾಗ ಕೊಯ್ಲು ಮಾಡಿ."
+        ]
+    },
+    "Watermelon": {
+        "crop_name_kn": "ಕಲ್ಲಂಗಡಿ",
+        "water_requirement": "High",
+        "water_requirement_kn": "ಹೆಚ್ಚು",
+        "growth_duration": "75-95 days",
+        "growth_duration_kn": "75-95 ದಿನಗಳು",
+        "ideal_temperature": "25-30°C",
+        "ideal_temperature_kn": "25-30°C",
+        "lifecycle": [
+            "Field Prep: Prepare sandy-loam soils with compost.",
+            "Sowing: Sow seeds directly with wide spacing.",
+            "Vine Growth: Lay plastic mulch.",
+            "Flowering: Protect bees for pollination.",
+            "Fruit Swelling: Reduce watering near end.",
+            "Harvesting: Harvest when underside turns yellow."
+        ],
+        "lifecycle_kn": [
+            "ಹೊಲ ಸಿದ್ಧತೆ: ಮರಳು ಮಿಶ್ರಿತ ಮಣ್ಣಿನಲ್ಲಿ ಕಾಂಪೋಸ್ಟ್ ಬೆರೆಸಿ ಸಿದ್ಧಪಡಿಸಿ.",
+            "ಬಿತ್ತನೆ: ಹೆಚ್ಚು ಅಂತರದಲ್ಲಿ ಬೀಜಗಳನ್ನು ಬಿತ್ತಿ.",
+            "ಬಳ್ಳಿ ಬೆಳವಣಿಗೆ: ಪ್ಲಾಸ್ಟಿಕ್ ಮಲ್ಚಿಂಗ್ ಬಳಸಿ.",
+            "ಹೂಬಿಡುವಿಕೆ: ಪರಾಗಸ್ಪರ್ಶಕ್ಕಾಗಿ ಜೇನುನೊಣಗಳನ್ನು ರಕ್ಷಿಸಿ.",
+            "ಹಣ್ಣು ದಪ್ಪಗಾಗುವಿಕೆ: ಕೊನೆಯ ಹಂತದಲ್ಲಿ ನೀರುಣಿಸುವುದನ್ನು ಕಡಿಮೆ ಮಾಡಿ.",
+            "ಕೊಯ್ಲು: ಕಾಯಿಯ ಕೆಳಭಾಗ ಹಳದಿಯಾದಾಗ ಕೊಯ್ಲು ಮಾಡಿ."
+        ]
+    }
+}

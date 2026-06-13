@@ -1,0 +1,6 @@
+Algorithm,Train Accuracy,Test Accuracy,CV Accuracy,Test F1
+Random Forest,1.0,0.95,0.96,0.8095
+Decision Tree,1.0,1.0,0.98,1.0
+XGBoost,1.0,1.0,0.99,1.0
+KNN,0.9747,0.9,0.8674,0.746
+SVM,0.8481,0.9,0.7463,0.75

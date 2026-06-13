@@ -1,0 +1,121 @@
+[
+    {
+        "Filename": "crop_encoders.pkl",
+        "Module": "crop",
+        "Creation_Timestamp": "2026-06-02T08:21:32.525499",
+        "File_Size_Bytes": 844,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\models\\crop_encoders.pkl"
+    },
+    {
+        "Filename": "crop_features.json",
+        "Module": "crop",
+        "Creation_Timestamp": "2026-06-02T08:21:32.525499",
+        "File_Size_Bytes": 152,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\models\\crop_features.json"
+    },
+    {
+        "Filename": "crop_model.pkl",
+        "Module": "crop",
+        "Creation_Timestamp": "2026-06-02T08:21:33.657958",
+        "File_Size_Bytes": 3547817,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\models\\crop_model.pkl"
+    },
+    {
+        "Filename": "classification_report.png",
+        "Module": "crop",
+        "Creation_Timestamp": "2026-06-02T08:21:34.919103",
+        "File_Size_Bytes": 215600,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\results\\crop\\classification_report.png"
+    },
+    {
+        "Filename": "confusion_matrix.png",
+        "Module": "crop",
+        "Creation_Timestamp": "2026-06-02T08:21:35.689054",
+        "File_Size_Bytes": 345355,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\results\\crop\\confusion_matrix.png"
+    },
+    {
+        "Filename": "feature_importance_rf.png",
+        "Module": "crop",
+        "Creation_Timestamp": "2026-06-02T08:21:36.035436",
+        "File_Size_Bytes": 60078,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\results\\crop\\feature_importance_rf.png"
+    },
+    {
+        "Filename": "feature_importance_xgb.png",
+        "Module": "crop",
+        "Creation_Timestamp": "2026-06-02T08:21:36.374153",
+        "File_Size_Bytes": 61889,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\results\\crop\\feature_importance_xgb.png"
+    },
+    {
+        "Filename": "model_comparison.csv",
+        "Module": "crop",
+        "Creation_Timestamp": "2026-06-02T08:21:33.649999",
+        "File_Size_Bytes": 229,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\results\\crop\\model_comparison.csv"
+    },
+    {
+        "Filename": "fertilizer_encoders.pkl",
+        "Module": "fertilizer",
+        "Creation_Timestamp": "2026-06-02T08:21:37.045182",
+        "File_Size_Bytes": 1374,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\models\\fertilizer_encoders.pkl"
+    },
+    {
+        "Filename": "fertilizer_features.json",
+        "Module": "fertilizer",
+        "Creation_Timestamp": "2026-06-02T08:21:37.043675",
+        "File_Size_Bytes": 206,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\models\\fertilizer_features.json"
+    },
+    {
+        "Filename": "fertilizer_model.pkl",
+        "Module": "fertilizer",
+        "Creation_Timestamp": "2026-06-02T08:21:46.973216",
+        "File_Size_Bytes": 507363,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\models\\fertilizer_model.pkl"
+    },
+    {
+        "Filename": "classification_report.png",
+        "Module": "fertilizer",
+        "Creation_Timestamp": "2026-06-02T08:21:47.243775",
+        "File_Size_Bytes": 91832,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\results\\fertilizer\\classification_report.png"
+    },
+    {
+        "Filename": "confusion_matrix.png",
+        "Module": "fertilizer",
+        "Creation_Timestamp": "2026-06-02T08:21:47.544510",
+        "File_Size_Bytes": 137076,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\results\\fertilizer\\confusion_matrix.png"
+    },
+    {
+        "Filename": "feature_importance_rf.png",
+        "Module": "fertilizer",
+        "Creation_Timestamp": "2026-06-02T08:21:47.862557",
+        "File_Size_Bytes": 84423,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\results\\fertilizer\\feature_importance_rf.png"
+    },
+    {
+        "Filename": "feature_importance_xgb.png",
+        "Module": "fertilizer",
+        "Creation_Timestamp": "2026-06-02T08:21:48.110582",
+        "File_Size_Bytes": 86107,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\results\\fertilizer\\feature_importance_xgb.png"
+    },
+    {
+        "Filename": "model_comparison.csv",
+        "Module": "fertilizer",
+        "Creation_Timestamp": "2026-06-02T08:21:46.967241",
+        "File_Size_Bytes": 211,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\results\\fertilizer\\model_comparison.csv"
+    },
+    {
+        "Filename": "trained_plant_disease_model.pth",
+        "Module": "disease",
+        "Creation_Timestamp": "2025-07-03T02:27:34",
+        "File_Size_Bytes": 94668151,
+        "Original_Location": "I:\\4th SEM\\IOT\\EL\\IOT PROJECT\\backend\\ml\\trained_plant_disease_model.pth"
+    }
+]

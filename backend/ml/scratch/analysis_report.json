@@ -1,0 +1,653 @@
+{
+    "apple_apple_scab": {
+        "original_names": [
+            "Apple___Apple_scab"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 2016,
+        "dataset_counts": {
+            "D1": 2016
+        }
+    },
+    "apple_black_rot": {
+        "original_names": [
+            "Apple___Black_rot"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1987,
+        "dataset_counts": {
+            "D1": 1987
+        }
+    },
+    "apple_cedar_apple_rust": {
+        "original_names": [
+            "Apple___Cedar_apple_rust"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1760,
+        "dataset_counts": {
+            "D1": 1760
+        }
+    },
+    "apple_healthy": {
+        "original_names": [
+            "Apple___healthy"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 2008,
+        "dataset_counts": {
+            "D1": 2008
+        }
+    },
+    "corn_(maize)_cercospora_leaf_spot_gray_leaf_spot": {
+        "original_names": [
+            "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1642,
+        "dataset_counts": {
+            "D1": 1642
+        }
+    },
+    "corn_(maize)_common_rust_": {
+        "original_names": [
+            "Corn_(maize)___Common_rust_"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1907,
+        "dataset_counts": {
+            "D1": 1907
+        }
+    },
+    "corn_(maize)_healthy": {
+        "original_names": [
+            "Corn_(maize)___healthy"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1859,
+        "dataset_counts": {
+            "D1": 1859
+        }
+    },
+    "corn_(maize)_northern_leaf_blight": {
+        "original_names": [
+            "Corn_(maize)___Northern_Leaf_Blight"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1908,
+        "dataset_counts": {
+            "D1": 1908
+        }
+    },
+    "grape_black_rot": {
+        "original_names": [
+            "Grape___Black_rot"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1888,
+        "dataset_counts": {
+            "D1": 1888
+        }
+    },
+    "grape_esca_(black_measles)": {
+        "original_names": [
+            "Grape___Esca_(Black_Measles)"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1920,
+        "dataset_counts": {
+            "D1": 1920
+        }
+    },
+    "grape_healthy": {
+        "original_names": [
+            "Grape___healthy"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1692,
+        "dataset_counts": {
+            "D1": 1692
+        }
+    },
+    "grape_leaf_blight_(isariopsis_leaf_spot)": {
+        "original_names": [
+            "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1722,
+        "dataset_counts": {
+            "D1": 1722
+        }
+    },
+    "orange_haunglongbing_(citrus_greening)": {
+        "original_names": [
+            "Orange___Haunglongbing_(Citrus_greening)"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 2010,
+        "dataset_counts": {
+            "D1": 2010
+        }
+    },
+    "pepper,_bell_bacterial_spot": {
+        "original_names": [
+            "Pepper,_bell___Bacterial_spot"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1913,
+        "dataset_counts": {
+            "D1": 1913
+        }
+    },
+    "pepper,_bell_healthy": {
+        "original_names": [
+            "Pepper,_bell___healthy"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1988,
+        "dataset_counts": {
+            "D1": 1988
+        }
+    },
+    "potato_early_blight": {
+        "original_names": [
+            "Potato___Early_Blight",
+            "Potato___Early_blight"
+        ],
+        "datasets": [
+            "D3",
+            "D1",
+            "D2"
+        ],
+        "total_count": 3939,
+        "dataset_counts": {
+            "D1": 1939,
+            "D2": 1000,
+            "D3": 1000
+        }
+    },
+    "potato_healthy": {
+        "original_names": [
+            "Potato___healthy",
+            "Potato___Healthy"
+        ],
+        "datasets": [
+            "D3",
+            "D1",
+            "D2"
+        ],
+        "total_count": 2128,
+        "dataset_counts": {
+            "D1": 1824,
+            "D2": 152,
+            "D3": 152
+        }
+    },
+    "potato_late_blight": {
+        "original_names": [
+            "Potato___Late_Blight",
+            "Potato___Late_blight"
+        ],
+        "datasets": [
+            "D3",
+            "D1",
+            "D2"
+        ],
+        "total_count": 3939,
+        "dataset_counts": {
+            "D1": 1939,
+            "D2": 1000,
+            "D3": 1000
+        }
+    },
+    "raspberry_healthy": {
+        "original_names": [
+            "Raspberry___healthy"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1781,
+        "dataset_counts": {
+            "D1": 1781
+        }
+    },
+    "soybean_healthy": {
+        "original_names": [
+            "Soybean___healthy"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 2022,
+        "dataset_counts": {
+            "D1": 2022
+        }
+    },
+    "squash_powdery_mildew": {
+        "original_names": [
+            "Squash___Powdery_mildew"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1736,
+        "dataset_counts": {
+            "D1": 1736
+        }
+    },
+    "strawberry_healthy": {
+        "original_names": [
+            "Strawberry___healthy"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 0,
+        "dataset_counts": {
+            "D1": 0
+        }
+    },
+    "strawberry_leaf_scorch": {
+        "original_names": [
+            "Strawberry___Leaf_scorch"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 1774,
+        "dataset_counts": {
+            "D1": 1774
+        }
+    },
+    "tomato_bacterial_spot": {
+        "original_names": [
+            "Tomato___Bacterial_spot",
+            "Tomato_Bacterial_spot"
+        ],
+        "datasets": [
+            "D1",
+            "D2"
+        ],
+        "total_count": 2127,
+        "dataset_counts": {
+            "D1": 0,
+            "D2": 2127
+        }
+    },
+    "tomato_early_blight": {
+        "original_names": [
+            "Tomato___Early_blight",
+            "Tomato_Early_blight"
+        ],
+        "datasets": [
+            "D1",
+            "D2"
+        ],
+        "total_count": 1000,
+        "dataset_counts": {
+            "D1": 0,
+            "D2": 1000
+        }
+    },
+    "tomato_healthy": {
+        "original_names": [
+            "Tomato___healthy",
+            "Tomato_healthy"
+        ],
+        "datasets": [
+            "D1",
+            "D2"
+        ],
+        "total_count": 1591,
+        "dataset_counts": {
+            "D1": 0,
+            "D2": 1591
+        }
+    },
+    "tomato_late_blight": {
+        "original_names": [
+            "Tomato___Late_blight",
+            "Tomato_Late_blight"
+        ],
+        "datasets": [
+            "D1",
+            "D2"
+        ],
+        "total_count": 1909,
+        "dataset_counts": {
+            "D1": 0,
+            "D2": 1909
+        }
+    },
+    "tomato_leaf_mold": {
+        "original_names": [
+            "Tomato___Leaf_Mold",
+            "Tomato_Leaf_Mold"
+        ],
+        "datasets": [
+            "D1",
+            "D2"
+        ],
+        "total_count": 952,
+        "dataset_counts": {
+            "D1": 0,
+            "D2": 952
+        }
+    },
+    "tomato_septoria_leaf_spot": {
+        "original_names": [
+            "Tomato___Septoria_leaf_spot",
+            "Tomato_Septoria_leaf_spot"
+        ],
+        "datasets": [
+            "D1",
+            "D2"
+        ],
+        "total_count": 1771,
+        "dataset_counts": {
+            "D1": 0,
+            "D2": 1771
+        }
+    },
+    "tomato_spider_mites_two-spotted_spider_mite": {
+        "original_names": [
+            "Tomato___Spider_mites Two-spotted_spider_mite"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 0,
+        "dataset_counts": {
+            "D1": 0
+        }
+    },
+    "tomato_target_spot": {
+        "original_names": [
+            "Tomato__Target_Spot",
+            "Tomato___Target_Spot"
+        ],
+        "datasets": [
+            "D1",
+            "D2"
+        ],
+        "total_count": 1404,
+        "dataset_counts": {
+            "D1": 0,
+            "D2": 1404
+        }
+    },
+    "tomato_tomato_mosaic_virus": {
+        "original_names": [
+            "Tomato___Tomato_mosaic_virus",
+            "Tomato__Tomato_mosaic_virus"
+        ],
+        "datasets": [
+            "D1",
+            "D2"
+        ],
+        "total_count": 373,
+        "dataset_counts": {
+            "D1": 0,
+            "D2": 373
+        }
+    },
+    "tomato_tomato_yellow_leaf_curl_virus": {
+        "original_names": [
+            "Tomato___Tomato_Yellow_Leaf_Curl_Virus"
+        ],
+        "datasets": [
+            "D1"
+        ],
+        "total_count": 0,
+        "dataset_counts": {
+            "D1": 0
+        }
+    },
+    "pepper_bell_bacterial_spot": {
+        "original_names": [
+            "Pepper__bell___Bacterial_spot"
+        ],
+        "datasets": [
+            "D2"
+        ],
+        "total_count": 997,
+        "dataset_counts": {
+            "D2": 997
+        }
+    },
+    "pepper_bell_healthy": {
+        "original_names": [
+            "Pepper__bell___healthy"
+        ],
+        "datasets": [
+            "D2"
+        ],
+        "total_count": 1478,
+        "dataset_counts": {
+            "D2": 1478
+        }
+    },
+    "tomato_spider_mites_two_spotted_spider_mite": {
+        "original_names": [
+            "Tomato_Spider_mites_Two_spotted_spider_mite"
+        ],
+        "datasets": [
+            "D2"
+        ],
+        "total_count": 1676,
+        "dataset_counts": {
+            "D2": 1676
+        }
+    },
+    "tomato_tomato_yellowleaf_curl_virus": {
+        "original_names": [
+            "Tomato__Tomato_YellowLeaf__Curl_Virus"
+        ],
+        "datasets": [
+            "D2"
+        ],
+        "total_count": 3208,
+        "dataset_counts": {
+            "D2": 3208
+        }
+    },
+    "corn_common_rust": {
+        "original_names": [
+            "Corn___Common_Rust"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 1192,
+        "dataset_counts": {
+            "D3": 1192
+        }
+    },
+    "corn_gray_leaf_spot": {
+        "original_names": [
+            "Corn___Gray_Leaf_Spot"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 513,
+        "dataset_counts": {
+            "D3": 513
+        }
+    },
+    "corn_healthy": {
+        "original_names": [
+            "Corn___Healthy"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 1162,
+        "dataset_counts": {
+            "D3": 1162
+        }
+    },
+    "corn_northern_leaf_blight": {
+        "original_names": [
+            "Corn___Northern_Leaf_Blight"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 985,
+        "dataset_counts": {
+            "D3": 985
+        }
+    },
+    "rice_brown_spot": {
+        "original_names": [
+            "Rice___Brown_Spot"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 613,
+        "dataset_counts": {
+            "D3": 613
+        }
+    },
+    "rice_healthy": {
+        "original_names": [
+            "Rice___Healthy"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 1488,
+        "dataset_counts": {
+            "D3": 1488
+        }
+    },
+    "rice_leaf_blast": {
+        "original_names": [
+            "Rice___Leaf_Blast"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 977,
+        "dataset_counts": {
+            "D3": 977
+        }
+    },
+    "rice_neck_blast": {
+        "original_names": [
+            "Rice___Neck_Blast"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 1000,
+        "dataset_counts": {
+            "D3": 1000
+        }
+    },
+    "sugarcane_bacterial_blight": {
+        "original_names": [
+            "Sugarcane_Bacterial Blight"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 100,
+        "dataset_counts": {
+            "D3": 100
+        }
+    },
+    "sugarcane_healthy": {
+        "original_names": [
+            "Sugarcane_Healthy"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 100,
+        "dataset_counts": {
+            "D3": 100
+        }
+    },
+    "sugarcane_red_rot": {
+        "original_names": [
+            "Sugarcane_Red Rot"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 100,
+        "dataset_counts": {
+            "D3": 100
+        }
+    },
+    "wheat_brown_rust": {
+        "original_names": [
+            "Wheat___Brown_Rust"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 902,
+        "dataset_counts": {
+            "D3": 902
+        }
+    },
+    "wheat_healthy": {
+        "original_names": [
+            "Wheat___Healthy"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 1116,
+        "dataset_counts": {
+            "D3": 1116
+        }
+    },
+    "wheat_yellow_rust": {
+        "original_names": [
+            "Wheat___Yellow_Rust"
+        ],
+        "datasets": [
+            "D3"
+        ],
+        "total_count": 924,
+        "dataset_counts": {
+            "D3": 924
+        }
+    }
+}

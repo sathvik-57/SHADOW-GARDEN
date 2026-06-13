@@ -1,0 +1,16 @@
+Actual,Predicted,Count
+"Pepper,_Healthy",Pepper_Healthy,123
+"Pepper,_Bacterial_Spot",Pepper_Bacterial_Spot,67
+Pepper_Bacterial_Spot,"Pepper,_Bacterial_Spot",29
+Corn_Gray_Leaf_Spot,Corn_Cercospora_Leaf_Spot_Gray_Leaf_Spot,28
+Corn_Cercospora_Leaf_Spot_Gray_Leaf_Spot,Corn_Gray_Leaf_Spot,23
+Rice_Leaf_Blast,Rice_Healthy,13
+Rice_Leaf_Blast,Rice_Brown_Spot,10
+Rice_Brown_Spot,Rice_Leaf_Blast,9
+Rice_Brown_Spot,Rice_Healthy,5
+Tomato_Late_Blight,Tomato_Early_Blight,2
+Rice_Healthy,Rice_Brown_Spot,2
+Sugarcane_Red_Rot,Sugarcane_Bacterial_Blight,2
+Corn_Cercospora_Leaf_Spot_Gray_Leaf_Spot,Corn_Northern_Leaf_Blight,1
+Corn_Northern_Leaf_Blight,Corn_Cercospora_Leaf_Spot_Gray_Leaf_Spot,1
+Corn_Gray_Leaf_Spot,Corn_Northern_Leaf_Blight,1

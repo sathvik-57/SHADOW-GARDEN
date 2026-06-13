@@ -1,0 +1,5 @@
+{
+    "train_total": 54889,
+    "valid_total": 6847,
+    "test_total": 6898
+}

@@ -1,0 +1,8 @@
+{
+    "Train_Accuracy": 0.9636721383155095,
+    "Validation_Accuracy": 0.9556009931356798,
+    "Test_Accuracy": 0.9556393157436939,
+    "Training_Time_Seconds": 11103.769155979156,
+    "Final_Model_Size_MB": 90.33784294128418,
+    "Number_Of_Classes": 45
+}

@@ -1,0 +1,12 @@
+{
+    "features": [
+        "Temparature",
+        "Humidity",
+        "Moisture",
+        "Soil Type",
+        "Crop Type",
+        "Nitrogen",
+        "Potassium",
+        "Phosphorous"
+    ]
+}
